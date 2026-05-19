@@ -1,0 +1,6 @@
+#all words must be lowercase only
+journal
+encyclopedia
+encyclopédie
+radio
+times

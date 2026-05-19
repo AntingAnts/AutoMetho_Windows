@@ -1,0 +1,2271 @@
+<!DOCTYPE html>
+<html class="no-js" lang="fr">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <meta content="news" name="medium">
+   <script>
+    (function () {
+        var ua = navigator.userAgent || '';
+        var isIpad = /iPad/.test(ua) || (/Macintosh/.test(ua) && navigator.maxTouchPoints > 1);
+        var appId = isIpad ? '909476802' : '1119227195'; // iphone fallback
+        document.write('<meta name="apple-itunes-app" content="app-id=' + appId + '">');
+    })();
+   </script>
+   <meta content="41495029935-0kaotq6308i9e04sbmimsaeapc80jj7l.apps.googleusercontent.com" name="google-signin-client_id"/>
+   <meta content="app-id=com.ledevoir.journaltablette.and" name="google-play-app"/>
+   <meta content="on" name="twitter:widgets:csp"/>
+   <link crossorigin="" href="https://rdc.m32.media" rel="preconnect"/>
+   <link crossorigin="" href="https://seg.m32.media" rel="preconnect"/>
+   <link crossorigin="" href="https://upx.m32.media" rel="preconnect"/>
+   <link crossorigin="" href="https://media1.ledevoir.com" rel="preconnect"/>
+   <link crossorigin="" href="https://media2.ledevoir.com" rel="preconnect"/>
+   <link as="font" crossorigin="" href="/fonts/publico/PublicoHeadline-Light-Web.woff2" rel="preload" type="font/woff2"/>
+   <link as="font" crossorigin="" href="/fonts/lota-grotesque/LotaGrotesque-Regular.woff2" rel="preload" type="font/woff2"/>
+   <meta content="Le Devoir" property="og:site_name">
+    <meta content="https://www.ledevoir.com/opinion/idees/874345/idees-il-faut-on-parle-troubles-mentaux-graves" property="og:url">
+     <link href="https://www.ledevoir.com/opinion/idees/874345/idees-il-faut-on-parle-troubles-mentaux-graves" rel="canonical">
+      <meta content="telephone=no" name="format-detection"/>
+      <script async="" src="https://cdn.cxense.com/cx.cce.js" type="text/javascript">
+      </script>
+      <script src="https://cdn.cxense.com/cx.js" type="text/javascript">
+      </script>
+      <script type="text/javascript">
+       window.gdprAppliesGlobally=false;(function(){function n(e){if(!window.frames[e]){if(document.body&&document.body.firstChild){var t=document.body;var r=document.createElement("iframe");r.style.display="none";r.name=e;r.title=e;t.insertBefore(r,t.firstChild)}else{setTimeout(function(){n(e)},5)}}}function e(r,a,o,c,s){function e(e,t,r,n){if(typeof r!=="function"){return}if(!window[a]){window[a]=[]}var i=false;if(s){i=s(e,n,r)}if(!i){window[a].push({command:e,version:t,callback:r,parameter:n})}}e.stub=true;e.stubVersion=2;function t(n){if(!window[r]||window[r].stub!==true){return}if(!n.data){return}var i=typeof n.data==="string";var e;try{e=i?JSON.parse(n.data):n.data}catch(t){return}if(e[o]){var a=e[o];window[r](a.command,a.version,function(e,t){var r={};r[c]={returnValue:e,success:t,callId:a.callId};n.source.postMessage(i?JSON.stringify(r):r,"*")},a.parameter)}}if(typeof window[r]!=="function"){window[r]=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}}e("__tcfapi","__tcfapiBuffer","__tcfapiCall","__tcfapiReturn");n("__tcfapiLocator");(function(e,t){var r=document.createElement("link");r.rel="preconnect";r.as="script";var n=document.createElement("link");n.rel="dns-prefetch";n.as="script";var i=document.createElement("link");i.rel="preload";i.as="script";var a=document.createElement("script");a.id="spcloader";a.type="text/javascript";a["async"]=true;a.charset="utf-8";var o="https://sdk.privacy-center.org/"+e+"/loader.js?target_type=notice&target="+t;if(window.didomiConfig&&window.didomiConfig.user){var c=window.didomiConfig.user;var s=c.country;var d=c.region;if(s){o=o+"&country="+s;if(d){o=o+"&region="+d}}}r.href="https://sdk.privacy-center.org/";n.href="https://sdk.privacy-center.org/";i.href=o;a.src=o;var f=document.getElementsByTagName("script")[0];f.parentNode.insertBefore(r,f);f.parentNode.insertBefore(n,f);f.parentNode.insertBefore(i,f);f.parentNode.insertBefore(a,f)})("60303402-8820-4cba-973b-6958bfca11f5","BZN4HfTE")})();window.didomiConfig={languages:{enabled:['fr'],default:'fr'}};
+      </script>
+      <script type="text/javascript">
+       cX = window.cX = window.cX || {};
+    cXPersistQ = 'fe4201a54f87382f43553e28b092dbeca370d142';
+    cX.callQueue = cX.callQueue || [];
+    cX.callQueue.push(['setSiteId', '1151007573532994417']);
+    cX.callQueue.push(['sendPageViewEvent', 'prefix', cXPersistQ]);
+    tp = window.tp || [];
+    tp.push(["setAid", 'rRgpSk2Ipu']);
+    tp.push(["setCxenseSiteId", '1151007573532994417']);
+    tp.push(["setEndpoint", 'https://buy.tinypass.com/api/v3']);
+    tp.push(["setUseTinypassAccounts", false]);
+    tp.push(["setUsePianoIdUserProvider", true]);
+      </script>
+      <script async="" src="https://cdn.tinypass.com/api/tinypass.min.js" type="text/javascript">
+      </script>
+      <script>
+       (r=>{let e=null;function s(){return e=e||new Promise(function(t,n){let o=0,i=20,s=100;!function e(){if(r.cX&&"function"==typeof r.cX.getSegments)try{r.cX.getSegments(r.cXPersistQ,function(e){if(!e)return t([]);t(e)})}catch(e){n(e)}else++o<i?setTimeout(e,s):n(new Error("cX.getSegments n'est pas disponible après "+i+" tentatives"))}()})}r.didomiOnReady=r.didomiOnReady||[],r.m32_context=r.m32_context||{},r.didomiOnReady.push(function(){var e,t,n=Didomi.getCurrentUserStatus().purposes||{},n=n.create_ads_profile?.enabled&&n.select_personalized_ads?.enabled&&n.market_research?.enabled&&n.geolocation_data?.enabled;function o(e){let n=[],o=[];return r.cX.Array.forEach(e,function(e,t){("contextual"===e.type?n:o).push(e.id)}),{CxContexts:n,CxSegments:o}}function i(e,t){try{var n,o=localStorage.getItem(e);return o?!(n=JSON.parse(o))||!n.ts||Date.now()-n.ts>t?null:n.segments||[]:null}catch(e){return null}}(n?(t=i("cx_segments",6e5),e=i("cx_contexts",6e5),t?(r.m32_context.CxSegments=t,r.m32_context.CxContexts=e||[],Promise.resolve()):(r.m32_context.CxContexts=[],r.m32_context.CxSegments=[],s().then(function(e){e=o(e);r.m32_context.CxSegments=e.CxSegments||[],r.m32_context.CxContexts=e.CxContexts||[]}).catch(function(e){}))):Promise.resolve()).finally(()=>{var e;(e=document.createElement("script")).src="https://cdn.cxense.com/ari.js",e.onload=function(){var e=document.createElement("script");e.src="//rdc.m32.media/madops.min.js",document.head.appendChild(e)},document.head.appendChild(e),(async()=>{let e=0;for(;void 0===r.madops&&e<20;)e++,await new Promise(e=>setTimeout(e,100))})().finally(()=>{"undefined"!=typeof m32&&(m32.initDynamicAds(),r.pubs=new App.Publicite,pubs.setRenderEventEnded(googletag))})}),n&&r.addEventListener("load",function(){r.cX.callQueue.push(["invoke",function(){r.cX.getSegments(r.cXPersistQ,function(e){if(e){e=o(e);try{localStorage.setItem("cx_segments",JSON.stringify({segments:e.CxSegments||[],ts:Date.now()})),localStorage.setItem("cx_contexts",JSON.stringify({segments:e.CxContexts||[],ts:Date.now()}))}catch(e){}}})}])}),"undefined"!=typeof Didomi&&Didomi.isConsentRequired()||(t=document.querySelector('li > a[href^="javascript:Didomi.preferences.show"]'))&&t.parentElement&&t.parentElement.classList.add("d-none")})})(window),function(e){e=e.App=e.App||{};if(!e.Publicite){class t{constructor(e={}){this.context=e.context||"base"}static getInstance(...e){return this._instance||(this._instance=new this(...e)),this._instance}renderedPubs=new Map;setRenderEventEnded(e){e&&e.cmd.push(()=>{e.pubads().addEventListener("slotRenderEnded",this.listenerSlotRenderEnded)})}getSlotFormat(e){if(e.element)return e.element.querySelector('[class*="genecyAd-parallaxer-eCont"]')?"parallaxer":e.element.querySelector('[class*="genecyAd-responsiver-eCont"]')?"responsiver":"standard"}listenerSlotRenderEnded=e=>{var t,n;!e.isEmpty&&(t=e.slot.getSlotElementId(),n=document.getElementById(t).closest(".cloned-pub"))&&(n.classList.add("rendered"),(n={element:n,slot:e.slot}).format=this.getSlotFormat(n),this.renderedPubs.set(t,n),e.slot.getSizes().map(e=>e.getWidth()+"x"+e.getHeight()),this.postRender(n))};postRender(e){var t;"parallaxer"!==e.format&&document.querySelector("body").classList.contains("article_module")&&(t=e.element.getAttribute("class")||"",e.element.setAttribute("class",(t+" publicite-full-width").trim()))}setChildUniqueAttrId(e,t){var n,e=e.querySelector("div.pub > div");e&&(n=e.id&&""!==e.id.trim()?e.id:"MX",e.id=n+"_"+t)}}e.Publicite=t}}(window),(()=>{var e=window.App||{};class t extends e.Publicite{constructor(e={}){super({...e,context:"article"})}load(){var e=document.querySelectorAll(".inject-publicite");let n=document.querySelector(".pub-to-clone"),o=document.querySelector(".pub-to-clone-a2"),i=window.matchMedia("(max-width: 575.98px)").matches,s=0,r=(e.forEach(t=>{if(t.classList.contains("all-devices")||i===t.classList.contains("mobile-only")){s++;let e;(e=(1===s?o:n).cloneNode(!0)).classList.add("cloned-pub"),e.setAttribute("id","cloned-pub-"+s),t.insertAdjacentElement("afterend",e),t.remove()}}),n.remove(),o.remove(),window.matchMedia("(min-width: 1400px)"));if(!r.matches){let t=e=>{e.matches&&(requestAnimationFrame(()=>this.positionA4()),r.removeEventListener?r.removeEventListener("change",t):r.removeListener(t))};r.addEventListener?r.addEventListener("change",t):r.addListener(t)}else this.positionA4()}positionA4(){var t=document.getElementById("A4"),n=document.getElementById("A2");if(t&&n){var o=document.querySelector("div.article-text");if(o){let e=n.getBoundingClientRect().top;n=o.querySelector(".extra-exergue-citation:not(:nth-child(-n+5)), .extra-blockquote:not(:nth-child(-n+5)), .extra-encadre-texte:not(.lire-aussi):not(.sommaire):not(:nth-child(-n+5)), .extra-diaporama"),n=(n&&n.getBoundingClientRect().top<e&&(e=n.getBoundingClientRect().top),Math.floor(e-o.getBoundingClientRect().top));660<n&&(o=Math.floor((n-620)/2),t.style.marginTop=o+"px",t.parentElement.classList.remove("d-none"))}}}}e.PubliciteArticle=t})();
+      </script>
+      <script>
+       document.cookie = "__adblocker=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/"; var setNptTechAdblockerCookie = function(adblocker) { var d = new Date(); d.setTime(d.getTime() + 60 * 5 * 1000); document.cookie = "__adblocker=" + (adblocker ? "true" : "false") + "; expires=" + d.toUTCString() + "; path=/"; }; var script = document.createElement("script"); script.setAttribute("async", true); script.setAttribute("src", "//www.npttech.com/advertising.js"); script.setAttribute("onerror", "setNptTechAdblockerCookie(true);"); script.setAttribute("type", "text/javascript"); document.getElementsByTagName("head")[0].appendChild(script);
+      </script>
+      <script crossorigin="anonymous" src="https://tag.aticdn.net/js-sdk/piano-analytics-6.15.2.js" type="text/javascript">
+      </script>
+      <script type="text/javascript">
+       var tag = window.pa;
+    if (typeof tag !== 'undefined') {
+        tag.setConfigurations({
+            site: '626664',
+            collectDomain: 'https://pbxtgtd.pa-cd.com'
+        });
+    } else {
+        console.log("Piano Analytics n'est pas defini");
+    }
+      </script>
+      <script src="/js/analytics/Ga4GetUserInfo.js?20260205" type="text/javascript">
+      </script>
+      <script src="/js/analytics/refontePianoPaywallEventListener.js?20260108" type="text/javascript">
+      </script>
+      <meta content="105451392851924" property="fb:app_id">
+       <meta content="98317905527" property="fb:pages">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+         <meta content="Il faut qu’on parle des troubles mentaux graves et de la manière dont on les soigne | Le Devoir" name="title">
+          <meta content="Les gens qui en sont atteints comprennent rarement qu’ils sont malades, surtout en période de crise." name="description"/>
+          <meta content="fr" name="language"/>
+          <title>
+           Il faut qu’on parle des troubles mentaux graves et de la manière dont on les soigne | Le Devoir
+          </title>
+          <script src="//ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js">
+          </script>
+          <link href="//ajax.googleapis.com/ajax/libs/jqueryui/1.13.3/themes/smoothness/jquery-ui.css" rel="stylesheet"/>
+          <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.13.3/jquery-ui.min.js">
+          </script>
+          <script crossorigin="anonymous" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" src="//cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js">
+          </script>
+          <meta content="https://media2.ledevoir.com/image/874345.jpg?crop=3%3A2%2Csmart&amp;width=1600&amp;ts=1746120027" property="og:image"/>
+          <link href="https://media2.ledevoir.com/image/874345.jpg?crop=3%3A2%2Csmart&amp;width=1600&amp;ts=1746120027" rel="image_src">
+           <script src="/js/web-push.js?20250925">
+           </script>
+           <meta content="Il faut qu’on parle des troubles mentaux graves" property="og:title"/>
+           <meta content="Les gens qui en sont atteints comprennent rarement qu’ils sont malades, surtout en période de crise." property="og:description"/>
+           <meta content="article" property="og:type"/>
+           <meta content="true" property="article:opinion"/>
+           <meta content="metered" property="article:content_tier"/>
+           <meta content="city:montreal" property="article:location"/>
+           <meta content="2025-05-01T04:00:00Z" property="article:published_time"/>
+           <meta content="2025-05-01T04:00:00Z" property="cXenseParse:publishtime"/>
+           <meta content="874345" name="cXenseParse:articleid"/>
+           <meta content="5" name="cXenseParse:mzp-article-temps-lecture"/>
+           <meta content="Il faut qu’on parle des troubles mentaux graves" name="cXenseParse:title">
+            <meta content="Les gens qui en sont atteints comprennent rarement qu’ils sont malades, surtout en période de crise." name="cXenseParse:description"/>
+            <meta content="https://www.ledevoir.com/opinion/idees/874345/idees-il-faut-on-parle-troubles-mentaux-graves" name="cXenseParse:url"/>
+            <meta content="article" name="cXenseParse:pageclass"/>
+            <meta content="Social Issues" property="article:tag"/>
+            <meta content="summary_large_image" name="twitter:card"/>
+            <meta content="@LeDevoir" name="twitter:site"/>
+            <meta content="Idées | Il faut qu’on parle des troubles mentaux graves" name="twitter:title"/>
+            <meta content="Les gens qui en sont atteints comprennent rarement qu’ils sont malades, surtout en période de crise." name="twitter:description"/>
+            <meta content="www.ledevoir.com" name="twitter:domain"/>
+            <script type="application/ld+json">
+             {"@context":"https://schema.org","@type":"OpinionNewsArticle","url":"https://www.ledevoir.com/opinion/idees/874345/idees-il-faut-on-parle-troubles-mentaux-graves","isAccessibleForFree":false,"inLanguage":"fr-CA","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.ledevoir.com/opinion/idees/874345/idees-il-faut-on-parle-troubles-mentaux-graves"},"headline":"Il faut qu’on parle des troubles mentaux graves","author":[{"@type":"Person","name":"Claire Gamache et Maxime Dussault-Laurendeau"}],"publisher":{"@type":"Organization","name":"Le Devoir","logo":{"@type":"ImageObject","url":"https://www.ledevoir.com/images/nweb/logo_ledevoir.svg"},"url":"https://www.ledevoir.com","sameAs":["https://www.facebook.com/ledevoir/","https://www.instagram.com/ledevoir/","https://www.linkedin.com/company/le-devoir","https://x.com/LeDevoir"]},"description":"Les gens qui en sont atteints comprennent rarement qu’ils sont malades, surtout en période de crise.","isPartOf":{"@type":["CreativeWork","Product"],"name":"Le Devoir","productID":"ledevoir.com:showcase"},"datePublished":"2025-05-01T00:00:00-04:00","keywords":"psychiatrie, santé mentale","articleSection":"Idées","image":{"@type":"ImageObject","url":"https://media2.ledevoir.com/image/874345.jpg?crop=3%3A2%2Csmart&width=1600&ts=1746120027"}}
+            </script>
+            <script async="" src="https://rdc.m32.media/m32pixel.min.js" type="text/javascript">
+            </script>
+            <script type="text/javascript">
+             m32_context = window.m32_context || [];
+            m32_context = {"sous-section":"idees","article":"idees-il-faut-on-parle-troubles-mentaux","articleId":"874345"};
+            </script>
+            <script>
+             dataLayer = window.dataLayer || [];
+            </script>
+            <script src="/js/head.js?20190211" type="text/javascript">
+            </script>
+            <script type="application/ld+json">
+             {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Le Devoir",
+      "url": "https://www.ledevoir.com",
+          "logo": "https://www.ledevoir.com/images/ul/logos/2018/logo_ledevoir.png",
+          "sameAs": [
+            "https://www.facebook.com/ledevoir/",
+            "https://www.instagram.com/ledevoir/",
+            "https://www.linkedin.com/company/le-devoir",
+            "https://x.com/LeDevoir"
+          ]
+        }
+            </script>
+            <script type="application/ld+json">
+             {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "url": "https://www.ledevoir.com",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.ledevoir.com/recherche?expression={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        }
+            </script>
+            <script async="" id="ebx" src="//applets.ebxcdn.com/ebx.js">
+            </script>
+            <link href="//cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet"/>
+            <link href="/css/maquette-figma-2024/main.min.css?202605120000" media="screen" rel="stylesheet"/>
+            <link href="/css/maquette-figma-2024/print.min.css?2025092900" media="print" rel="stylesheet"/>
+           </meta>
+          </link>
+         </meta>
+        </meta>
+       </meta>
+      </meta>
+     </link>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body class="pre-content-layout-shift article_module show_action archip">
+  <div aria-hidden="true" class="d-print-none" id="top-publicite-placeholder">
+   <div class="pub super-leaderboard">
+    <style>
+     :root {
+                --top-publicite-height: 282px;
+            }
+    </style>
+    <!-- ZP:A1 -->
+    <div class="pub" id="A1">
+     <div align="center">
+      <div data-dbid="3018" data-m32-ad="" data-options='{"sizes":"[[970,250]]","sizeMapping":"[ [[0,0], [[0,0]]], [[1024,0], [[970,250]]], [[1024, 0], [[970,250]]], [[1236, 0], [[970,250]]] ]","dfpId":"21658289790,340432006","dfpAdUnitPath":"le.devoir/opinions","kv":{"zone":"A1"}}'>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <header>
+   <div class="action-bar">
+    <div class="container">
+     <div class="row align-items-center">
+      <div class="col burger-wrapper d-print-none">
+       <div class="hstack gap-3">
+        <a aria-controls="offcanvasMenuPrincipale" aria-label="Toutes les sections" class="btn" data-bs-target="#offcanvasMenuPrincipale" data-bs-toggle="offcanvas" tabindex="0">
+         <svg aria-hidden="true" fill="none" focusable="false" height="26" viewbox="0 0 32 26" width="32" xmlns="http://www.w3.org/2000/svg">
+          <line stroke="black" x2="12" y1="2.5" y2="2.5">
+          </line>
+          <line stroke="black" x2="8" y1="9.5" y2="9.5">
+          </line>
+          <line stroke="black" x2="12" y1="16.5" y2="16.5">
+          </line>
+          <line stroke="black" x2="20.4" y1="23.5" y2="23.5">
+          </line>
+          <path d="M16.5449 15.2169C20.0268 16.2956 23.7137 14.3798 24.7799 10.938C25.8461 7.49619 23.8879 3.83166 20.406 2.75305C16.9242 1.67444 13.2372 3.59019 12.171 7.032C11.1048 10.4738 13.0631 14.1383 16.5449 15.2169Z" stroke="black" stroke-miterlimit="10">
+          </path>
+          <path d="M21.3926 14.7676L26.3913 24.1218" stroke="black" stroke-miterlimit="10">
+          </path>
+         </svg>
+        </a>
+        <div aria-labelledby="offcanvasMenuPrincipaleLabel" class="offcanvas offcanvas-start" id="offcanvasMenuPrincipale" tabindex="-1">
+         <div class="offcanvas-header">
+          <button aria-label="Fermer" class="btn-close" data-bs-dismiss="offcanvas" type="button">
+          </button>
+         </div>
+         <div class="offcanvas-body gap-2">
+          <div aria-label="Menu principal">
+           <div class="hstack mb-3 btn-menu-principal" data-abonnement-url="https://abonnement.ledevoir.com/nos-offres" data-compte-url="/mon-abonnement#abonnement" data-don-url="https://www.jesoutiensledevoir.com" data-login-url="/auth/login">
+           </div>
+           <form action="/recherche" class="d-print-none" method="GET" novalidate="">
+            <div class="input-group">
+             <input aria-describedby="recherche-offcanvas" aria-label="Rechercher" class="form-control autocomplete-search" id="header-search" name="expression" placeholder="RECHERCHER" type="search"/>
+             <button class="btn" type="submit">
+              <i class="bi bi-search">
+              </i>
+             </button>
+            </div>
+           </form>
+           <div class="accordion accordion-flush mb-3 menu-accordion" id="menuPrincipaleAccordion">
+            <div class="accordion-item">
+             <div class="accordion-header d-flex align-items-center">
+              <a class="accordion-link" href="/opinion">
+               Opinion
+              </a>
+              <button aria-controls="flush-collapse-menu-principale-opinion" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#flush-collapse-menu-principale-opinion" data-bs-toggle="collapse" type="button">
+              </button>
+             </div>
+             <div class="accordion-collapse collapse" data-bs-parent="#menuPrincipaleAccordion" id="flush-collapse-menu-principale-opinion">
+              <div class="accordion-body">
+               <ul class="list-group list-group-flush">
+                <li class="list-group-item">
+                 <a href="/opinion/chroniques">
+                  Chroniques
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/opinion/editoriaux">
+                  Éditoriaux
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/photos/galeries-photos/les-caricatures-de-godin-et-de-chloe">
+                  Caricatures
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/opinion/idees">
+                  Idées
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/opinion/libre-opinion">
+                  Libre opinion
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/opinion/lettres">
+                  Lettres
+                 </a>
+                </li>
+               </ul>
+              </div>
+             </div>
+            </div>
+            <div class="accordion-item">
+             <div class="accordion-header d-flex align-items-center">
+              <a class="accordion-link" href="/actualites">
+               Actualités
+              </a>
+              <button aria-controls="flush-collapse-menu-principale-actualites" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#flush-collapse-menu-principale-actualites" data-bs-toggle="collapse" type="button">
+              </button>
+             </div>
+             <div class="accordion-collapse collapse" data-bs-parent="#menuPrincipaleAccordion" id="flush-collapse-menu-principale-actualites">
+              <div class="accordion-body">
+               <ul class="list-group list-group-flush">
+                <li class="list-group-item">
+                 <a href="/actualites/societe">
+                  Société
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/actualites/education">
+                  Éducation
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/actualites/environnement">
+                  Environnement
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/actualites/justice">
+                  Justice
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/actualites/le-devoir-de">
+                  Le Devoir de...
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/actualites/sante">
+                  Santé
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/actualites/science">
+                  Science
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/actualites/transports-urbanisme">
+                  Transports / Urbanisme
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/actualites/immigration">
+                  Immigration
+                 </a>
+                </li>
+               </ul>
+              </div>
+             </div>
+            </div>
+            <div class="accordion-item">
+             <div class="accordion-header d-flex align-items-center">
+              <a class="accordion-link" href="/politique">
+               Politique
+              </a>
+              <button aria-controls="flush-collapse-menu-principale-politique" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#flush-collapse-menu-principale-politique" data-bs-toggle="collapse" type="button">
+              </button>
+             </div>
+             <div class="accordion-collapse collapse" data-bs-parent="#menuPrincipaleAccordion" id="flush-collapse-menu-principale-politique">
+              <div class="accordion-body">
+               <ul class="list-group list-group-flush">
+                <li class="list-group-item">
+                 <a href="/politique/canada">
+                  Canada
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/politique/quebec">
+                  Québec
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/politique/montreal">
+                  Montréal
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/politique/ville-de-quebec">
+                  Ville de Québec
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/politique/regions">
+                  Régions
+                 </a>
+                </li>
+               </ul>
+              </div>
+             </div>
+            </div>
+            <div class="accordion-item">
+             <div class="accordion-header d-flex align-items-center">
+              <a class="accordion-link" href="/economie">
+               Économie
+              </a>
+              <button aria-controls="flush-collapse-menu-principale-economie" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#flush-collapse-menu-principale-economie" data-bs-toggle="collapse" type="button">
+              </button>
+             </div>
+             <div class="accordion-collapse collapse" data-bs-parent="#menuPrincipaleAccordion" id="flush-collapse-menu-principale-economie">
+              <div class="accordion-body">
+               <ul class="list-group list-group-flush">
+                <li class="list-group-item">
+                 <a href="/economie/consommation">
+                  Consommation
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/economie/finances-personnelles">
+                  Finances personnelles
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/economie/techno">
+                  Techno
+                 </a>
+                </li>
+               </ul>
+              </div>
+             </div>
+            </div>
+            <div class="accordion-item">
+             <div class="accordion-header">
+              <a class="accordion-button no-subsection" href="/enquetes">
+               Enquêtes
+              </a>
+             </div>
+            </div>
+            <div class="accordion-item">
+             <div class="accordion-header d-flex align-items-center">
+              <a class="accordion-link" href="/monde">
+               Monde
+              </a>
+              <button aria-controls="flush-collapse-menu-principale-monde" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#flush-collapse-menu-principale-monde" data-bs-toggle="collapse" type="button">
+              </button>
+             </div>
+             <div class="accordion-collapse collapse" data-bs-parent="#menuPrincipaleAccordion" id="flush-collapse-menu-principale-monde">
+              <div class="accordion-body">
+               <ul class="list-group list-group-flush">
+                <li class="list-group-item">
+                 <a href="/monde/afrique">
+                  Afrique
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/monde/asie">
+                  Asie
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/monde/etats-unis">
+                  États-Unis
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/monde/moyen-orient">
+                  Moyen-Orient
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/monde/ameriques">
+                  Amériques
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/monde/europe">
+                  Europe
+                 </a>
+                </li>
+               </ul>
+              </div>
+             </div>
+            </div>
+            <div class="accordion-item">
+             <div class="accordion-header d-flex align-items-center">
+              <a class="accordion-link" href="/culture">
+               Culture
+              </a>
+              <button aria-controls="flush-collapse-menu-principale-culture" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#flush-collapse-menu-principale-culture" data-bs-toggle="collapse" type="button">
+              </button>
+             </div>
+             <div class="accordion-collapse collapse" data-bs-parent="#menuPrincipaleAccordion" id="flush-collapse-menu-principale-culture">
+              <div class="accordion-body">
+               <ul class="list-group list-group-flush">
+                <li class="list-group-item">
+                 <a href="/culture/arts-visuels">
+                  Arts visuels
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/culture/cinema">
+                  Cinéma
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/culture/danse">
+                  Danse
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/culture/ecrans">
+                  Écrans
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/culture/medias">
+                  Médias
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/culture/musique">
+                  Musique
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/culture/theatre">
+                  Théâtre
+                 </a>
+                </li>
+               </ul>
+              </div>
+             </div>
+            </div>
+            <div class="accordion-item">
+             <div class="accordion-header">
+              <a class="accordion-button no-subsection" href="/lire">
+               Lire
+              </a>
+             </div>
+            </div>
+            <div class="accordion-item">
+             <div class="accordion-header d-flex align-items-center">
+              <a class="accordion-link" href="/plaisirs">
+               Plaisirs
+              </a>
+              <button aria-controls="flush-collapse-menu-principale-plaisirs" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#flush-collapse-menu-principale-plaisirs" data-bs-toggle="collapse" type="button">
+              </button>
+             </div>
+             <div class="accordion-collapse collapse" data-bs-parent="#menuPrincipaleAccordion" id="flush-collapse-menu-principale-plaisirs">
+              <div class="accordion-body">
+               <ul class="list-group list-group-flush">
+                <li class="list-group-item">
+                 <a href="/plaisirs/alimentation">
+                  Alimentation
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/plaisirs/habitation">
+                  Habitation
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/plaisirs/jardinage">
+                  Jardinage
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/plaisirs/restaurants">
+                  Restaurants
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/plaisirs/vin">
+                  Vin
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/plaisirs/voyage">
+                  Voyage
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/plaisirs/recettes">
+                  Recettes
+                 </a>
+                </li>
+               </ul>
+              </div>
+             </div>
+            </div>
+            <div class="accordion-item">
+             <div class="accordion-header">
+              <a class="accordion-button no-subsection" href="/sports">
+               Sports
+              </a>
+             </div>
+            </div>
+            <div class="accordion-item">
+             <div class="accordion-header">
+              <a class="accordion-button no-subsection" href="/en-supplement">
+               En supplément
+              </a>
+             </div>
+            </div>
+            <div class="accordion-item">
+             <div class="accordion-header">
+              <a class="accordion-button no-subsection" href="/videos">
+               Vidéos
+              </a>
+             </div>
+            </div>
+            <div class="accordion-item">
+             <div class="accordion-header">
+              <a class="accordion-button no-subsection" href="/interactif">
+               Interactif
+              </a>
+             </div>
+            </div>
+            <div class="accordion-item">
+             <div class="accordion-header">
+              <a class="accordion-button no-subsection" href="/photos/photoreportages">
+               Photoreportages
+              </a>
+             </div>
+            </div>
+            <div class="accordion-item">
+             <div class="accordion-header">
+              <a class="accordion-button no-subsection" href="/balados">
+               Balados
+              </a>
+             </div>
+            </div>
+            <div class="accordion-item">
+             <div class="accordion-header">
+              <a class="accordion-button no-subsection" href="/les-as-de-l-info">
+               Les As de l'info
+              </a>
+             </div>
+            </div>
+            <div class="accordion-item">
+             <div class="accordion-header">
+              <a class="accordion-button no-subsection" href="/infolettres">
+               Infolettres
+              </a>
+             </div>
+            </div>
+            <div class="accordion-item">
+             <div class="accordion-header d-flex align-items-center">
+              <a class="accordion-link" href="/jeux">
+               Jeux
+              </a>
+              <button aria-controls="flush-collapse-menu-principale-jeux" aria-expanded="false" class="accordion-button collapsed" data-bs-target="#flush-collapse-menu-principale-jeux" data-bs-toggle="collapse" type="button">
+              </button>
+             </div>
+             <div class="accordion-collapse collapse" data-bs-parent="#menuPrincipaleAccordion" id="flush-collapse-menu-principale-jeux">
+              <div class="accordion-body">
+               <ul class="list-group list-group-flush">
+                <li class="list-group-item">
+                 <a href="/jeux">
+                  Mots croisés
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/jeux">
+                  Mot secret
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/jeux">
+                  Mélimots
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/jeux">
+                  Sudoku
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/jeux/jeu-questionnaire">
+                  Jeu-questionnaire
+                 </a>
+                </li>
+                <li class="list-group-item">
+                 <a href="/jeux/epreuve-de-revision">
+                  Épreuve de révision
+                 </a>
+                </li>
+               </ul>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div aria-hidden="true" class="d-none d-lg-inline-block all-sections" data-bs-target="#offcanvasMenuPrincipale" data-bs-toggle="offcanvas">
+         Toutes les sections
+        </div>
+        <hr class="vr d-none d-lg-inline-block"/>
+        <a class="d-none d-lg-inline-block help-button" href="/centre-aide">
+         Besoin d’aide?
+        </a>
+       </div>
+      </div>
+      <div class="col logo-header">
+       <a aria-label="Retourner à l'accueil" class="mx-auto" href="/">
+        <svg aria-hidden="true" class="logo img-fluid" focusable="false" height="52" viewbox="0 0 256 51.558" width="256" xmlns="http://www.w3.org/2000/svg">
+         <g fill="none" fill-rule="nonzero">
+          <path d="M232.685 24.7657V2.5125c0-.4306.1402-.718.42-.718h2.9371c1.6321 0 2.7515.359 3.5906 1.2924 1.632 1.7945 2.1915 5.8144 2.1915 10.265 0 4.379-.466 7.7528-1.818 9.6907-.8394 1.2921-2.2381 1.7229-3.8239 1.7229l-3.4973.0002zm15.5279 26.7038c5.5483 0 7.6937-3.8765 7.7871-11.4137h-.5595c0 4.8097-.9326 7.5372-2.5645 7.5372-1.1664 0-1.7719-.8615-2.0986-2.2972-.373-2.0096-.6531-5.24-.8858-8.255-.5595-8.0397-4.8493-10.5522-10.2121-11.4855v-.1436c6.6681-.718 10.8181-4.7376 10.8181-12.2032 0-7.968-3.6375-12.4189-12.1703-12.4189H219.349v.718l3.9166.0719c.373 0 .4661.2153.4661.646v46.8753c0 .5025-.0931.646-.466.646l-3.9167.0718v.7177h17.6256v-.718l-3.8234-.0716c-.3732 0-.4661-.1436-.4661-1.005v-22.971l3.6841.0718c2.4245 0 4.01 1.2204 4.1964 5.4556.0934 2.5844.1868 6.0301.3266 8.1118.3727 8.3984 2.9376 12.0596 7.3208 12.0596zm-48.0754-.9332h17.7197v-.718l-3.9168-.0716c-.3734 0-.513-.1436-.513-.646V2.2252c0-.5024.1396-.646.513-.646l3.9168-.072V.7895h-17.7197v.718l3.9173.0719c.373 0 .4663.1436.4663.646v46.8753c0 .5025-.0934.646-.4663.646l-3.9173.0718v.718zM182.838 51.613c10.0257 0 16.7405-11.27 16.7405-25.7706C199.5785 11.2702 192.8637 0 182.838 0c-10.025 0-16.7866 11.2702-16.7866 25.8423.0002 14.5009 6.7615 25.7706 16.7866 25.7706zm0-.8611c-1.0717 0-1.9582-.1438-3.0306-1.149-2.4716-2.3684-3.8705-9.1882-3.8705-23.7605 0-14.6442 1.399-21.4638 3.8705-23.8325C180.8798.933 181.7663.7894 182.838.7894c1.0262 0 1.9589.1436 2.9844 1.2204 2.4716 2.3687 3.9171 9.1883 3.9171 23.8325 0 14.5723-1.4455 21.392-3.917 23.7606-1.0256 1.005-1.9583 1.1489-2.9845 1.1489zm-31.9412 0h3.1242l10.3987-43.5017c.979-4.0918 1.7719-5.5991 3.4971-5.6708l1.7255-.072V.7895H159.99v.718l2.1919.0719c2.3774.0717 2.1447 3.0866 1.3985 6.1735l-6.808 28.57h-.1402L149.638 4.7376c-.4661-2.1534-.5123-3.0866.7463-3.1583l3.2173-.072V.7895h-17.2533v.718l1.9588.0719c1.399.0717 1.7719 1.1485 2.3314 3.5172l10.2584 45.6553zm-46.723-.2155h31.5685V30.006h-.4195c-1.1664 5.0967-2.705 10.1931-4.7565 13.8541-2.1448 4.0203-4.4762 5.743-8.2071 5.743h-4.3832c-.3727 0-.466-.2153-.466-.646V25.8424h1.5384c1.9582 0 3.5905.5027 4.7102 2.2253 1.445 2.01 2.3315 5.671 2.4245 9.2604h.5597V13.4955h-.5597c-.0927 3.5893-1.2126 7.3218-2.4716 9.2604-1.0723 1.7945-2.6574 2.2253-4.6629 2.2253h-1.5385V2.3689c0-.4305.0934-.646.4196-.646h4.1502c2.9844 0 5.2692 1.364 6.854 3.4455 2.1455 2.7277 3.824 7.5375 5.0361 14.1415h.5136V.7894h-30.3098v.718l3.9167.0719c.3731 0 .4667.2152.4667.646v46.8753c0 .4308-.0936.646-.4667.646l-3.9167.0718v.718zm-22.2887-.9332c-.3727 0-.4661-.2153-.4661-.646V2.2971c0-.4307.0934-.646.4193-.646h3.5907c1.6785 0 3.0776.2872 4.1968 1.1485 2.8909 2.2253 4.1496 9.4754 4.1496 22.971 0 13.1366-1.6317 20.0997-4.1032 22.5403-1.1654 1.0768-2.5645 1.292-4.0103 1.292h-3.7768zm-13.756.9332h18.6518c9.2329 0 16.8337-8.9732 16.8337-24.8374 0-15.721-7.461-24.9095-17.02-24.9095H68.129v.718l3.9171.0719c.3727 0 .4663.2152.4663.646v46.8753c0 .4308-.0934.646-.4663.646l-3.917.0718v.718z" fill="#231F20">
+          </path>
+          <path d="M32.3737 50.5806H64V30.1324h-.4203c-1.168 5.0763-2.7097 10.1524-4.7653 13.7988-2.1485 4.0042-4.4843 5.72-8.2215 5.72h-4.3912c-.374 0-.4674-.2145-.4674-.6435V25.9856h1.5411c1.9625 0 3.5978.5007 4.7188 2.2164 1.4478 2.002 2.3359 5.6484 2.4295 9.2234h.5605V13.688h-.5605c-.0936 3.575-1.2149 7.2925-2.4768 9.2233-1.074 1.7874-2.6623 2.2164-4.6717 2.2164H45.734V2.606c0-.4289.0933-.6435.42-.6435h4.1584c2.9895 0 5.2786 1.3586 6.8668 3.4317 2.1488 2.717 3.8303 7.5074 5.0451 14.085h.5141V1.0327H32.3737v.715l3.9243.0717c.3734 0 .467.2144.467.6435v46.6878c0 .429-.0936.6435-.467.6435l-3.9243.0714v.715zM0 50.5806h30.4586V28.4878h-.514c-1.2142 5.0761-2.6624 10.2957-4.6716 14.2278-2.2418 4.3615-4.1105 7.007-7.3338 7.007h-4.1114c-.3738 0-.467-.286-.467-.7151l-.0466-46.545c0-.5005.1398-.6435.5136-.6435l3.9243-.0717v-.715H0v.715l3.924.0717c.3737 0 .4672.143.4672.6434v46.6879c0 .429-.0935.715-.4671.715H0v.7153z" fill="#849DAA">
+          </path>
+         </g>
+        </svg>
+       </a>
+      </div>
+      <div class="col text-end d-flex align-items-center justify-content-end d-print-none">
+       <div class="cdn-component" data-component="menu" data-menuarchip="1" data-topnav="1" id="cdn-component-menu">
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div aria-hidden="true" class="scroll-progress-bar-wrapper">
+    <div class="scroll-progress-bar">
+    </div>
+   </div>
+  </header>
+  <div class="cdn-component" data-component="archipBreakingNews" id="cdn-component-archipBreakingNews">
+  </div>
+  <noscript>
+   <iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-5DKW8X" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5DKW8X');
+  </script>
+  <script src="/js/institutional-access.min.js?20260416" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   if (typeof dataLayer !== 'undefined') {
+        const payload =     {"event":"page_info","pageTitle":"Il faut qu’on parle des troubles mentaux graves et de la manière dont on les soigne | Le Devoir","pageCategory":"article","siteSection":"Opinion","articleAuthor":"Claire Gamache et Maxime Dussault-Laurendeau","articleName":"Il faut qu’on parle des troubles mentaux graves","word_count":910,"siteSubSection":"Idées"};
+        const userInfo = getAnalyticsUserInfo("devoir_analytics_profil");
+
+        Object.assign(payload, userInfo);
+        Object.assign(payload, { institution: InstitutionalAccess.getInstitutionalData() });
+
+        dataLayer.push(payload);
+    }
+  </script>
+  <main>
+   <script type="text/javascript">
+    m32_context = window.m32_context || [];
+            m32_context['articleMc'] = ['idees','idees','opinion','psychiatrie','sante-mentale'];
+   </script>
+   <article class="article-editorial article-editorial-public">
+    <div class="container-half-fluid color-title--default color-theme--tanzine">
+     <div class="container">
+      <div class="row">
+       <div class="col-12 col-xl-4">
+        <nav aria-label="breadcrumb" class="d-print-none">
+         <ol class="breadcrumb">
+          <li class="breadcrumb-item">
+           <a href="/">
+            Accueil
+           </a>
+          </li>
+          <li class="breadcrumb-item">
+           <a href="/opinion">
+            Opinion
+           </a>
+          </li>
+          <li aria-current="page" class="breadcrumb-item active">
+           <a href="/opinion/idees" id="active-breadcrumb">
+            Idées
+            <hr class="divider"/>
+           </a>
+          </li>
+         </ol>
+        </nav>
+        <div class="hero-headings hero-headings-editorial-half-fluid">
+         <div class="article-type">
+          Idées
+         </div>
+         <hr class="short"/>
+         <h1 class="article-title">
+          Il faut qu’on parle des troubles mentaux graves
+         </h1>
+         <p class="article-amorce">
+          Les gens qui en sont atteints comprennent rarement qu’ils sont malades, surtout en période de crise.
+         </p>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="container-fluid">
+      <div class="row">
+       <div class="col js-detect-content offset-xl-5">
+        <figure class="featured-image hasFullscreenImage">
+         <picture>
+          <button class="showFullscreenImage" data-bs-target="#fullscreenImage" data-bs-toggle="modal" data-fullscreen-src="https://media2.ledevoir.com/images_galerie/originale_2110816_1615741/image.jpg">
+           <span class="btn-wrapper">
+            <span class="btn btn-dark">
+            </span>
+            <i class="bi bi-fullscreen">
+            </i>
+           </span>
+          </button>
+          <source media="(max-width: 539px)" srcset="https://media2.ledevoir.com/images_galerie/originale_2110816_1615741/image.jpg?crop=3%3A2%2Csmart&amp;width=1920"/>
+          <source media="(max-width: 719px)" srcset="https://media2.ledevoir.com/images_galerie/originale_2110816_1615741/image.jpg?crop=3%3A2%2Csmart&amp;width=1920"/>
+          <source media="(max-width: 959px)" srcset="https://media2.ledevoir.com/images_galerie/originale_2110816_1615741/image.jpg?crop=3%3A2%2Csmart&amp;width=1920"/>
+          <source media="(max-width: 1139px)" srcset="https://media2.ledevoir.com/images_galerie/originale_2110816_1615741/image.jpg?crop=3%3A2%2Csmart&amp;width=900"/>
+          <source media="(max-width: 1319px)" srcset="https://media2.ledevoir.com/images_galerie/originale_2110816_1615741/image.jpg?crop=3%3A2%2Csmart&amp;width=1125"/>
+          <img alt="Les personnes très malades demandent rarement de l’aide, observent les auteurs." fetchpriority="high" loading="eager" src="https://media2.ledevoir.com/images_galerie/originale_2110816_1615741/image.jpg?crop=3%3A2%2Csmart&amp;width=1440"/>
+         </picture>
+         <figcaption>
+          <p>
+           <span>
+            Photo:  Craig Whitehead Unsplash
+           </span>
+           Les personnes très malades demandent rarement de l’aide, observent les auteurs.
+          </p>
+         </figcaption>
+        </figure>
+       </div>
+       <script>
+        (function () {
+                        var currentScript = document.currentScript;
+                        const containerHalfFluid = currentScript ? currentScript.closest('.container-half-fluid') : null;
+                        if (!containerHalfFluid) return;
+                        var detectContent = containerHalfFluid.querySelector('.js-detect-content');
+                        var hasContent = !!(detectContent && detectContent.children && detectContent.children.length);
+                        if (!hasContent) {
+                            containerHalfFluid.classList.add('no-media');
+                        }
+                    })();
+       </script>
+      </div>
+     </div>
+    </div>
+    <div class="container card-auteur-editorial-public-wrapper">
+     <div class="row">
+      <div class="col-12">
+       <div class="auteur-full-width-wrapper">
+        <div class="card auteur-full-width">
+         <div class="card-header">
+          <div class="card-header-content">
+           <div class="card-header-content-info">
+            <div class="card-nom-auteur card-hover-effect">
+             Claire Gamache et Maxime Dussault-Laurendeau
+            </div>
+            <div class="divider-container">
+             <hr class="divider white"/>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="card-body">
+          <div class="card-presentation-auteur">
+           Les auteurs sont respectivement présidente et secrétaire de l’Association des médecins psychiatres du Québec (AMPQ).
+          </div>
+          <time class="clair" datetime="2025-05-01T04:00:00Z">
+           Publié le 1er mai 2025
+          </time>
+         </div>
+         <div class="card-footer">
+          <div class="cdn-component" data-article_id="874345" data-component="archipShareButtons" id="cdn-component-archipShareButtons">
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="container">
+     <div class="row">
+      <div class="col-12 col-xl-2 col-lg-3">
+       <div class="d-block article-infobulle-wrapper d-print-none">
+        <div class="d-flex align-items-center" data-bs-custom-class="node-type-article-infobulle-popper" data-bs-html="true" data-bs-placement="left" data-bs-title="Analyse issue du lectorat du &lt;i&gt;Devoir&lt;/i&gt; et basée sur l’expertise de son auteur." data-bs-toggle="tooltip">
+         <i class="bi bi-info-circle-fill d-print-none">
+         </i>
+         Idées
+        </div>
+       </div>
+       <div aria-hidden="true" class="trust-project d-print-none">
+        <a href="/la-marque-de-confiance-trust-et-le-devoir" title="La marque de confiance Trust et Le Devoir">
+         <svg aria-hidden="true" focusable="true" height="30" id="Layer_1" version="1.1" viewbox="0 0 1000 1000" width="30" x="0" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0">
+          <path d="M940 840c0 55.2-44.8 100-100 100H160c-55.2 0-100-44.8-100-100V160c0-55.2 44.8-100 100-100h680c55.2 0 100 44.8 100 100v680z" fill="#fff">
+          </path>
+          <path class="st1" d="M840 0H160C71.8 0 0 71.8 0 160v680c0 88.2 71.8 160 160 160h680c88.2 0 160-71.8 160-160V160c0-88.2-71.8-160-160-160zm100 840c0 55.2-44.8 100-100 100H160c-55.2 0-100-44.8-100-100V160c0-55.2 44.8-100 100-100h680c55.2 0 100 44.8 100 100v680z">
+          </path>
+          <path class="st1" d="M598.9 770H401.6c-4 0-7.2-3.2-7.2-7.2V427.1c0-5-4-9-9-9H210.2c-4 0-7.2-3.2-7.2-7.2V237.2c0-4 3.2-7.2 7.2-7.2h579.6c4 0 7.2 3.2 7.2 7.2v173.7c0 4-3.2 7.2-7.2 7.2H613.3c-4 0-7.2 3.2-7.2 7.2v337.5c0 4-3.2 7.2-7.2 7.2z" id="SVGID_1_">
+          </path>
+         </svg>
+        </a>
+        <a class="pourquoi" href="/nos-pratiques-journalistiques">
+         Pourquoi faire confiance au
+         <i>
+          Devoir
+         </i>
+         ?
+        </a>
+       </div>
+      </div>
+      <div class="col-12 col-lg-6 offset-xl-1 article-text">
+       <p>
+        La santé mentale et les troubles mentaux courants occupent de plus en plus l’espace public : c’est un progrès important pour lutter contre la stigmatisation des personnes vulnérables de notre société. Pourtant, les troubles mentaux graves demeurent méconnus. Les défis qu’affrontent les gens qui en souffrent, leurs familles et les soignants qui les soutiennent sont immenses, tandis que les services dans la communauté, en amont des crises, sont insuffisants.
+       </p>
+       <p>
+        L’importance de cultiver un équilibre mental en réservant des heures de sommeil et de calme, en bougeant régulièrement, en s’alimentant sainement, en échangeant avec des proches, en préservant un sens à nos engagements quotidiens est de plus en plus reconnue. Plus récemment, les études confirment aussi que fréquenter la nature est apaisant pour le cortisol (hormone du stress), pour l’esprit et pour l’équilibre.
+       </p>
+       <p>
+        De nouvelles figures émergent pour parler de leurs fragilités anxieuses, neuroatypiques (TDAH, autisme) ou dépressives, ce qui permet une meilleure compréhension de ces réalités. En clinique, ces défis sont appelés « troubles mentaux courants », et en parler encourage l’acceptation de ces différences. Ce mouvement est positif et synonyme de meilleure littératie psychologique, de prévention et d’acceptation, mais il nous semble occulter une autre réalité : 3 % de notre population !
+       </p>
+       <div class="inject-publicite mobile-only" style="display: none;">
+       </div>
+       <p>
+        Car en parallèle persistent une incompréhension et une méconnaissance de ce que nous nommons en clinique « troubles mentaux graves ».
+       </p>
+       <p>
+        Pour les 3 % de la population atteints de troubles psychiatriques sévères et persistants (schizophrénie, trouble bipolaire, trouble dépressif sévère, trouble de personnalité, trouble de dépendance, etc.), la stigmatisation augmente à chaque drame social médiatisé, à chaque transport forcé dans le voisinage, à chaque reportage sur l’itinérance ou le sentiment d’insécurité dans les transports publics.
+       </p>
+       <div class="inject-publicite" style="display: none;">
+       </div>
+       <div id="inject-most-popular-position" style="display: none;">
+       </div>
+       <p>
+        Cet autre groupe de gens ayant des problèmes de santé mentale graves occupe 80 % des lits en psychiatrie et sollicite 80 % du temps des psychiatres au Québec. Et il doit, lui aussi, être mieux connu et mieux compris.
+       </p>
+       <p>
+        Les personnes très malades demandent rarement de l’aide. Les psychiatres doivent expliquer aux personnes ayant des troubles mentaux courants que la médicalisation de leur détresse n’est pas nécessairement la meilleure avenue. Pour soigner les malades ayant des troubles mentaux graves, ces mêmes psychiatres doivent cette fois-ci les convaincre d’accepter leur traitement.
+       </p>
+       <div class="inject-publicite mobile-only" style="display: none;">
+       </div>
+       <p>
+        Les gens atteints de maladies mentales graves comprennent rarement qu’ils sont malades, surtout en période de crise. La maladie s’installe souvent de façon insidieuse et laisse la personne et ses proches perplexes et déroutés sur une plus ou moins longue période, son état se détériorant. Il est difficile pour cette personne de participer à ses soins, puisqu’elle ne se croit pas malade et que sa pensée n’est plus au service de son intégrité ou de son bien-être.
+       </p>
+       <p>
+        Si ce groupe occupe autant de lits, c’est que la prévention, l’acceptation et les interventions en amont d’une détérioration sont difficiles à orchestrer.
+       </p>
+       <p>
+        Il y a aussi des situations dramatiques, mettant en scène des gens dont l’état mental est gravement perturbé, qu’on a vues médiatisées à plusieurs reprises dans les dernières années au Québec et qui détruisent des vies : les vies des victimes, de leur entourage et de la personne malade elle-même.
+       </p>
+       <div class="inject-publicite" style="display: none;">
+       </div>
+       <p>
+        Pour les psychiatres québécois de l’AMPQ, ces patients vulnérables ont droit à la santé et à la sécurité, ont droit de ne pas voir leur vie détruite par une maladie traitable, mais qu’ils ne reconnaissent pas.
+       </p>
+       <div class="inject-publicite mobile-only" style="display: none;">
+       </div>
+       <p>
+        Un sondage récent mené par l’Institut québécois de réforme du droit et de la justice, chargé par le ministre Carmant d’étudier une éventuelle révision de la loi P-38, a fait ressortir que la population partage le point de vue des psychiatres. Les Québécois estiment que le droit à la santé arrive en tête des priorités, suivi du droit à la sécurité et, ensuite, du droit à la liberté. En fait, l’autonomie et la liberté deviennent un leurre quand la maladie empêche la personne de comprendre sa situation et de prendre des décisions éclairées.
+       </p>
+       <p>
+        Dans ce même sondage, les personnes vulnérables font confiance à leurs familles (92 %) et aux psychiatres (93 %) pour leurs soins. Il faut que la loi — et donc notre capacité à prendre en charge ces personnes — reflète ces valeurs et cette confiance en permettant une intervention avec bienveillance lorsque la maladie empêche une personne d’accepter les soins dont elle a besoin.
+       </p>
+       <p>
+        Malgré les efforts, depuis le virage ambulatoire du ministre Jean Rochon, à la fin des années 1990, persiste un manque de ressources pour soutenir adéquatement les troubles mentaux graves dans la communauté. C’est d’ailleurs un consensus qui rassemble tous les acteurs (patients, proches, soignants, coroners, etc.), qui réclament :
+       </p>
+       <ul id="U86621357270taz">
+        <li>
+         des ressources communautaires pouvant soutenir l’accompagnement lors de crises psychosociales des proches, des familles et des personnes vulnérables, et ainsi prévenir le recours à la contrainte vers l’hôpital lorsque possible ;
+        </li>
+        <li>
+         des équipes interdisciplinaires, à l’interne et dans la communauté, formées, régulières et possédant une expertise ;
+        </li>
+        <li>
+         du temps, de la formation et de la volonté pour tous les intervenants (policiers, avocats, contentieux d’hôpitaux, personnel hospitalier de tout type), afin de permettre le respect des droits à l’autonomie, à la liberté de choix et à la santé et la sécurité des plus vulnérables de nos sociétés ;
+        </li>
+        <li>
+         des ressources juridiques d’accompagnement des patients ;
+        </li>
+        <li>
+         des environnements hospitaliers humains et apaisants.
+        </li>
+       </ul>
+       <p>
+        L’AMPQ souhaite contribuer à poursuivre la discussion vers plus de soins de proximité et moins de soins sous la contrainte, tout en évitant à tout prix de nier la réalité des troubles mentaux graves et de leurs impacts réels.
+       </p>
+       <div class="extra_texte extra extra-encadre-end-of-text">
+        <p class="encadre-opinion">
+         Ce texte fait partie de notre section Opinion, qui favorise une pluralité des voix et 
+des idées en accueillant autant les analyses et commentaires de ses lecteurs que ceux de penseurs et experts d’ici et 
+d’ailleurs. Envie d’y prendre part? Soumettez votre texte à l’adresse
+         <a href="mailto:opinion@ledevoir.com">
+          opinion@ledevoir.com
+         </a>
+         . 
+Juste envie d’en lire plus? Abonnez-vous à notre
+         <a href="/infolettres" target="_blank">
+          Courrier des idées
+         </a>
+         .
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="template-most-popular">
+     <div class="col-12 order-2 col-lg-6 offset-lg-3 order-lg-1 article-text">
+     </div>
+     <div aria-hidden="true" class="col-12 order-3 col-lg-3 mt-0 mt-lg-0 order-lg-2 most-popular">
+      <div class="cdn-component" data-article_id="874345" data-component="archipShareButtons" id="cdn-component-archipShareButtons">
+      </div>
+      <div class="cdn-component" data-component="popularArticlesArchip" data-limit="5" id="cdn-component-popularArticlesArchip">
+      </div>
+     </div>
+    </div>
+   </article>
+   <div aria-hidden="true" class="content-footer d-print-none">
+    <div class="container d-none d-lg-block">
+     <div class="row justify-content-center">
+      <div class="col-auto">
+       <div class="cdn-component" data-article_id="874345" data-component="archipShareButtons" id="cdn-component-archipShareButtons">
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="cdn-component" data-article_id="874345" data-component="archipComments" id="cdn-component-archipComments">
+    </div>
+    <div class="container">
+     <div class="row piano-bloc-suggested">
+      <div class="col-12 col-lg-9 pn-section piano-refonte-idees">
+      </div>
+      <div class="col-12 col-lg-3 order-1 order-lg-2 piano-refonte-suggeres-vous">
+      </div>
+     </div>
+    </div>
+    <div class="container gabarit119">
+     <div class="container">
+      <div class="row">
+       <div class="col">
+        <h2 class="etage-interstice-title">
+         À ne pas manquer
+        </h2>
+       </div>
+      </div>
+      <div class="row">
+       <div class="col">
+        <div class="tabs-block">
+         <ul class="nav nav-tabs" id="a-ne-pas-manquer" role="tablist">
+          <li class="nav-item" role="presentation">
+           <button aria-controls="populaire" aria-selected="true" class="nav-link active" data-bs-target="#populaire" data-bs-toggle="tab" id="populaire-tab" role="tab" type="button">
+            <span class="d-none d-md-inline">
+             Populaires cette semaine
+            </span>
+            <span class="d-inline d-md-none">
+             Cette semaine
+            </span>
+           </button>
+          </li>
+          <li class="nav-item" role="presentation">
+           <button aria-controls="en-continu" aria-selected="false" class="nav-link" data-bs-target="#en-continu" data-bs-toggle="tab" id="en-continu-tab" role="tab" type="button">
+            <span>
+             En continu
+            </span>
+           </button>
+          </li>
+          <li class="nav-item" role="presentation">
+           <button aria-controls="suggestion" aria-selected="false" class="nav-link" data-bs-target="#suggestion" data-bs-toggle="tab" id="suggestion-tab" role="tab" type="button">
+            <span class="d-none d-md-inline">
+             Suggérés pour vous
+            </span>
+            <span class="d-inline d-md-none">
+             Pour vous
+            </span>
+           </button>
+          </li>
+         </ul>
+         <div class="tab-content" id="à ne pas manquer-Content">
+          <div aria-labelledby="populaire-tab" class="tab-pane fade show active" id="populaire" role="tabpanel">
+           <div class="list-archip a-ne-pas-manquer block-ne-pas-manquer">
+           </div>
+          </div>
+          <div aria-labelledby="en-continu-tab" class="tab-pane fade" id="en-continu" role="tabpanel">
+           <div class="list-archip en-continu block-ne-pas-manquer">
+           </div>
+          </div>
+          <div aria-labelledby="suggestion-tab" class="tab-pane fade" id="suggestion" role="tabpanel">
+           <div class="list-archip pour-vous block-ne-pas-manquer">
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <section class="mots-cles dodger-blue">
+     <div class="container">
+      <div class="row">
+       <div class="col">
+        <strong>
+         Mots clés
+        </strong>
+        <a href="/motcle/psychiatrie">
+         psychiatrie
+        </a>
+        ,
+        <a href="/motcle/sante-mentale">
+         santé mentale
+        </a>
+       </div>
+      </div>
+     </div>
+    </section>
+   </div>
+   <script type="text/javascript">
+    $(document).ready(function(){
+    tp = window.tp || [];
+    if (typeof tp !== 'undefined') {
+        tp.push(["setContentCreated", '2025-05-01']);
+        tp.push(["setContentSection", 'idees']);
+        tp.push(["setContentIsNative", false]);
+        tp.push(["setTags", ['idees','idees','opinion','psychiatrie','sante-mentale']]);
+    }
+
+    if (typeof PianoAnalyticsTags !== 'undefined') {
+        PianoAnalyticsTags.addPageDisplayTags({
+            'auteur': '',
+            'titre_article': "Il faut qu’on parle des troubles mentaux graves",
+            'tags': ['idees','idees','psychiatrie','sante-mentale'],
+            'type_page': 'article',
+            'publication_date': 1746072000        });
+    }
+
+    if (typeof tag !== 'undefined') {
+        tag.setContentProperty("type", "article");
+        tag.setContentProperty("authors", ['']);
+    }
+});
+   </script>
+   <script type="text/javascript">
+    function clickEventOptions(media) {
+        if (typeof PianoAnalyticsTags !== 'undefined') {
+            PianoAnalyticsTags.send('click.action', {
+                'click': media
+            });
+        }
+    }
+
+    $('li.linkedin a, .share-on-linkedin').click(function(e){
+        clickEventOptions('Linkedin');
+    });
+
+    $('li.bluesky a, .share-on-bsky').click(function(e){
+        clickEventOptions('Bluesky');
+    });
+
+    $('li.tw a, .share-on-twitter').click(function(e){
+        clickEventOptions('Twitter');
+    });
+
+    $('li.mail a, .open-modal-mail').click(function(e){
+        clickEventOptions('Mail');
+    });
+
+    $('li.bookmark a, .add-to-bookmark').click(function(e){
+        clickEventOptions('Bookmark');
+    });
+
+    $('li.print a, .print-this-page').click(function(e){
+        clickEventOptions('Print');
+    });
+   </script>
+   <div class="cdn-data" data-article_id="874345" data-block="favorites" id="cdn-data-favorites">
+   </div>
+   <div aria-hidden="true" aria-labelledby="modal-mail-label" class="modal fade" id="modal-mail" tabindex="-1">
+    <div class="modal-dialog share-article-email">
+     <div class="modal-content">
+      <div class="modal-header">
+       <div class="modal-title" id="modal-mail-label">
+        Partager par courriel
+       </div>
+       <button aria-label="Close" class="btn-close" data-bs-dismiss="modal" type="button">
+       </button>
+      </div>
+      <div class="modal-body">
+       <div class="form-group">
+        <label class="sr-only" for="email_de">
+         Expéditeur
+        </label>
+        <input class="form-control" id="email_de" placeholder="Votre adresse courriel" type="email">
+        </input>
+       </div>
+       <div class="form-group">
+        <label class="sr-only" for="email_a">
+         Destinataire
+        </label>
+        <input class="form-control" id="email_a" placeholder="Le courriel du destinataire" type="email"/>
+       </div>
+       <div class="form-group">
+        <label class="sr-only" for="email_commentaires">
+         Commentaires
+        </label>
+        <textarea class="form-control" id="email_commentaires" name="email_commentaires" placeholder="Commentaires"></textarea>
+       </div>
+       <div class="erreur">
+       </div>
+       <div id="zone-captcha">
+        <div class="ledevoir-recaptcha" data-sitekey="6LdcAYgUAAAAAO8hv9dMJbomWRfXWH4AaHq5OjPP" id="shareEmailCaptcha">
+        </div>
+       </div>
+      </div>
+      <div class="modal-footer">
+       <button class="btn close" data-bs-dismiss="modal" type="button">
+        Fermer
+       </button>
+       <button class="btn connexion" id="bouton_envoyer_mail" type="button">
+        Envoyer
+       </button>
+      </div>
+     </div>
+    </div>
+   </div>
+   <script type="text/javascript">
+    $(function() {
+        if(typeof preFillEmail !== 'undefined' && preFillEmail !== null){
+            preFillEmail();
+        }
+        const modalMailElement = document.getElementById('modal-mail');
+        if (modalMailElement) {
+            globalThis.modalMailElement = modalMailElement;
+            globalThis.mailModal = new bootstrap.Modal(modalMailElement);
+        }
+
+        $('#bouton_envoyer_mail').click(function(e){
+            e.preventDefault();
+            var $btn_envoyer = $(this);
+
+            if ($btn_envoyer.is('.en-traitement')) return; // Limiter 1 clic à la fois
+            $btn_envoyer.addClass('en-traitement').css('fontStyle','italic').css('opacity',0.5);
+            $.ajax({
+                type: "POST",
+                url: "/article/envoyer",
+                data: "email_de="+$('#email_de').val()+"&email_a="+$('#email_a').val()+"&url="+$('.open-modal-mail').data('href')+"&g-recaptcha-response=" + LeDevoirCaptcha.getResponse('shareEmailCaptcha') + "&email_commentaires="+$('#email_commentaires').val(),
+                success: function(msg){
+                    if (msg == 'false') {
+                        $('#modal-mail .erreur').html('Erreur: Veuillez entrer un courriel valide.');
+                    } else if (msg == 'false-captcha') {
+                        $('#modal-mail .erreur').html('Captcha invalide.');
+                    } else if (msg == 'true') {
+                        globalThis.mailModal.hide();
+                        afficher_message('Votre lien a été envoyé.', 'message');
+                        dataLayer.push({'eventCategory': 'Partage Social', 'eventAction': 'Social Mailto', 'eventLabel': 'https://www.ledevoir.com/opinion/idees/874345/idees-il-faut-on-parle-troubles-mentaux-graves', 'event': 'gtm_event'});
+                    }
+                },
+                complete: function(msg) {
+                    $btn_envoyer.removeClass('en-traitement').css('fontStyle','normal').css('opacity',1);
+                }
+            });
+            LeDevoirCaptcha.reset('shareEmailCaptcha');
+        });
+    });
+   </script>
+   <div class="pub-to-clone zone-a3 mb-2">
+    <!-- ZP:A3 -->
+    <div class="pub" id="A3">
+     <div align="center">
+      <div data-dbid="3108" data-m32-dynamic-ad="" data-options='{
+"sizes":"[[300,250],[300,600],[320,250],[320,600],[400,300],[480,270],[546,200],[636,200],[636,300],[728,90],[969,414],[970,250],[970,415],[970,600],[1125,600],[1605,270]]",
+"sizeMapping":"[ [[0,0],[[300,600],[300,250]]], [[1024,0], [[480,270],[546,200],[636,200],[728,90]]], [[1236, 0],[[480,270],[546,200],[636,200],[636,300],[728,90],[969,414],[970,250],[970,415],[1605,270]]] ]",
+"dfpId":"21658289790,340432006",
+"dfpAdUnitPath":"le.devoir/opinion",
+"kv":{"zone":"A3"}}'>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="pub-to-clone-a2 zone-a2 pluscodes publicite-article-wrapper">
+   </div>
+   <script>
+    document.addEventListener('DOMContentLoaded', function () {
+        if (typeof App === 'undefined' || !App.PubliciteArticle) return;
+        const pub = (App.PubliciteArticle.getInstance && App.PubliciteArticle.getInstance())
+                || new App.PubliciteArticle();
+        pub.load && pub.load();
+    });
+   </script>
+   <script>
+    var favorisConf = {
+        isFavori: false,
+        isLu: false,
+        luUrl: "/article-favori-lu/874345",
+        modifierUrl: "/article-favori-modifier/874345"    };
+    function preFillEmail(){
+        var courriel = "";
+        if(courriel !== "" && $('#email_de').length){
+            $('#email_de').val(courriel);
+        }
+    }
+   </script>
+  </main>
+  <div class="footer-trust d-print-none">
+   <div class="container">
+    <div class="row">
+     <div class="trust-links">
+      <a href="/la-marque-de-confiance-trust-et-le-devoir" title="La marque de confiance Trust et Le Devoir">
+       <svg aria-hidden="true" focusable="true" height="30" id="Layer_1" version="1.1" viewbox="0 0 1000 1000" width="30" x="0" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" y="0">
+        <path d="M940 840c0 55.2-44.8 100-100 100H160c-55.2 0-100-44.8-100-100V160c0-55.2 44.8-100 100-100h680c55.2 0 100 44.8 100 100v680z" fill="#fff">
+        </path>
+        <path class="st1" d="M840 0H160C71.8 0 0 71.8 0 160v680c0 88.2 71.8 160 160 160h680c88.2 0 160-71.8 160-160V160c0-88.2-71.8-160-160-160zm100 840c0 55.2-44.8 100-100 100H160c-55.2 0-100-44.8-100-100V160c0-55.2 44.8-100 100-100h680c55.2 0 100 44.8 100 100v680z">
+        </path>
+        <path class="st1" d="M598.9 770H401.6c-4 0-7.2-3.2-7.2-7.2V427.1c0-5-4-9-9-9H210.2c-4 0-7.2-3.2-7.2-7.2V237.2c0-4 3.2-7.2 7.2-7.2h579.6c4 0 7.2 3.2 7.2 7.2v173.7c0 4-3.2 7.2-7.2 7.2H613.3c-4 0-7.2 3.2-7.2 7.2v337.5c0 4-3.2 7.2-7.2 7.2z" id="SVGID_1_">
+        </path>
+       </svg>
+      </a>
+      <a class="pourquoi" href="/nos-pratiques-journalistiques">
+       Pourquoi faire confiance au
+       <i>
+        Devoir
+       </i>
+       ?
+      </a>
+     </div>
+    </div>
+   </div>
+  </div>
+  <footer class="d-print-none">
+   <nav aria-label="Menu pied de page" id="menu-footer">
+    <div class="container d-none d-md-block">
+     <div class="row">
+      <div class="footer-items col">
+       <div class="title-section">
+        S’abonner
+       </div>
+       <ul class="list-unstyled">
+        <li>
+         <a href="https://abonnement.ledevoir.com/nos-offres">
+          Abonnez-vous au
+          <em>
+           Devoir
+          </em>
+         </a>
+        </li>
+        <li>
+         <a href="/infolettres">
+          Infolettres
+         </a>
+        </li>
+        <li>
+         <a href="/mon-abonnement">
+          Gérer votre abonnement
+         </a>
+        </li>
+        <li>
+         <a href="/classe">
+          <em>
+           Le Devoir
+          </em>
+          en classe
+         </a>
+        </li>
+        <li>
+         <a href="/flux-rss">
+          Flux RSS
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="footer-items col">
+       <div class="title-section">
+        À PROPOS
+       </div>
+       <ul class="list-unstyled">
+        <li>
+         <a href="/a-propos">
+          À propos de nous
+         </a>
+        </li>
+        <li>
+         <a href="/politique-de-confidentialite">
+          Politique de confidentialité
+         </a>
+        </li>
+        <li>
+         <a href="/conditions">
+          Conditions d’utilisation
+         </a>
+        </li>
+        <li>
+         <a href="/participation-aux-commentaires">
+          Participation aux commentaires
+         </a>
+        </li>
+        <li>
+         <a href="/plan-de-site">
+          Plan du site
+         </a>
+        </li>
+        <li>
+         <a href="javascript:Didomi.preferences.show()">
+          Gestion des témoins
+         </a>
+        </li>
+        <li>
+         <a href="/registre-de-publicites-elections-federales-2025">
+          Registre des publicités électorales fédérales
+         </a>
+        </li>
+        <li>
+         <a href="/nos-pratiques-journalistiques">
+          Pourquoi faire confiance au
+          <em>
+           Devoir
+          </em>
+          ?
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="footer-items col">
+       <div class="title-section">
+        NOUS JOINDRE
+       </div>
+       <ul class="list-unstyled">
+        <li>
+         <a href="/le-devoir/direction">
+          Direction
+         </a>
+        </li>
+        <li>
+         <a href="/mon-abonnement">
+          Service à la clientèle
+         </a>
+        </li>
+        <li>
+         <a href="/publicite/fr/">
+          Service de la publicité
+         </a>
+        </li>
+        <li>
+         <a href="/redaction">
+          Rédaction
+         </a>
+        </li>
+        <li>
+         <a href="/le-devoir/nous-joindre">
+          Réagissez à nos contenus
+         </a>
+        </li>
+        <li>
+         <a href="/aide">
+          Besoin d’aide ?
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="footer-items col">
+       <div class="title-section">
+        SERVICES
+       </div>
+       <ul class="list-unstyled">
+        <li>
+         <a href="/services-et-annonces/avis-publics">
+          Avis publics et appels d’offres
+         </a>
+        </li>
+        <li>
+         <a href="/services-et-annonces/avis-deces">
+          Avis de décès
+         </a>
+        </li>
+        <li>
+         <a href="/jeux">
+          Jeux
+         </a>
+        </li>
+        <li>
+         <a href="https://sommetouteledevoir.com/" target="_blank">
+          Éditions Somme toute
+          <em>
+           Le Devoir
+          </em>
+         </a>
+        </li>
+        <li>
+         <a href="/communiques-de-presse">
+          Communiqués de presse
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="col-auto" id="media-sociaux-footer">
+       <div class="title-section d-none d-md-block">
+        SUIVEZ LE DEVOIR
+       </div>
+       <div class="icons-sociaux d-flex justify-content-center justify-content-md-start align-items-center pb-4 flex-wrap">
+        <a href="https://bsky.app/profile/ledevoir.com/" target="_blank">
+         <svg aria-hidden="true" focusable="true" height="21" viewbox="0 0 600 535" width="21" xmlns="http://www.w3.org/2000/svg">
+          <path d="m299.75 238.48c-26.326-51.007-97.736-146.28-164.21-193.17-63.677-44.919-88.028-37.186-103.82-29.946-18.428 8.3915-21.719 36.692-21.719 53.311s9.0496 136.57 15.138 156.48c19.745 66.145 89.674 88.522 154.17 81.282 3.2908-0.49362 6.5816-0.98723 10.037-1.3163-3.2908 0.49362-6.7461 0.98723-10.037 1.3163-94.445 13.986-178.52 48.374-68.284 170.96 121.1 125.38 166.02-26.82 189.06-104.15 23.035 77.169 49.526 223.94 186.75 104.15 103.17-104.15 28.301-156.97-66.145-170.96-3.2908-0.32908-6.7461-0.82269-10.037-1.3163 3.4553 0.49362 6.7461 0.82269 10.037 1.3163 64.499 7.2397 134.59-15.138 154.17-81.282 5.9234-20.074 15.138-139.86 15.138-156.48s-3.2908-44.919-21.719-53.311c-15.96-7.2397-40.148-14.973-103.82 29.946-66.967 47.058-138.38 142.16-164.7 193.17z">
+          </path>
+         </svg>
+        </a>
+        <a href="https://www.linkedin.com/company/le-devoir/" target="_blank">
+         <svg aria-hidden="true" fill="none" focusable="true" height="20" viewbox="0 0 22 20" width="22" xmlns="http://www.w3.org/2000/svg">
+          <path d="M21.1111 19.7183V12.2973C21.1111 8.31822 18.8822 6.46301 15.9061 6.46301C13.5 6.46301 12.4235 7.71694 11.8283 8.59976V6.77014H7.30719C7.37051 7.98563 7.30719 19.7183 7.30719 19.7183H11.8283V12.4893C11.8283 12.1055 11.8536 11.7216 11.9803 11.4401C12.3095 10.6725 13.0567 9.86642 14.2978 9.86642C15.9315 9.86642 16.59 11.0563 16.59 12.7964V19.7183H21.1111ZM2.53282 5.00448C4.11584 5.00448 5.09096 4.0065 5.09096 2.76542C5.06564 1.49876 4.10316 0.526367 2.55814 0.526367C1.01312 0.526367 0 1.48596 0 2.76542C0 4.04489 0.987815 5.00448 2.50751 5.00448H2.53282ZM4.79971 19.7183V6.77014H0.278612V19.7183H4.79971Z" fill="white" id="Vector">
+          </path>
+         </svg>
+        </a>
+        <a href="https://www.threads.net/@ledevoir" target="_blank">
+         <svg aria-hidden="true" fill="none" focusable="true" height="22" viewbox="0 0 19 22" width="19" xmlns="http://www.w3.org/2000/svg">
+          <path d="M14.8304 10.351C14.7395 10.3074 14.6471 10.2655 14.5535 10.2253C14.3906 7.22281 12.75 5.50388 9.99516 5.48628C9.98268 5.48621 9.97027 5.48621 9.95779 5.48621C8.31006 5.48621 6.93968 6.18954 6.09621 7.46938L7.61126 8.50867C8.24136 7.55268 9.23025 7.34888 9.95851 7.34888C9.96692 7.34888 9.97537 7.34888 9.98369 7.34896C10.8907 7.35474 11.5752 7.61846 12.0182 8.13276C12.3406 8.50719 12.5562 9.02459 12.663 9.67759C11.8588 9.5409 10.989 9.49888 10.0593 9.55219C7.44014 9.70305 5.75636 11.2306 5.86944 13.3531C5.92683 14.4298 6.46321 15.3561 7.3797 15.9611C8.15459 16.4726 9.1526 16.7228 10.1898 16.6662C11.5596 16.5911 12.6342 16.0684 13.3838 15.1128C13.9532 14.3871 14.3133 13.4467 14.4723 12.2617C15.1251 12.6557 15.6089 13.1741 15.876 13.7974C16.3304 14.8568 16.3569 16.5977 14.9364 18.0169C13.6918 19.2603 12.1958 19.7982 9.93486 19.8148C7.42689 19.7962 5.53015 18.9919 4.29694 17.4242C3.14214 15.9562 2.54533 13.8358 2.52307 11.122C2.54533 8.40806 3.14214 6.28769 4.29694 4.81971C5.53015 3.25201 7.42686 2.44771 9.93483 2.42908C12.461 2.44786 14.3908 3.25603 15.6712 4.83129C16.299 5.60378 16.7724 6.57524 17.0844 7.70793L18.8599 7.23424C18.4816 5.84003 17.8864 4.63862 17.0765 3.64225C15.435 1.6227 13.0343 0.587863 9.94102 0.566406H9.92864C6.84165 0.587789 4.46781 1.62656 2.87306 3.65383C1.45396 5.45785 0.721939 7.96802 0.697343 11.1145L0.697266 11.122L0.697343 11.1294C0.721939 14.2759 1.45396 16.7861 2.87306 18.5901C4.46781 20.6173 6.84165 21.6562 9.92864 21.6775H9.94102C12.6855 21.6585 14.62 20.9399 16.2137 19.3477C18.2988 17.2646 18.236 14.6536 17.5488 13.0507C17.0557 11.9012 16.1157 10.9676 14.8304 10.351ZM10.0918 14.8062C8.94385 14.8708 7.75128 14.3556 7.69248 13.252C7.64889 12.4337 8.27481 11.5207 10.1622 11.4119C10.3784 11.3994 10.5905 11.3933 10.7988 11.3933C11.4844 11.3933 12.1257 11.4599 12.7088 11.5874C12.4913 14.3035 11.2157 14.7445 10.0918 14.8062Z" fill="white" id="Vector">
+          </path>
+         </svg>
+        </a>
+        <a href="https://www.tiktok.com/@ledevoir" target="_blank">
+         <svg aria-hidden="true" fill="none" focusable="true" height="22" viewbox="0 0 22 22" width="22" xmlns="http://www.w3.org/2000/svg">
+          <path d="M20.4999 0.566406H1.49989C1.21994 0.566406 0.951456 0.677616 0.753501 0.875571C0.555546 1.07353 0.444336 1.34201 0.444336 1.62196V20.622C0.444336 20.9019 0.555546 21.1704 0.753501 21.3684C0.951456 21.5663 1.21994 21.6775 1.49989 21.6775H20.4999C20.7798 21.6775 21.0483 21.5663 21.2463 21.3684C21.4442 21.1704 21.5554 20.9019 21.5554 20.622V1.62196C21.5554 1.34201 21.4442 1.07353 21.2463 0.875571C21.0483 0.677616 20.7798 0.566406 20.4999 0.566406ZM17.0366 9.77613C16.9215 9.78737 16.806 9.79336 16.6904 9.79407C16.0641 9.79489 15.4475 9.63965 14.8963 9.34239C14.3451 9.04512 13.8766 8.6152 13.5332 8.09146V13.8896C13.5334 14.7375 13.2822 15.5664 12.8112 16.2715C12.3403 16.9766 11.6708 17.5262 10.8875 17.8508C10.1042 18.1754 9.24222 18.2603 8.4106 18.095C7.57898 17.9296 6.81508 17.5213 6.21552 16.9218C5.61597 16.3222 5.20768 15.5583 5.04232 14.7267C4.87695 13.8951 4.96193 13.0331 5.2865 12.2498C5.61108 11.4665 6.16067 10.797 6.86576 10.3261C7.57085 9.85512 8.39977 9.60386 9.24767 9.60407C9.33739 9.60407 9.42395 9.61252 9.51261 9.61779V11.7289C9.21729 11.6931 8.91777 11.7181 8.63246 11.8024C8.34715 11.8866 8.08208 12.0283 7.85354 12.2187C7.625 12.4092 7.43782 12.6443 7.3035 12.9097C7.16918 13.1752 7.09055 13.4653 7.07246 13.7622C7.05436 14.0591 7.09718 14.3566 7.19828 14.6364C7.29938 14.9162 7.45662 15.1723 7.66035 15.3891C7.86408 15.6059 8.10998 15.7787 8.38295 15.897C8.65592 16.0152 8.95019 16.0764 9.24767 16.0767C9.83473 16.0874 10.4025 15.8672 10.8289 15.4635C11.2553 15.0598 11.5062 14.5049 11.5277 13.9181L11.5488 4.06874H13.5691C13.6614 4.94639 14.0592 5.76367 14.6931 6.37766C15.3269 6.99165 16.1565 7.36327 17.0366 7.42752V9.77613Z" fill="white" id="Vector">
+          </path>
+         </svg>
+        </a>
+        <a href="https://x.com/LeDevoir?mx=2" target="_blank">
+         <svg aria-hidden="true" fill="none" focusable="true" height="21" viewbox="0 0 22 21" width="22" xmlns="http://www.w3.org/2000/svg">
+          <path d="M13.3666 8.53906L21.1184 0.226562H19.1392L12.476 7.35156L7.26421 0.226562H0.666992L8.78158 11.3099L0.666992 20.0182H2.64616L9.6722 12.4974L15.1809 20.0182H21.7781L13.3666 8.53906ZM3.60276 1.54601H6.24164L18.8094 18.6988H16.1705L3.60276 1.54601Z" fill="white" id="Vector">
+          </path>
+         </svg>
+        </a>
+        <a href="https://www.youtube.com/user/JournalLeDevoir?sub_confirmation=1" target="_blank">
+         <svg aria-hidden="true" fill="none" focusable="true" height="16" viewbox="0 0 22 16" width="22" xmlns="http://www.w3.org/2000/svg">
+          <path d="M21.9949 5.93319C22.0423 4.56054 21.7422 3.19817 21.1222 1.97256C20.7016 1.46966 20.1179 1.13029 19.4728 1.01357C16.8044 0.771448 14.125 0.672211 11.446 0.716282C8.77681 0.670211 6.10704 0.766246 3.44804 1.00398C2.92234 1.09961 2.43584 1.34619 2.04792 1.71363C1.18482 2.50959 1.08892 3.87136 0.993025 5.02215C0.853887 7.09123 0.853887 9.16733 0.993025 11.2364C1.02077 11.8841 1.11721 12.527 1.28072 13.1544C1.39635 13.6387 1.6303 14.0869 1.96161 14.4586C2.35217 14.8455 2.85 15.1061 3.3905 15.2066C5.45801 15.4618 7.54122 15.5676 9.62394 15.5231C12.9804 15.571 15.9245 15.5231 19.4056 15.2546C19.9594 15.1603 20.4713 14.8993 20.8729 14.5066C21.1414 14.238 21.3419 13.9092 21.4579 13.5476C21.8008 12.4952 21.9693 11.3938 21.9566 10.287C21.9949 9.74997 21.9949 6.50859 21.9949 5.93319ZM9.2787 10.8624V4.92625L14.9559 7.90871C13.364 8.79098 11.2638 9.78833 9.2787 10.8624Z" fill="white" id="Vector">
+          </path>
+         </svg>
+        </a>
+       </div>
+       <p class="text-center text-md-start">
+        Télécharger l’application
+       </p>
+       <div class="row justify-content-center justify-content-md-start align-items-center">
+        <div class="col-auto">
+         <a class="d-block d-md-none d-xl-block" href="https://apps.apple.com/ca/app/le-devoir-mobile/id1119227195" rel="noopener" target="_blank">
+          <img alt="Télécharger sur l'App Store" height="50" src="https://media1.ledevoir.com/images/archip/download-button-app-store.svg" width="156">
+          </img>
+         </a>
+         <a class="d-none d-md-block d-xl-none" href="https://apps.apple.com/ca/app/journal-le-devoir/id909476802" rel="noopener" target="_blank">
+          <img alt="Télécharger sur l'App Store" height="50" src="https://media1.ledevoir.com/images/archip/download-button-app-store.svg" width="156"/>
+         </a>
+        </div>
+        <div class="col-auto">
+         <a class="d-block d-md-none d-xl-block" href="https://play.google.com/store/apps/details?id=com.ledevoir.appmobile" rel="noopener" target="_blank">
+          <img alt="Télécharger sur Google Play" height="50" src="https://media1.ledevoir.com/images/archip/download-button-google-play.svg" width="167"/>
+         </a>
+         <a class="d-none d-md-block d-xl-none" href="https://play.google.com/store/apps/details?id=com.ledevoir.journaltablette.and" rel="noopener" target="_blank">
+          <img alt="Télécharger sur Google Play" height="50" src="https://media1.ledevoir.com/images/archip/download-button-google-play.svg" width="167"/>
+         </a>
+        </div>
+       </div>
+      </div>
+      <script charset="utf-8" type="text/javascript">
+       (function () {
+        function isTablet() {
+            var ua = (navigator.userAgent || "").toLowerCase();
+            var plat = navigator.platform || "";
+            var maxTP = navigator.maxTouchPoints || 0;
+            var dpr = window.devicePixelRatio || 1;
+
+            var isiPadDesktopUA = (plat === "MacIntel" && maxTP > 1);
+
+            var isiPadUA = /ipad/.test(ua);
+            var isAndroidTabletUA = /android/.test(ua) && !/mobile/.test(ua);
+            var hasTabletWord = /tablet/.test(ua);
+
+            var mqTablet = window.matchMedia &&
+                window.matchMedia("(pointer: coarse) and (min-width: 768px) and (max-width: 1100px)").matches;
+
+            var cssMinSide = Math.min(screen.width, screen.height) / (dpr || 1);
+            var coarse = window.matchMedia && window.matchMedia("(pointer: coarse)").matches;
+            var looksTabletBySize = coarse && cssMinSide >= 768;
+
+            return isiPadDesktopUA || isiPadUA || isAndroidTabletUA || hasTabletWord || mqTablet || looksTabletBySize;
+        }
+
+        // Au clic : si tablette détectée, on remplace la cible juste avant d'ouvrir
+        function attachClickHandler(id, tabletHref) {
+            var el = document.getElementById(id);
+            if (!el) return;
+            el.addEventListener("click", function (e) {
+                if (isTablet()) {
+                    e.preventDefault();
+                    if (id === "btn-appstore") {
+                        el.href = "https://apps.apple.com/ca/app/journal-le-devoir/id909476802";
+                    } else {
+                        el.href = "https://play.google.com/store/apps/details?id=com.ledevoir.journaltablette.and";
+                    }
+                    window.open(el.href, "_blank", "noopener");
+                }
+                // Sinon : on laisse les liens mobiles par défaut
+            }, { passive: false });
+        }
+
+        document.addEventListener("DOMContentLoaded", function () {
+            attachClickHandler("btn-appstore");
+            attachClickHandler("btn-googleplay");
+        });
+    })();
+      </script>
+     </div>
+    </div>
+    <div class="logo-mobile d-md-none">
+     <a href="/">
+      <svg aria-hidden="true" class="logo mx-auto d-block img-fluid" fill="none" focusable="true" height="46" viewbox="0 0 218 46" width="218" xmlns="http://www.w3.org/2000/svg">
+       <g id="Layer 2">
+        <g id="Layer 1-2">
+         <g id="Group">
+          <path d="M198.154 22.0721V2.23994C198.154 1.85583 198.274 1.60107 198.511 1.60107H201.012C202.402 1.60107 203.354 1.9205 204.068 2.75338C205.458 4.35249 205.933 7.93482 205.933 11.9012C205.933 15.8677 205.537 18.8111 204.386 20.5376C203.672 21.6899 202.482 22.074 201.132 22.074H198.154V22.0721ZM211.371 45.8707C216.094 45.8707 217.919 42.4157 218 35.6979H217.523C217.523 39.9837 216.73 42.4157 215.34 42.4157C214.347 42.4157 213.832 41.6475 213.553 40.3678C213.236 38.5767 212.998 35.6979 212.8 33.0111C212.323 25.8465 208.672 23.6065 204.108 22.7756V22.6482C209.783 22.0094 213.316 18.4251 213.316 11.7719C213.316 4.66996 210.22 0.703532 202.957 0.703532H186.804V1.34239L190.137 1.40706C190.455 1.40706 190.534 1.59911 190.534 1.98321V43.7581C190.534 44.2069 190.455 44.3343 190.137 44.3343L186.804 44.3989V45.0378H201.807V44.3989L198.553 44.3343C198.235 44.3343 198.156 44.2069 198.156 43.4387V22.9677L201.291 23.0323C203.354 23.0323 204.704 24.12 204.863 27.8943C204.942 30.197 205.022 33.2678 205.142 35.1237C205.46 42.6078 207.643 45.8707 211.373 45.8707M170.453 45.0397H185.534V44.4009L182.201 44.3362C181.883 44.3362 181.765 44.2088 181.765 43.7601V1.98321C181.765 1.5364 181.883 1.40706 182.201 1.40706L185.534 1.34239V0.703532H170.453V1.34239L173.788 1.40706C174.106 1.40706 174.184 1.53444 174.184 1.98321V43.7581C174.184 44.2069 174.106 44.3343 173.788 44.3343L170.453 44.3989V45.0378V45.0397ZM155.729 46C164.262 46 169.978 35.9565 169.978 23.0323C169.978 10.1081 164.26 0 155.727 0C147.194 0 141.439 10.0435 141.439 23.0304C141.439 36.0173 147.194 45.998 155.727 45.998M155.727 45.2298C154.814 45.2298 154.06 45.1025 153.148 44.2069C151.043 42.0963 149.854 36.0173 149.854 23.0304C149.854 10.0435 151.045 3.90176 153.148 1.79116C154.06 0.830912 154.814 0.703532 155.727 0.703532C156.64 0.703532 157.393 0.830912 158.267 1.79116C160.371 3.90176 161.602 9.98074 161.602 23.0304C161.602 36.08 160.371 42.0943 158.267 44.2069C157.393 45.1025 156.6 45.2298 155.727 45.2298ZM128.54 45.2298H131.2L140.051 6.46113C140.885 2.81413 141.558 1.47173 143.027 1.40706L144.495 1.34239V0.703532H136.28V1.34239L138.145 1.40706C140.169 1.47173 139.97 4.15848 139.334 6.90794L133.54 32.3703H133.42L127.466 4.22119C127.07 2.30265 127.031 1.46977 128.102 1.40706L130.841 1.34239V0.703532H116.156V1.34239L117.822 1.40706C119.014 1.47173 119.33 2.43003 119.807 4.54258L128.538 45.2298H128.54ZM88.7707 45.0378H115.64V26.7401H115.282C114.289 31.2827 112.98 35.8252 111.235 39.0862C109.409 42.6685 107.425 44.2049 104.249 44.2049H100.517C100.199 44.2049 100.121 44.0129 100.121 43.6288V23.0284H101.43C103.096 23.0284 104.486 23.4772 105.438 25.0116C106.669 26.8028 107.423 30.0657 107.501 33.2639H107.978V12.0267H107.501C107.423 15.2249 106.469 18.5525 105.397 20.279C104.484 21.8781 103.136 22.2622 101.428 22.2622H100.119V2.1106C100.119 1.72649 100.197 1.53444 100.476 1.53444H104.009C106.549 1.53444 108.495 2.74946 109.843 4.60529C111.669 7.03728 113.098 11.3231 114.13 17.2081H114.568V0.703532H88.7688V1.34239L92.102 1.40706C92.4199 1.40706 92.4985 1.59911 92.4985 1.98321V43.7581C92.4985 44.1422 92.4181 44.3343 92.102 44.3343L88.7688 44.3989V45.0378H88.7707ZM69.7988 44.2069C69.4808 44.2069 69.4023 44.0148 69.4023 43.6307V2.04788C69.4023 1.66378 69.4808 1.47173 69.7595 1.47173H72.8158C74.2448 1.47173 75.4363 1.72845 76.3884 2.4947C78.8499 4.47791 79.9198 10.939 79.9198 22.9657C79.9198 34.9924 78.53 40.8793 76.4277 43.0546C75.4363 44.0148 74.2448 44.2069 73.0141 44.2069H69.7988ZM58.0898 45.0378H73.9662C81.8239 45.0378 88.2937 37.0403 88.2937 22.903C88.2937 8.76573 81.9436 0.703532 73.809 0.703532H58.0917V1.34239L61.4267 1.40706C61.7447 1.40706 61.8232 1.59911 61.8232 1.98321V43.7581C61.8232 44.1422 61.7428 44.3343 61.4267 44.3343L58.0917 44.3989V45.0378H58.0898Z" fill="white" id="Vector">
+          </path>
+          <path d="M27.5048 45.0374H54.3737V26.7397H54.0165C53.0252 31.2823 51.714 35.8248 49.9689 39.0858C48.1433 42.6681 46.1588 44.2045 42.9846 44.2045H39.2531C38.9351 44.2045 38.8566 44.0125 38.8566 43.6284V23.028H40.1659C41.8324 23.028 43.2222 23.4768 44.1742 25.0112C45.405 26.8024 46.1588 30.0653 46.2392 33.2635H46.7162V12.0263H46.2392C46.1588 15.2245 45.2067 18.5521 44.1349 20.2786C43.2222 21.8777 41.8736 22.2618 40.1659 22.2618H38.8566V2.11019C38.8566 1.72609 38.9351 1.53404 39.2138 1.53404H42.7471C45.2871 1.53404 47.2324 2.74905 48.581 4.60488C50.4065 7.03687 51.8356 11.3227 52.868 17.2077H53.3057V0.703125H27.5067V1.34199L30.8417 1.40666C31.1597 1.40666 31.2382 1.59871 31.2382 1.98281V43.7577C31.2382 44.1418 31.1597 44.3339 30.8417 44.3339L27.5067 44.3985V45.0374H27.5048ZM0 45.0374H25.8776V25.2699H25.4399C24.4074 29.8125 23.1785 34.4824 21.4708 38.0001C19.5667 41.9019 17.9787 44.2692 15.2404 44.2692H11.7482C11.4303 44.2692 11.3517 44.0125 11.3517 43.6303L11.3124 1.98281C11.3124 1.536 11.4321 1.40666 11.7482 1.40666L15.0832 1.34199V0.703125H0V1.34199L3.33313 1.40666C3.6511 1.40666 3.72966 1.53404 3.72966 1.98281V43.7577C3.72966 44.1418 3.6511 44.3966 3.33313 44.3966H0V45.0354V45.0374Z" fill="#7B9BA9" id="Vector_2">
+          </path>
+         </g>
+        </g>
+       </g>
+      </svg>
+     </a>
+    </div>
+    <div class="accordion accordion-flush menu-accordion d-md-none" id="footerMenuAccordion">
+     <div class="accordion-item">
+      <div class="accordion-header">
+       <a aria-controls="flush-collapse-footer-menu-1" aria-expanded="false" class="accordion-button accordion-footer collapsed" data-bs-target="#flush-collapse-footer-menu-1" data-bs-toggle="collapse" type="button">
+        <div class="container py-0">
+         <div class="row flex-nowrap justify-content-center align-items-center">
+          <div class="col">
+           S’abonner
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="accordion-collapse collapse" data-bs-parent="#footerMenuAccordion" id="flush-collapse-footer-menu-1">
+       <div class="accordion-body">
+        <ul class="list-group list-group-flush">
+         <li class="list-group-item">
+          <div class="container">
+           <div class="row flex-nowrap justify-content-center align-items-center">
+            <div class="col">
+             <a href="https://abonnement.ledevoir.com/nos-offres">
+              Abonnez-vous au
+              <em>
+               Devoir
+              </em>
+             </a>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li class="list-group-item">
+          <div class="container">
+           <div class="row flex-nowrap justify-content-center align-items-center">
+            <div class="col">
+             <a href="/infolettres">
+              Infolettres
+             </a>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li class="list-group-item">
+          <div class="container">
+           <div class="row flex-nowrap justify-content-center align-items-center">
+            <div class="col">
+             <a href="/mon-abonnement">
+              Gérer votre abonnement
+             </a>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li class="list-group-item">
+          <div class="container">
+           <div class="row flex-nowrap justify-content-center align-items-center">
+            <div class="col">
+             <a href="/classe">
+              <em>
+               Le Devoir
+              </em>
+              en classe
+             </a>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li class="list-group-item">
+          <div class="container">
+           <div class="row flex-nowrap justify-content-center align-items-center">
+            <div class="col">
+             <a href="/flux-rss">
+              Flux RSS
+             </a>
+            </div>
+           </div>
+          </div>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+     <div class="accordion-item">
+      <div class="accordion-header">
+       <a aria-controls="flush-collapse-footer-menu-2" aria-expanded="false" class="accordion-button accordion-footer collapsed" data-bs-target="#flush-collapse-footer-menu-2" data-bs-toggle="collapse" type="button">
+        <div class="container py-0">
+         <div class="row flex-nowrap justify-content-center align-items-center">
+          <div class="col">
+           À PROPOS
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="accordion-collapse collapse" data-bs-parent="#footerMenuAccordion" id="flush-collapse-footer-menu-2">
+       <div class="accordion-body">
+        <ul class="list-group list-group-flush">
+         <li class="list-group-item">
+          <div class="container">
+           <div class="row flex-nowrap justify-content-center align-items-center">
+            <div class="col">
+             <a href="/a-propos">
+              À propos de nous
+             </a>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li class="list-group-item">
+          <div class="container">
+           <div class="row flex-nowrap justify-content-center align-items-center">
+            <div class="col">
+             <a href="/politique-de-confidentialite">
+              Politique de confidentialité
+             </a>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li class="list-group-item">
+          <div class="container">
+           <div class="row flex-nowrap justify-content-center align-items-center">
+            <div class="col">
+             <a href="/conditions">
+              Conditions d’utilisation
+             </a>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li class="list-group-item">
+          <div class="container">
+           <div class="row flex-nowrap justify-content-center align-items-center">
+            <div class="col">
+             <a href="/participation-aux-commentaires">
+              Participation aux commentaires
+             </a>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li class="list-group-item">
+          <div class="container">
+           <div class="row flex-nowrap justify-content-center align-items-center">
+            <div class="col">
+             <a href="/plan-de-site">
+              Plan du site
+             </a>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li class="list-group-item">
+          <div class="container">
+           <div class="row flex-nowrap justify-content-center align-items-center">
+            <div class="col">
+             <a href="javascript:Didomi.preferences.show()">
+              Gestion des témoins
+             </a>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li class="list-group-item">
+          <div class="container">
+           <div class="row flex-nowrap justify-content-center align-items-center">
+            <div class="col">
+             <a href="/registre-de-publicites-elections-federales-2025">
+              Registre des publicités électorales fédérales
+             </a>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li class="list-group-item">
+          <div class="container">
+           <div class="row flex-nowrap justify-content-center align-items-center">
+            <div class="col">
+             <a href="/nos-pratiques-journalistiques">
+              Pourquoi faire confiance au
+              <em>
+               Devoir
+              </em>
+              ?
+             </a>
+            </div>
+           </div>
+          </div>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+     <div class="accordion-item">
+      <div class="accordion-header">
+       <a aria-controls="flush-collapse-footer-menu-3" aria-expanded="false" class="accordion-button accordion-footer collapsed" data-bs-target="#flush-collapse-footer-menu-3" data-bs-toggle="collapse" type="button">
+        <div class="container py-0">
+         <div class="row flex-nowrap justify-content-center align-items-center">
+          <div class="col">
+           NOUS JOINDRE
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="accordion-collapse collapse" data-bs-parent="#footerMenuAccordion" id="flush-collapse-footer-menu-3">
+       <div class="accordion-body">
+        <ul class="list-group list-group-flush">
+         <li class="list-group-item">
+          <div class="container">
+           <div class="row flex-nowrap justify-content-center align-items-center">
+            <div class="col">
+             <a href="/le-devoir/direction">
+              Direction
+             </a>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li class="list-group-item">
+          <div class="container">
+           <div class="row flex-nowrap justify-content-center align-items-center">
+            <div class="col">
+             <a href="/mon-abonnement">
+              Service à la clientèle
+             </a>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li class="list-group-item">
+          <div class="container">
+           <div class="row flex-nowrap justify-content-center align-items-center">
+            <div class="col">
+             <a href="/publicite/fr/">
+              Service de la publicité
+             </a>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li class="list-group-item">
+          <div class="container">
+           <div class="row flex-nowrap justify-content-center align-items-center">
+            <div class="col">
+             <a href="/redaction">
+              Rédaction
+             </a>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li class="list-group-item">
+          <div class="container">
+           <div class="row flex-nowrap justify-content-center align-items-center">
+            <div class="col">
+             <a href="/le-devoir/nous-joindre">
+              Réagissez à nos contenus
+             </a>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li class="list-group-item">
+          <div class="container">
+           <div class="row flex-nowrap justify-content-center align-items-center">
+            <div class="col">
+             <a href="/aide">
+              Besoin d’aide ?
+             </a>
+            </div>
+           </div>
+          </div>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+     <div class="accordion-item">
+      <div class="accordion-header">
+       <a aria-controls="flush-collapse-footer-menu-4" aria-expanded="false" class="accordion-button accordion-footer collapsed" data-bs-target="#flush-collapse-footer-menu-4" data-bs-toggle="collapse" type="button">
+        <div class="container py-0">
+         <div class="row flex-nowrap justify-content-center align-items-center">
+          <div class="col">
+           SERVICES
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="accordion-collapse collapse" data-bs-parent="#footerMenuAccordion" id="flush-collapse-footer-menu-4">
+       <div class="accordion-body">
+        <ul class="list-group list-group-flush">
+         <li class="list-group-item">
+          <div class="container">
+           <div class="row flex-nowrap justify-content-center align-items-center">
+            <div class="col">
+             <a href="/services-et-annonces/avis-publics">
+              Avis publics et appels d’offres
+             </a>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li class="list-group-item">
+          <div class="container">
+           <div class="row flex-nowrap justify-content-center align-items-center">
+            <div class="col">
+             <a href="/services-et-annonces/avis-deces">
+              Avis de décès
+             </a>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li class="list-group-item">
+          <div class="container">
+           <div class="row flex-nowrap justify-content-center align-items-center">
+            <div class="col">
+             <a href="/jeux">
+              Jeux
+             </a>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li class="list-group-item">
+          <div class="container">
+           <div class="row flex-nowrap justify-content-center align-items-center">
+            <div class="col">
+             <a href="https://sommetouteledevoir.com/" target="_blank">
+              Éditions Somme toute
+              <em>
+               Le Devoir
+              </em>
+             </a>
+            </div>
+           </div>
+          </div>
+         </li>
+         <li class="list-group-item">
+          <div class="container">
+           <div class="row flex-nowrap justify-content-center align-items-center">
+            <div class="col">
+             <a href="/communiques-de-presse">
+              Communiqués de presse
+             </a>
+            </div>
+           </div>
+          </div>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+     <div class="accordion-item">
+      <div class="accordion-header">
+       <a aria-controls="flush-collapse-footer-menu-5" aria-expanded="false" class="accordion-button accordion-footer collapsed" data-bs-target="#flush-collapse-footer-menu-5" data-bs-toggle="collapse" type="button">
+        <div class="container py-0">
+         <div class="row flex-nowrap justify-content-center align-items-center">
+          <div class="col">
+           SUIVEZ LE DEVOIR
+          </div>
+         </div>
+        </div>
+       </a>
+      </div>
+      <div class="accordion-collapse collapse" data-bs-parent="#footerMenuAccordion" id="flush-collapse-footer-menu-5">
+       <div class="accordion-body pb-0">
+        <ul class="list-group list-group-flush">
+         <li>
+          <div class="container">
+           <div class="row pt-3 justify-content-center align-items-center">
+            <div class="col-auto" id="media-sociaux-footer">
+             <div class="title-section d-none d-md-block">
+              SUIVEZ LE DEVOIR
+             </div>
+             <div class="icons-sociaux d-flex justify-content-center justify-content-md-start align-items-center pb-4 flex-wrap">
+              <a href="https://bsky.app/profile/ledevoir.com/" target="_blank">
+               <svg aria-hidden="true" focusable="true" height="21" viewbox="0 0 600 535" width="21" xmlns="http://www.w3.org/2000/svg">
+                <path d="m299.75 238.48c-26.326-51.007-97.736-146.28-164.21-193.17-63.677-44.919-88.028-37.186-103.82-29.946-18.428 8.3915-21.719 36.692-21.719 53.311s9.0496 136.57 15.138 156.48c19.745 66.145 89.674 88.522 154.17 81.282 3.2908-0.49362 6.5816-0.98723 10.037-1.3163-3.2908 0.49362-6.7461 0.98723-10.037 1.3163-94.445 13.986-178.52 48.374-68.284 170.96 121.1 125.38 166.02-26.82 189.06-104.15 23.035 77.169 49.526 223.94 186.75 104.15 103.17-104.15 28.301-156.97-66.145-170.96-3.2908-0.32908-6.7461-0.82269-10.037-1.3163 3.4553 0.49362 6.7461 0.82269 10.037 1.3163 64.499 7.2397 134.59-15.138 154.17-81.282 5.9234-20.074 15.138-139.86 15.138-156.48s-3.2908-44.919-21.719-53.311c-15.96-7.2397-40.148-14.973-103.82 29.946-66.967 47.058-138.38 142.16-164.7 193.17z">
+                </path>
+               </svg>
+              </a>
+              <a href="https://www.linkedin.com/company/le-devoir/" target="_blank">
+               <svg aria-hidden="true" fill="none" focusable="true" height="20" viewbox="0 0 22 20" width="22" xmlns="http://www.w3.org/2000/svg">
+                <path d="M21.1111 19.7183V12.2973C21.1111 8.31822 18.8822 6.46301 15.9061 6.46301C13.5 6.46301 12.4235 7.71694 11.8283 8.59976V6.77014H7.30719C7.37051 7.98563 7.30719 19.7183 7.30719 19.7183H11.8283V12.4893C11.8283 12.1055 11.8536 11.7216 11.9803 11.4401C12.3095 10.6725 13.0567 9.86642 14.2978 9.86642C15.9315 9.86642 16.59 11.0563 16.59 12.7964V19.7183H21.1111ZM2.53282 5.00448C4.11584 5.00448 5.09096 4.0065 5.09096 2.76542C5.06564 1.49876 4.10316 0.526367 2.55814 0.526367C1.01312 0.526367 0 1.48596 0 2.76542C0 4.04489 0.987815 5.00448 2.50751 5.00448H2.53282ZM4.79971 19.7183V6.77014H0.278612V19.7183H4.79971Z" fill="white" id="Vector">
+                </path>
+               </svg>
+              </a>
+              <a href="https://www.threads.net/@ledevoir" target="_blank">
+               <svg aria-hidden="true" fill="none" focusable="true" height="22" viewbox="0 0 19 22" width="19" xmlns="http://www.w3.org/2000/svg">
+                <path d="M14.8304 10.351C14.7395 10.3074 14.6471 10.2655 14.5535 10.2253C14.3906 7.22281 12.75 5.50388 9.99516 5.48628C9.98268 5.48621 9.97027 5.48621 9.95779 5.48621C8.31006 5.48621 6.93968 6.18954 6.09621 7.46938L7.61126 8.50867C8.24136 7.55268 9.23025 7.34888 9.95851 7.34888C9.96692 7.34888 9.97537 7.34888 9.98369 7.34896C10.8907 7.35474 11.5752 7.61846 12.0182 8.13276C12.3406 8.50719 12.5562 9.02459 12.663 9.67759C11.8588 9.5409 10.989 9.49888 10.0593 9.55219C7.44014 9.70305 5.75636 11.2306 5.86944 13.3531C5.92683 14.4298 6.46321 15.3561 7.3797 15.9611C8.15459 16.4726 9.1526 16.7228 10.1898 16.6662C11.5596 16.5911 12.6342 16.0684 13.3838 15.1128C13.9532 14.3871 14.3133 13.4467 14.4723 12.2617C15.1251 12.6557 15.6089 13.1741 15.876 13.7974C16.3304 14.8568 16.3569 16.5977 14.9364 18.0169C13.6918 19.2603 12.1958 19.7982 9.93486 19.8148C7.42689 19.7962 5.53015 18.9919 4.29694 17.4242C3.14214 15.9562 2.54533 13.8358 2.52307 11.122C2.54533 8.40806 3.14214 6.28769 4.29694 4.81971C5.53015 3.25201 7.42686 2.44771 9.93483 2.42908C12.461 2.44786 14.3908 3.25603 15.6712 4.83129C16.299 5.60378 16.7724 6.57524 17.0844 7.70793L18.8599 7.23424C18.4816 5.84003 17.8864 4.63862 17.0765 3.64225C15.435 1.6227 13.0343 0.587863 9.94102 0.566406H9.92864C6.84165 0.587789 4.46781 1.62656 2.87306 3.65383C1.45396 5.45785 0.721939 7.96802 0.697343 11.1145L0.697266 11.122L0.697343 11.1294C0.721939 14.2759 1.45396 16.7861 2.87306 18.5901C4.46781 20.6173 6.84165 21.6562 9.92864 21.6775H9.94102C12.6855 21.6585 14.62 20.9399 16.2137 19.3477C18.2988 17.2646 18.236 14.6536 17.5488 13.0507C17.0557 11.9012 16.1157 10.9676 14.8304 10.351ZM10.0918 14.8062C8.94385 14.8708 7.75128 14.3556 7.69248 13.252C7.64889 12.4337 8.27481 11.5207 10.1622 11.4119C10.3784 11.3994 10.5905 11.3933 10.7988 11.3933C11.4844 11.3933 12.1257 11.4599 12.7088 11.5874C12.4913 14.3035 11.2157 14.7445 10.0918 14.8062Z" fill="white" id="Vector">
+                </path>
+               </svg>
+              </a>
+              <a href="https://www.tiktok.com/@ledevoir" target="_blank">
+               <svg aria-hidden="true" fill="none" focusable="true" height="22" viewbox="0 0 22 22" width="22" xmlns="http://www.w3.org/2000/svg">
+                <path d="M20.4999 0.566406H1.49989C1.21994 0.566406 0.951456 0.677616 0.753501 0.875571C0.555546 1.07353 0.444336 1.34201 0.444336 1.62196V20.622C0.444336 20.9019 0.555546 21.1704 0.753501 21.3684C0.951456 21.5663 1.21994 21.6775 1.49989 21.6775H20.4999C20.7798 21.6775 21.0483 21.5663 21.2463 21.3684C21.4442 21.1704 21.5554 20.9019 21.5554 20.622V1.62196C21.5554 1.34201 21.4442 1.07353 21.2463 0.875571C21.0483 0.677616 20.7798 0.566406 20.4999 0.566406ZM17.0366 9.77613C16.9215 9.78737 16.806 9.79336 16.6904 9.79407C16.0641 9.79489 15.4475 9.63965 14.8963 9.34239C14.3451 9.04512 13.8766 8.6152 13.5332 8.09146V13.8896C13.5334 14.7375 13.2822 15.5664 12.8112 16.2715C12.3403 16.9766 11.6708 17.5262 10.8875 17.8508C10.1042 18.1754 9.24222 18.2603 8.4106 18.095C7.57898 17.9296 6.81508 17.5213 6.21552 16.9218C5.61597 16.3222 5.20768 15.5583 5.04232 14.7267C4.87695 13.8951 4.96193 13.0331 5.2865 12.2498C5.61108 11.4665 6.16067 10.797 6.86576 10.3261C7.57085 9.85512 8.39977 9.60386 9.24767 9.60407C9.33739 9.60407 9.42395 9.61252 9.51261 9.61779V11.7289C9.21729 11.6931 8.91777 11.7181 8.63246 11.8024C8.34715 11.8866 8.08208 12.0283 7.85354 12.2187C7.625 12.4092 7.43782 12.6443 7.3035 12.9097C7.16918 13.1752 7.09055 13.4653 7.07246 13.7622C7.05436 14.0591 7.09718 14.3566 7.19828 14.6364C7.29938 14.9162 7.45662 15.1723 7.66035 15.3891C7.86408 15.6059 8.10998 15.7787 8.38295 15.897C8.65592 16.0152 8.95019 16.0764 9.24767 16.0767C9.83473 16.0874 10.4025 15.8672 10.8289 15.4635C11.2553 15.0598 11.5062 14.5049 11.5277 13.9181L11.5488 4.06874H13.5691C13.6614 4.94639 14.0592 5.76367 14.6931 6.37766C15.3269 6.99165 16.1565 7.36327 17.0366 7.42752V9.77613Z" fill="white" id="Vector">
+                </path>
+               </svg>
+              </a>
+              <a href="https://x.com/LeDevoir?mx=2" target="_blank">
+               <svg aria-hidden="true" fill="none" focusable="true" height="21" viewbox="0 0 22 21" width="22" xmlns="http://www.w3.org/2000/svg">
+                <path d="M13.3666 8.53906L21.1184 0.226562H19.1392L12.476 7.35156L7.26421 0.226562H0.666992L8.78158 11.3099L0.666992 20.0182H2.64616L9.6722 12.4974L15.1809 20.0182H21.7781L13.3666 8.53906ZM3.60276 1.54601H6.24164L18.8094 18.6988H16.1705L3.60276 1.54601Z" fill="white" id="Vector">
+                </path>
+               </svg>
+              </a>
+              <a href="https://www.youtube.com/user/JournalLeDevoir?sub_confirmation=1" target="_blank">
+               <svg aria-hidden="true" fill="none" focusable="true" height="16" viewbox="0 0 22 16" width="22" xmlns="http://www.w3.org/2000/svg">
+                <path d="M21.9949 5.93319C22.0423 4.56054 21.7422 3.19817 21.1222 1.97256C20.7016 1.46966 20.1179 1.13029 19.4728 1.01357C16.8044 0.771448 14.125 0.672211 11.446 0.716282C8.77681 0.670211 6.10704 0.766246 3.44804 1.00398C2.92234 1.09961 2.43584 1.34619 2.04792 1.71363C1.18482 2.50959 1.08892 3.87136 0.993025 5.02215C0.853887 7.09123 0.853887 9.16733 0.993025 11.2364C1.02077 11.8841 1.11721 12.527 1.28072 13.1544C1.39635 13.6387 1.6303 14.0869 1.96161 14.4586C2.35217 14.8455 2.85 15.1061 3.3905 15.2066C5.45801 15.4618 7.54122 15.5676 9.62394 15.5231C12.9804 15.571 15.9245 15.5231 19.4056 15.2546C19.9594 15.1603 20.4713 14.8993 20.8729 14.5066C21.1414 14.238 21.3419 13.9092 21.4579 13.5476C21.8008 12.4952 21.9693 11.3938 21.9566 10.287C21.9949 9.74997 21.9949 6.50859 21.9949 5.93319ZM9.2787 10.8624V4.92625L14.9559 7.90871C13.364 8.79098 11.2638 9.78833 9.2787 10.8624Z" fill="white" id="Vector">
+                </path>
+               </svg>
+              </a>
+             </div>
+             <p class="text-center text-md-start">
+              Télécharger l’application
+             </p>
+             <div class="row justify-content-center justify-content-md-start align-items-center">
+              <div class="col-auto">
+               <a class="d-block d-md-none d-xl-block" href="https://apps.apple.com/ca/app/le-devoir-mobile/id1119227195" rel="noopener" target="_blank">
+                <img alt="Télécharger sur l'App Store" height="50" src="https://media1.ledevoir.com/images/archip/download-button-app-store.svg" width="156"/>
+               </a>
+               <a class="d-none d-md-block d-xl-none" href="https://apps.apple.com/ca/app/journal-le-devoir/id909476802" rel="noopener" target="_blank">
+                <img alt="Télécharger sur l'App Store" height="50" src="https://media1.ledevoir.com/images/archip/download-button-app-store.svg" width="156"/>
+               </a>
+              </div>
+              <div class="col-auto">
+               <a class="d-block d-md-none d-xl-block" href="https://play.google.com/store/apps/details?id=com.ledevoir.appmobile" rel="noopener" target="_blank">
+                <img alt="Télécharger sur Google Play" height="50" src="https://media1.ledevoir.com/images/archip/download-button-google-play.svg" width="167"/>
+               </a>
+               <a class="d-none d-md-block d-xl-none" href="https://play.google.com/store/apps/details?id=com.ledevoir.journaltablette.and" rel="noopener" target="_blank">
+                <img alt="Télécharger sur Google Play" height="50" src="https://media1.ledevoir.com/images/archip/download-button-google-play.svg" width="167"/>
+               </a>
+              </div>
+             </div>
+            </div>
+            <script charset="utf-8" type="text/javascript">
+             (function () {
+        function isTablet() {
+            var ua = (navigator.userAgent || "").toLowerCase();
+            var plat = navigator.platform || "";
+            var maxTP = navigator.maxTouchPoints || 0;
+            var dpr = window.devicePixelRatio || 1;
+
+            var isiPadDesktopUA = (plat === "MacIntel" && maxTP > 1);
+
+            var isiPadUA = /ipad/.test(ua);
+            var isAndroidTabletUA = /android/.test(ua) && !/mobile/.test(ua);
+            var hasTabletWord = /tablet/.test(ua);
+
+            var mqTablet = window.matchMedia &&
+                window.matchMedia("(pointer: coarse) and (min-width: 768px) and (max-width: 1100px)").matches;
+
+            var cssMinSide = Math.min(screen.width, screen.height) / (dpr || 1);
+            var coarse = window.matchMedia && window.matchMedia("(pointer: coarse)").matches;
+            var looksTabletBySize = coarse && cssMinSide >= 768;
+
+            return isiPadDesktopUA || isiPadUA || isAndroidTabletUA || hasTabletWord || mqTablet || looksTabletBySize;
+        }
+
+        // Au clic : si tablette détectée, on remplace la cible juste avant d'ouvrir
+        function attachClickHandler(id, tabletHref) {
+            var el = document.getElementById(id);
+            if (!el) return;
+            el.addEventListener("click", function (e) {
+                if (isTablet()) {
+                    e.preventDefault();
+                    if (id === "btn-appstore") {
+                        el.href = "https://apps.apple.com/ca/app/journal-le-devoir/id909476802";
+                    } else {
+                        el.href = "https://play.google.com/store/apps/details?id=com.ledevoir.journaltablette.and";
+                    }
+                    window.open(el.href, "_blank", "noopener");
+                }
+                // Sinon : on laisse les liens mobiles par défaut
+            }, { passive: false });
+        }
+
+        document.addEventListener("DOMContentLoaded", function () {
+            attachClickHandler("btn-appstore");
+            attachClickHandler("btn-googleplay");
+        });
+    })();
+            </script>
+           </div>
+          </div>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </div>
+   </nav>
+   <div id="search-footer">
+    <div class="container">
+     <div class="row">
+      <div class="col">
+       <form action="/recherche" method="GET" novalidate="">
+        <div class="input-group">
+         <span class="input-group-text" id="recherche-footer">
+          <i class="bi bi-search">
+          </i>
+         </span>
+         <input aria-describedby="recherche-offcanvas" aria-label="Rechercher" class="form-control autocomplete-search" id="header-search" name="expression" placeholder="Que cherchez-vous?" type="search"/>
+         <div class="input-group-text">
+          <button class="btn btn-outline-light d-none d-md-inline" type="submit">
+           Rechercher
+          </button>
+          <button class="d-md-none" type="submit">
+           Go
+          </button>
+         </div>
+        </div>
+       </form>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="py-5" id="logo-footer">
+    <div class="container py-0">
+     <div class="row justify-content-between align-items-center">
+      <div class="col-12 col-md-auto text-center text-md-start mb-md-0 d-none d-md-block">
+       <a href="/">
+        <svg aria-hidden="true" class="logo mx-auto d-block img-fluid" fill="none" focusable="true" height="46" viewbox="0 0 218 46" width="218" xmlns="http://www.w3.org/2000/svg">
+         <g id="Layer 2">
+          <g id="Layer 1-2">
+           <g id="Group">
+            <path d="M198.154 22.0721V2.23994C198.154 1.85583 198.274 1.60107 198.511 1.60107H201.012C202.402 1.60107 203.354 1.9205 204.068 2.75338C205.458 4.35249 205.933 7.93482 205.933 11.9012C205.933 15.8677 205.537 18.8111 204.386 20.5376C203.672 21.6899 202.482 22.074 201.132 22.074H198.154V22.0721ZM211.371 45.8707C216.094 45.8707 217.919 42.4157 218 35.6979H217.523C217.523 39.9837 216.73 42.4157 215.34 42.4157C214.347 42.4157 213.832 41.6475 213.553 40.3678C213.236 38.5767 212.998 35.6979 212.8 33.0111C212.323 25.8465 208.672 23.6065 204.108 22.7756V22.6482C209.783 22.0094 213.316 18.4251 213.316 11.7719C213.316 4.66996 210.22 0.703532 202.957 0.703532H186.804V1.34239L190.137 1.40706C190.455 1.40706 190.534 1.59911 190.534 1.98321V43.7581C190.534 44.2069 190.455 44.3343 190.137 44.3343L186.804 44.3989V45.0378H201.807V44.3989L198.553 44.3343C198.235 44.3343 198.156 44.2069 198.156 43.4387V22.9677L201.291 23.0323C203.354 23.0323 204.704 24.12 204.863 27.8943C204.942 30.197 205.022 33.2678 205.142 35.1237C205.46 42.6078 207.643 45.8707 211.373 45.8707M170.453 45.0397H185.534V44.4009L182.201 44.3362C181.883 44.3362 181.765 44.2088 181.765 43.7601V1.98321C181.765 1.5364 181.883 1.40706 182.201 1.40706L185.534 1.34239V0.703532H170.453V1.34239L173.788 1.40706C174.106 1.40706 174.184 1.53444 174.184 1.98321V43.7581C174.184 44.2069 174.106 44.3343 173.788 44.3343L170.453 44.3989V45.0378V45.0397ZM155.729 46C164.262 46 169.978 35.9565 169.978 23.0323C169.978 10.1081 164.26 0 155.727 0C147.194 0 141.439 10.0435 141.439 23.0304C141.439 36.0173 147.194 45.998 155.727 45.998M155.727 45.2298C154.814 45.2298 154.06 45.1025 153.148 44.2069C151.043 42.0963 149.854 36.0173 149.854 23.0304C149.854 10.0435 151.045 3.90176 153.148 1.79116C154.06 0.830912 154.814 0.703532 155.727 0.703532C156.64 0.703532 157.393 0.830912 158.267 1.79116C160.371 3.90176 161.602 9.98074 161.602 23.0304C161.602 36.08 160.371 42.0943 158.267 44.2069C157.393 45.1025 156.6 45.2298 155.727 45.2298ZM128.54 45.2298H131.2L140.051 6.46113C140.885 2.81413 141.558 1.47173 143.027 1.40706L144.495 1.34239V0.703532H136.28V1.34239L138.145 1.40706C140.169 1.47173 139.97 4.15848 139.334 6.90794L133.54 32.3703H133.42L127.466 4.22119C127.07 2.30265 127.031 1.46977 128.102 1.40706L130.841 1.34239V0.703532H116.156V1.34239L117.822 1.40706C119.014 1.47173 119.33 2.43003 119.807 4.54258L128.538 45.2298H128.54ZM88.7707 45.0378H115.64V26.7401H115.282C114.289 31.2827 112.98 35.8252 111.235 39.0862C109.409 42.6685 107.425 44.2049 104.249 44.2049H100.517C100.199 44.2049 100.121 44.0129 100.121 43.6288V23.0284H101.43C103.096 23.0284 104.486 23.4772 105.438 25.0116C106.669 26.8028 107.423 30.0657 107.501 33.2639H107.978V12.0267H107.501C107.423 15.2249 106.469 18.5525 105.397 20.279C104.484 21.8781 103.136 22.2622 101.428 22.2622H100.119V2.1106C100.119 1.72649 100.197 1.53444 100.476 1.53444H104.009C106.549 1.53444 108.495 2.74946 109.843 4.60529C111.669 7.03728 113.098 11.3231 114.13 17.2081H114.568V0.703532H88.7688V1.34239L92.102 1.40706C92.4199 1.40706 92.4985 1.59911 92.4985 1.98321V43.7581C92.4985 44.1422 92.4181 44.3343 92.102 44.3343L88.7688 44.3989V45.0378H88.7707ZM69.7988 44.2069C69.4808 44.2069 69.4023 44.0148 69.4023 43.6307V2.04788C69.4023 1.66378 69.4808 1.47173 69.7595 1.47173H72.8158C74.2448 1.47173 75.4363 1.72845 76.3884 2.4947C78.8499 4.47791 79.9198 10.939 79.9198 22.9657C79.9198 34.9924 78.53 40.8793 76.4277 43.0546C75.4363 44.0148 74.2448 44.2069 73.0141 44.2069H69.7988ZM58.0898 45.0378H73.9662C81.8239 45.0378 88.2937 37.0403 88.2937 22.903C88.2937 8.76573 81.9436 0.703532 73.809 0.703532H58.0917V1.34239L61.4267 1.40706C61.7447 1.40706 61.8232 1.59911 61.8232 1.98321V43.7581C61.8232 44.1422 61.7428 44.3343 61.4267 44.3343L58.0917 44.3989V45.0378H58.0898Z" fill="white" id="Vector">
+            </path>
+            <path d="M27.5048 45.0374H54.3737V26.7397H54.0165C53.0252 31.2823 51.714 35.8248 49.9689 39.0858C48.1433 42.6681 46.1588 44.2045 42.9846 44.2045H39.2531C38.9351 44.2045 38.8566 44.0125 38.8566 43.6284V23.028H40.1659C41.8324 23.028 43.2222 23.4768 44.1742 25.0112C45.405 26.8024 46.1588 30.0653 46.2392 33.2635H46.7162V12.0263H46.2392C46.1588 15.2245 45.2067 18.5521 44.1349 20.2786C43.2222 21.8777 41.8736 22.2618 40.1659 22.2618H38.8566V2.11019C38.8566 1.72609 38.9351 1.53404 39.2138 1.53404H42.7471C45.2871 1.53404 47.2324 2.74905 48.581 4.60488C50.4065 7.03687 51.8356 11.3227 52.868 17.2077H53.3057V0.703125H27.5067V1.34199L30.8417 1.40666C31.1597 1.40666 31.2382 1.59871 31.2382 1.98281V43.7577C31.2382 44.1418 31.1597 44.3339 30.8417 44.3339L27.5067 44.3985V45.0374H27.5048ZM0 45.0374H25.8776V25.2699H25.4399C24.4074 29.8125 23.1785 34.4824 21.4708 38.0001C19.5667 41.9019 17.9787 44.2692 15.2404 44.2692H11.7482C11.4303 44.2692 11.3517 44.0125 11.3517 43.6303L11.3124 1.98281C11.3124 1.536 11.4321 1.40666 11.7482 1.40666L15.0832 1.34199V0.703125H0V1.34199L3.33313 1.40666C3.6511 1.40666 3.72966 1.53404 3.72966 1.98281V43.7577C3.72966 44.1418 3.6511 44.3966 3.33313 44.3966H0V45.0354V45.0374Z" fill="#7B9BA9" id="Vector_2">
+            </path>
+           </g>
+          </g>
+         </g>
+        </svg>
+       </a>
+      </div>
+      <div class="col-12 col-md-auto text-center">
+       <a href="/politique-de-confidentialite" target="_blank">
+        Politique de confidentialité
+       </a>
+       <span class="px-1 text-white">
+        |
+       </span>
+       <a href="/conditions" target="_blank">
+        Conditions d'utilisation
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="catfish-blur-overlay">
+   </div>
+   <div class="piano-catfish-bottom" id="pn-catfish">
+   </div>
+  </footer>
+  <div aria-hidden="true" class="modal" id="fullscreenImage" tabindex="-1">
+   <button aria-label="Close" class="btn btn-dark close closeFullscreenImage" data-bs-dismiss="modal" type="button">
+    <i class="bi bi-x">
+    </i>
+   </button>
+   <div class="modal-dialog">
+   </div>
+  </div>
+  <script src="/js/archip/article_bundle.min.js?202605110000">
+  </script>
+  <!-- 10.0.97.11-->
+  <script>
+   var loginUrl = '/auth/login';
+
+    $(function() {
+        WebPush.init({
+            apiInscriptionUrl: 'https://api.ledevoir.com/1.1/pushes/inscriptions',
+            apiInscriptionDhUrl: 'https://api.ledevoir.com/1.1/pushes/inscriptions/dernieres/heures',
+            apiDesinscriptionDhUrl: 'https://api.ledevoir.com/1.1/push/inscription/derniere/heure/web',
+            applicationServerPublicKey: 'BMRhk42WSloAI3jQztQFv1oIBc8rWOmSj7496zQAzRwxzKE5F41/29u/RYdfs+HeQzsoM6pUpBsvApB20Jm1p/o='
+        });
+    });
+  </script>
+  <script src="/js/nweb/autocomplete-recherche.js">
+  </script>
+  <script>
+   $(function() {
+        AutocompleteRecherche.init({
+            get_url: '/recherche/autocomplete'
+        });
+    });
+  </script>
+  <script src="https://www.google.com/recaptcha/api.js?hl=fr-CA&amp;onload=leDevoirCaptchaInit&amp;render=explicit">
+  </script>
+  <script src="/js/pianoAnalyticsTags.js?20250314" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   if (typeof PianoAnalyticsTags !== 'undefined') {
+        PianoAnalyticsTags.setDefaults(
+            "Il faut qu’on parle des troubles mentaux graves",
+            "Opinion",
+            "Idées",
+            { abonne: 'Abonné', nonabonne: 'Non abonné', anonyme: 'Anonyme'}
+        );
+    }
+  </script>
+  <script>
+   $document.ready(function() {
+        const TERMS_CONFIG = {
+            pianoLinkedTermCheckoutSessionCookie: 'linked_term_checkout_session_id',
+            cookieDomain: '.ledevoir.com',
+        };
+
+        function setCookie(name, value, expiration) {
+            document.cookie = `${name}=${value}; expires=${expiration}; path=/; domain=${TERMS_CONFIG.cookieDomain}`;
+        }
+
+        let isPwBlock = false;
+        let isPwBlockHard = false;
+        const PIANO_ORIGIN = "https://buy.tinypass.com";
+
+        window.addEventListener("message", (event) => {
+            if (event.origin !== PIANO_ORIGIN) return;
+
+            switch (event.data) {
+                case "offer-pw-block":
+                    isPwBlock = true;
+                    break;
+
+                case "offer-pw-block-hard":
+                    isPwBlockHard = true;
+                    break;
+            }
+        });
+
+        /**
+         * Once end-user clicks on an offer, a linked_term session_id is generated to track the checkout process
+         * This needs to be sent to Piano API on the linked term synchronisation call
+         */
+        tp.push(['setLinkedTermSelected', (session_id, linkedTerm) => {
+            console.log('linkedTerm:', JSON.stringify(linkedTerm, null, 2));
+
+            setCookie(
+                TERMS_CONFIG.pianoLinkedTermCheckoutSessionCookie,
+                session_id,
+                new Date(new Date().getTime() + 60 * 60 * 1000).toUTCString()
+            )
+
+            if (typeof dataLayer !== 'undefined') {
+                const itemData = linkedTerm.linkedTermData.customData;
+                dataLayer.push({ ecommerce: null });
+                dataLayer.push({
+                    event: "add_to_cart",
+                    ecommerce: {
+                        currency: "CAD",
+                        value: parseFloat(itemData.prix_ui.replace(/\s?\$/, "").replace(",", ".")),
+                        items: [
+                            {
+                                item_id: itemData.plan_id,
+                                item_name: itemData.plan_titre,
+                                item_brand: itemData.subscription_brand,
+                                price: parseFloat(itemData.prix_ui.replace(/\s?\$/, "").replace(",", ".")),
+                                quantity: 1
+                            }
+                        ]
+                    }
+                });
+            }
+
+            const { search } = new URL(window.location.href);
+            let plan_id = linkedTerm?.linkedTermData?.customData?.plan_id;
+            let redirectUrl = linkedTerm?.linkedTermData?.customData?.external_subscription_url || '/';
+
+            if (isPwBlock || isPwBlockHard) {
+                redirectUrl += (redirectUrl.includes('?') ? '&' : '?') + 'utm_source=pw&utm_medium=popup&utm_campaign=pwpopupabonnement' +
+                    plan_id + (isPwBlockHard ? 'hard' : '');
+            }
+
+            window.location = search ? new URL(`${redirectUrl}${search}`).toString() : redirectUrl;
+        }])
+    });
+  </script>
+ </body>
+</html>

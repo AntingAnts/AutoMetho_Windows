@@ -1,0 +1,43 @@
+started up
+started main task
+------>step 1, processing url https://www.lapresse.ca/dialogue/opinions/2026-05-02/sante-mentale-des-medecins/ce-qui-n-est-pas-mesure-n-est-pas-soigne.php
+Link processed successfully, link appears to have been from a known newspaper or a known encyclopedia, which would be La Presse
+------>step 2, processing url https://www.ledevoir.com/opinion/idees/874345/idees-il-faut-on-parle-troubles-mentaux-graves
+Link processed successfully, link appears to have been from a known newspaper or a known encyclopedia, which would be Le Devoir
+------>step 3, processing url https://ici.radio-canada.ca/espaces-autochtones/2252107/enfants-attikamekw-maltraites-proces-la-tuque-chantale-charest
+Link processed successfully, link appears to have been a generic newspaper or an encyclopedia from Radio-Canada Info
+------>step 4, processing url https://www.journaldemontreal.com/2022/10/11/un-appel-aux-dons-de-lait-maternel
+Link processed successfully, link appears to have been a generic newspaper or an encyclopedia from Le Journal de Montréal
+------>step 5, processing url The People's Republic of China
+Error: encountered something that does not appear to be an url. This attempt is abandoned
+------>step 6 or 7, processing url https://www.universalis-edu.com/encyclopedie/dian-fossey, 676767 SIX SEVENNN hehehe
+Error: Encyclopédie Universalis is not yet supported, as it is a paid website that this program cannot access. This attempt is abandoned
+------>step 7 or 6, processing url https://www.fangamer.com/collections/t-shirts?filter.p.vendor=Hollow+Knight&filter.p.vendor=Hollow+Knight%3A+Silksong, 676767 SIX SEVENNN hehehe
+Link processed successfully, link appears to have been an image from Fangamer
+------>step 8, processing url https://lesepuises.wordpress.com/wp-content/uploads/2014/03/vanierje.pdf
+Error: PDF links are not yet supported. This attempt is abandoned
+------>step 9, processing url https://lesvoixdelapoesie.ca/lire/poetes/denis-vanier
+Link processed successfully, link appears to have been an image from lesvoixdelapoesie.ca
+------>step 10, processing url https://www.worldhistory.org/trans/fr/1-306/cyrus-le-grand/
+Link processed successfully, link appears to have been a generic newspaper or an encyclopedia from Encyclopédie de l'Histoire du Monde
+------>step 11, processing url https://www.britannica.com/event/World-War-II
+Link processed successfully, link appears to have been a generic newspaper or an encyclopedia from Encyclopedia Britannica
+------>step 12, processing url https://www.rfi.fr/fr/connaissances/20251201-cyrus-le-grand-p%C3%A8re-de-l-empire-perse-ach%C3%A9m%C3%A9nide-roi-du-monde
+Warning: cloudscraper failed to extract json metadata. Possible that this program was stopped by anti-bot protection. Trying again with chromium web parser
+Link processed successfully, link appears to have been a generic newspaper or an encyclopedia from Radio France Internationale
+------>step 13, processing url https://www.rfi.fr/fr/afrique/20260516-nigeria-donald-trump-annonce-la-mort-d-un-chef-de-l-organisation-de-l-%C3%A9tat-islamique
+Warning: cloudscraper failed to extract json metadata. Possible that this program was stopped by anti-bot protection. Trying again with chromium web parser
+Link processed successfully, link appears to have been a generic newspaper or an encyclopedia from Radio France Internationale
+------>step 14, processing url https://www.lemonde.fr/ete-2007/article/2007/08/18/cyrus-le-taiseux_945518_781732.html
+Link processed successfully, link appears to have been from a known newspaper or a known encyclopedia, which would be Le Monde
+------>step 15, processing url https://www.nationalgeographic.fr/histoire/antiquite-culture-generale-cyrus-le-grand-batisseur-du-premier-empire-de-lhistoire
+Link processed successfully, link appears to have been from a known newspaper or a known encyclopedia, which would be National Geographic
+------>step 16, processing url https://www.britannica.com/topic/Planet-of-the-Apes-by-Boulle
+Link processed successfully, link appears to have been a generic newspaper or an encyclopedia from Encyclopedia Britannica
+------>step 17, processing url https://www.britannica.com/event/Anglo-German-Naval-Agreement-1935
+Link processed successfully, link appears to have been a generic newspaper or an encyclopedia from Encyclopedia Britannica
+------>step 18, processing url https://www.vecteezy.com/vector-art/41645473-windmill-in-cartoon-style-vector-illustration
+Link processed successfully, link appears to have been an image from Vecteezy
+------>step 19, processing url https://fr.123rf.com/photo_17905080_3d-personnes-homme-personne-avec-une-%C3%A9olienne-concept-de-l-%C3%A9cologie.html
+Link processed successfully, link appears to have been an image from 123Rf
+This is a reminder that author detection is flawed and must be double checked manually

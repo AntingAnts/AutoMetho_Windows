@@ -1,0 +1,5 @@
+#all words must be lowercase only
+la presse
+le devoir
+le monde
+national geographic
