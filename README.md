@@ -13,9 +13,9 @@
 
   Dans le cas d'un erreur majeur et d'une incapacité totale de traiter un lien, veuillez consulter le fichier "program logs.txt" avant de contacter le propriétaire de cette programme. Si du texte coloré apparaît dans le fenêtre noir, il est fort probablement important aussi. Si vous contactez le propriétaire de cette programme, donnez-lui ces informations aussi.
 
-  À date, cette programme se limite dans la détection, le triage et le traitement des ouvrages de référence en ligne, des périodiques et des sites web. Faites attention: tout ce qui n'est pas identifié comme un ouvrage de référence en ligne ou un périodique est considéré automatiquement un site web. Il est donc possible que des types de sources plus rares, tel un rapport officiel ou 
+  À date, cette programme se limite dans la détection, le triage et le traitement des ouvrages de référence en ligne, des périodiques en ligne et des sites web. Faites attention: tout ce qui n'est pas identifié comme un ouvrage de référence en ligne ou un périodique en ligne est considéré automatiquement un site web. Il est donc possible que des types de sources plus rares, tel un rapport officiel ou une base de données soit identifié comme un site web ou blogue alors qu'il ne l'est pas. Ceci est une des raisons de l'importance de revérifier à la main. En plus, l'outil prévoit agrandir son champ de compétence vers les audiovisuels.
 
-  Enfin, pour citer cette programme aussi dans votre liste de références, utilisez ceci.
+  Enfin, pour citer cette programme aussi dans votre liste de références, utilisez ceci:
 
   AutoMétho, version 1.0, logiciel, Punchcard Studios, 2026.
 	*Le mot "AutoMétho" ici doit être souligné*
