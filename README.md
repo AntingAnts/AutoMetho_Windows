@@ -17,7 +17,7 @@
 
   Enfin, pour citer cette programme aussi dans votre liste de références, utilisez ceci:
 
-  AutoMétho, version 1.0, logiciel, Punchcard Studios, 2026.
+  SONG, Sihuang. AutoMétho, version 1.0, logiciel, Punchcard Studios, 2026.
 	*Le mot "AutoMétho" ici doit être souligné*
 
   Figure 1: <img width="750" height="300" alt="image" src="https://github.com/user-attachments/assets/64414913-fffe-49f2-b049-6c28ac576c16" />
