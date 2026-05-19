@@ -22,7 +22,7 @@
   SONG, Sihuang. AutoMétho, version 1.0, logiciel, Punchcard Studios, 2026.
 	*Le mot "AutoMétho" ici doit être souligné*
 
-  Figure 1: <img width="750" height="300" alt="image" src="https://github.com/user-attachments/assets/64414913-fffe-49f2-b049-6c28ac576c16" />
+  Figure 1: <img width="971" height="597" alt="image" src="https://github.com/user-attachments/assets/9f4e940b-cc5c-4f8e-982a-fd5ce76f3841" />
   
   Figures 2: <img width="830" height="440" alt="image" src="https://github.com/user-attachments/assets/f02b5c11-9d78-43c0-8298-e7fd954dab38" /> <img width="1190" height="425" alt="image" src="https://github.com/user-attachments/assets/abc64be0-eee5-4d68-84bf-a819c4b139ca" /> <img width="1175" height="460" alt="image" src="https://github.com/user-attachments/assets/a85c23e2-2c03-4c32-bced-4d1f51de20f1" /> <img width="1393" height="439" alt="image" src="https://github.com/user-attachments/assets/7d89d87f-9053-487f-b530-3e3390a7231a" /> <img width="835" height="790" alt="image" src="https://github.com/user-attachments/assets/2433da05-d50c-47ba-9704-793f3043a72b" />
 
