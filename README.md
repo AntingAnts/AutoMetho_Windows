@@ -15,6 +15,8 @@
 
   À date, cette programme se limite dans la détection, le triage et le traitement des ouvrages de référence en ligne, des périodiques en ligne et des sites web. Faites attention: tout ce qui n'est pas identifié comme un ouvrage de référence en ligne ou un périodique en ligne est considéré automatiquement un site web. Il est donc possible que des types de sources plus rares, tel un rapport officiel ou une base de données soit identifié comme un site web ou blogue alors qu'il ne l'est pas. Ceci est une des raisons de l'importance de revérifier à la main. En plus, l'outil prévoit agrandir son champ de compétence vers les audiovisuels.
 
+  Bien sûr, je n'ai pas oublié de citer mes propres sources. Le fichier "Liste de Références.docx" contient les modules utilisées par cet outil qui ne proviennent pas du Python Standard Library. Ce dernier est incluse dans le logiciel Python lui-même.
+  
   Enfin, pour citer cette programme aussi dans votre liste de références, utilisez ceci:
 
   SONG, Sihuang. AutoMétho, version 1.0, logiciel, Punchcard Studios, 2026.
