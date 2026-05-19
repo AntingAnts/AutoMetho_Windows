@@ -1,0 +1,3053 @@
+<!DOCTYPE html>
+<html class="topic-desktop ui-chrome136 ui-chrome" lang="en">
+ <head prefix="og: https://ogp.me/ns# fb: https://ogp.me/ns/fb#">
+  <meta charset="utf-8"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+   <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+   <link href="https://cdn.britannica.com/mendel-resources/3-183" rel="dns-prefetch"/>
+   <link href="https://cdn.britannica.com/mendel-resources/3-183" rel="preconnect"/>
+   <link as="script" href="https://www.googletagservices.com/tag/js/gpt.js" rel="preload">
+    <link href="/favicon.png" rel="icon">
+     <meta content="World War II was a conflict that involved virtually every part of the world during 1939–45. The main combatants were the Axis powers (Germany, Italy, and Japan) and the Allies (France, Great Britain, the United States, the Soviet Union, and China). It was the bloodiest conflict, as well as the largest war, in human history." name="description"/>
+     <meta content="World War II, encyclopedia, encyclopeadia, britannica, article" name="keywords"/>
+     <link href="https://www.britannica.com/event/World-War-II" rel="canonical"/>
+     <meta content="max-image-preview:large" name="robots"/>
+     <title>
+      World War II | Facts, Summary, History, Dates, Combatants, &amp; Causes | Britannica
+     </title>
+     <script class="analytics-metadata" type="application/json">
+      {"adLeg":"D","leg":"C","userType":"ANONYMOUS","pageType":"Topic","articleId":110199,"articleTemplateType":"PAGINATED","gisted":false,"hasAiTopQuestions":false,"hasAskButton":true,"hasIndexSummary":false,"hasNews":true,"hasSimplifyButton":true,"topicId":648813}
+     </script>
+     <script type="text/javascript">
+      window.EBStat={accountId:-1,hostnameOverride:'webstats.eb.com',domain:'www.britannica.com', json:''};
+     </script>
+     <script>
+      window.dataLayer = window.dataLayer || [];
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('consent', 'default', {
+        'ad_personalization': 'denied',
+        'ad_storage': 'denied',
+        'ad_user_data': 'denied',
+        'analytics_storage': 'denied',
+        'region': ["AT","BE","BG","GB","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HU","IE","IT","LV","LT","LU","MT","NL","PL","PT","RO","SK","SI","ES","SE","IS","LI","NO"],
+        'wait_for_update': 500,
+    });
+
+    gtag('consent', 'default', {
+        'ad_personalization': 'granted',
+        'ad_storage': 'granted',
+        'ad_user_data': 'granted',
+        'analytics_storage': 'granted',
+    });
+
+    window.geoCountry = 'CA';
+    window.isGdprCountry = false;
+    window.isCcpaCountry = false;
+    window.geoRegion = 'ON';
+     </script>
+     <link href="https://dev.visualwebsiteoptimizer.com" rel="preconnect"/>
+     <script id="vwoCode" type="text/javascript">
+      window._vwo_code || (function() {
+        var account_id=698824,
+            version=2.1,
+            settings_tolerance=2000,
+            hide_element='body',
+            hide_element_style = 'opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;transition:none !important;',
+            f=false,w=window,d=document,v=d.querySelector('#vwoCode'),cK='_vwo_'+account_id+'_settings',cc={};try{var c=JSON.parse(localStorage.getItem('_vwo_'+account_id+'_config'));cc=c&&typeof c==='object'?c:{}}catch(e){}var stT=cc.stT==='session'?w.sessionStorage:w.localStorage;code={nonce:v&&v.nonce,library_tolerance:function(){return typeof library_tolerance!=='undefined'?library_tolerance:undefined},settings_tolerance:function(){return cc.sT||settings_tolerance},hide_element_style:function(){return'{'+(cc.hES||hide_element_style)+'}'},hide_element:function(){if(performance.getEntriesByName('first-contentful-paint')[0]){return''}return typeof cc.hE==='string'?cc.hE:hide_element},getVersion:function(){return version},finish:function(e){if(!f){f=true;var t=d.getElementById('_vis_opt_path_hides');if(t)t.parentNode.removeChild(t);if(e)(new Image).src='https://dev.visualwebsiteoptimizer.com/ee.gif?a='+account_id+e}},finished:function(){return f},addScript:function(e){var t=d.createElement('script');t.type='text/javascript';if(e.src){t.src=e.src}else{t.text=e.text}v&&t.setAttribute('nonce',v.nonce);d.getElementsByTagName('head')[0].appendChild(t)},load:function(e,t){var n=this.getSettings(),i=d.createElement('script'),r=this;t=t||{};if(n){i.textContent=n;d.getElementsByTagName('head')[0].appendChild(i);if(!w.VWO||VWO.caE){stT.removeItem(cK);r.load(e)}}else{var o=new XMLHttpRequest;o.open('GET',e,true);o.withCredentials=!t.dSC;o.responseType=t.responseType||'text';o.onload=function(){if(t.onloadCb){return t.onloadCb(o,e)}if(o.status===200||o.status===304){_vwo_code.addScript({text:o.responseText})}else{_vwo_code.finish('&e=loading_failure:'+e)}};o.onerror=function(){if(t.onerrorCb){return t.onerrorCb(e)}_vwo_code.finish('&e=loading_failure:'+e)};o.send()}},getSettings:function(){try{var e=stT.getItem(cK);if(!e){return}e=JSON.parse(e);if(Date.now()>e.e){stT.removeItem(cK);return}return e.s}catch(e){return}},init:function(){if(d.URL.indexOf('__vwo_disable__')>-1)return;var e=this.settings_tolerance();w._vwo_settings_timer=setTimeout(function(){_vwo_code.finish();stT.removeItem(cK)},e);var t;if(this.hide_element()!=='body'){t=d.createElement('style');var n=this.hide_element(),i=n?n+this.hide_element_style():'',r=d.getElementsByTagName('head')[0];t.setAttribute('id','_vis_opt_path_hides');v&&t.setAttribute('nonce',v.nonce);t.setAttribute('type','text/css');if(t.styleSheet)t.styleSheet.cssText=i;else t.appendChild(d.createTextNode(i));r.appendChild(t)}else{t=d.getElementsByTagName('head')[0];var i=d.createElement('div');i.style.cssText='z-index: 2147483647 !important;position: fixed !important;left: 0 !important;top: 0 !important;width: 100% !important;height: 100% !important;background: white !important;display: block !important;';i.setAttribute('id','_vis_opt_path_hides');i.classList.add('_vis_hide_layer');t.parentNode.insertBefore(i,t.nextSibling)}var o=window._vis_opt_url||d.URL,s='https://dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(o)+'&vn='+version;if(w.location.search.indexOf('_vwo_xhr')!==-1){this.addScript({src:s})}else{this.load(s+'&x=true')}}};w._vwo_code=code;code.init();})();
+     </script>
+     <script id="vwoConsent" type="text/javascript">
+      // VWO.init expects a 1 for opt-in, 3 for opt-out, 2 for pending
+  const setVWOConsentState = (state) => {
+    const currentConsentState = window.VWO?.consentState;
+    if (currentConsentState === state) {
+      return;
+    }
+    window.VWO = window.VWO || [];
+    window.VWO.init =
+      window.VWO.init ||
+      function (state) {
+        window.VWO.consentState = state;
+      };
+    window.VWO.init(state);
+    // write vwoConsentState to cookie
+    document.cookie = 'vwoConsentState=' + state + '; path=/;';
+  };
+  if (window.isGdprCountry) {
+    // set initial consent
+    const vwoConsentStateCookie = document.cookie.match(new RegExp('(^| )' + 'vwoConsentState' + '=([^;]+)'));
+    const initialConsent = vwoConsentStateCookie ? Number(vwoConsentStateCookie[2]) : 2;
+    setVWOConsentState(initialConsent);
+    const addCmpEventListener = () => {
+      window.__cmp(
+        'addEventListener',
+        [
+          'consent',
+          () => {
+            const cmpConsentStatus = window.__cmp('consentStatus');
+            const consentExists = cmpConsentStatus?.consentExists;
+            const cmpData = window.__cmp('getCMPData');
+            const vwoVendorId = 's31';
+            if (consentExists) {
+              if (cmpData?.vendorConsents?.[vwoVendorId]) {
+                setVWOConsentState(1);
+              } else {
+                setVWOConsentState(3);
+              }
+            } else {
+              setVWOConsentState(2);
+            }
+          },
+          false,
+        ],
+        null
+      );
+    };
+    // Check if __cmp is available, if not, set up a timer to wait for it
+    if (typeof window.__cmp === 'function') {
+      addCmpEventListener();
+    } else {
+      const cmpCheckInterval = setInterval(() => {
+        if (typeof window.__cmp === 'function') {
+          clearInterval(cmpCheckInterval);
+          addCmpEventListener();
+        }
+      }, 250);
+      // Clear the interval after 20 seconds if __cmp never becomes available
+      setTimeout(() => {
+        clearInterval(cmpCheckInterval);
+      }, 20000);
+    }
+  } else {
+    // if not in a GDPR country, set to opt-in
+    setVWOConsentState(1);
+  }
+     </script>
+     <script data-type="Init Mendel" type="text/javascript">
+      window.$UI = {};
+
+    window.Constants = {"LICENSE_URL":"/bps/license","AJAX_PREFIX_URL":"/ajax","QUIZ_URL":"/quiz","ARTICLE_TYPE_MONEY_JOURNEY":171,"MONEY_JOURNEY_PREFIX_URL":"/journey","MEDIA_OVERLAY_URL":"/media-overlay","CHATBOT_PAGE_URL":"/chatbot","LISTS_AND_STORIES_BROWSE_URL":"/lists-and-stories","PROCON_QUIZ_BROWSE_URL":"/procon-quiz/browse","TOPIC_FACTS_DATA_URL":"/facts","NEWSLETTER_PAGE_URL":"/newsletters","EXPLORE_URL":"/explore","QUIZ_BROWSE_IMAGE_QUIZZES":"images","MEDIA_URL":"/media","TOPIC_MEDIA_PATH":"/images-videos","TOPIC_TOP_QUESTION_URL":"/question","PORTAL_FINANCE_URL_PREFIX":"/money","PODCASTS_URL":"/podcasts","STAND_ALONE_VIDEO_URL":"/video","ONE_GOOD_FACT_URL":"/one-good-fact","MORE_ON_THIS_DAY_URL":"/more-on-this-day","ERROR_404_URL":"/error404","PROCON_CITED_IN_THE_NEWS_URL":"/procon/ProCon-in-the-News","TOPIC_QUOTES_URL":"/quotes","SEARCH_PAGE_URL":"/search","PROCON_URL":"/procon","TOPIC_CONTENT_AJAX_URL":"/topic-content/topic","ERROR_URL":"/error","TOPIC_PAGE_CONTENT_AJAX_URL":"/topic-content/page","TOPIC_COLLECTION_URL":"/summary","LOGINBOX_URL":"/auth/loginbox","MWU_LOGIN_URL":"https://cam.merriam-webster.com/login?redirect=https%3A%2F%2Funabridged.merriam-webster.com","PROCON_DEBATE_TOPICS_URL":"/procon/Debate-Topics","ONE_GOOD_FACT_BROWSE_URL":"/one-good-fact/all-good-facts","INFINITE_SCROLL_PREFIX_URL":"/scroll","TOPIC_TOP_QUESTION_BROWSE_URL":"/questions","QUIZ_BROWSE_URL":"/quiz/browse","domain":"britannica.com","BIO_BROWSE_URL":"/browse/biographies","CATEGORY_BROWSE_URL":"/browse","TIGHTROPE_QUIZ_URL":"/quiz/tightrope","ALPHA_BROWSE_URL":"/sitemap","DICTIONARY_URL":"/dictionary","COBRAND_IMAGE_URL":"/image/cobrand","PROCON_IN_THE_NEWS_URL":"/procon/pro-and-con-issues-in-the-news","PROCON_BROWSE_URL":"/procon","QUIZ_BROWSE_VOCAB_QUIZZES":"vocabulary-quizzes","SUBMISSION_URL":"/submission","EB_LOG_OUT":"/auth2/logout","NEWSLETTER_SUBSCRIPTION_URL":"/newsletter-subscription","MAINTENANCE_ERROR_URL":"https://maintenance.eb.com","PROFILE_EB_EDITOR_URL":"/editor","TOPIC_AJAX_URL":"/ajax/topic","AI_ABOUT_PAGE_URL":"/about-britannica-ai","TOPIC_SUMMARY_BROWSE_URL":"/summaries","TOPIC_ADDITIONAL_INFO_PATH":"/additional-info","VIDEO_CHANNEL_URL":"/videos","GALLERY_BROWSE_URL":"/gallery/browse","SUDOKU_GAME_URL":"/games/sudoku","PROCON_ABOUT_URL":"/procon/About-ProCon","ARTICLE_PRINT_URL":"/print/article","FIRST_EDITION_URL":"/subscriber/firstedition","WW1_PORTAL_URL":"/discover/World-War-I","TOPIC_REDIRECT_URL":"/redirect","MENDEL_COOKIE":"__mendel","PROCON_QUIZ_URL":"/procon-quiz","SHOW_ALL_CONTRIBUTORS":"/additional-info#contributors","PROFILE_EXPERT_URL":"/contributor","ASSEMBLY_IMAGE_URL":"/image/assembly","DAY_IN_HISTORY_URL":"/on-this-day","PORTAL_FINANCE_BROWSE_URL_PREFIX":"/money/browse","ERROR_400_URL":"/error400","CALCULATORS_BROWSE_URL":"/calculators","EB_LOGIN_URL":"/auth/eb-login","NEW_ARTICLES_URL":"/new-articles"};
+    window.CDN = "https://cdn.britannica.com";
+	window.CAM_SETTINGS_URL = "https://cam.britannica.com/settings";
+    window.CAM_LOGIN_URL = "https://cam.britannica.com/login";
+    window.CAM_SIGN_UP_URL = "https://cam.britannica.com/registration"
+
+    window.Mendel = {
+     	"config" : {
+            "videoPlayerId" : "UyMCoK2v",
+      		"domain": "britannica.com",
+			"page": "Topic",
+			"sharedUrl": "https://www.britannica.com/event/World-War-II",
+			"amuselabsUrl": "https://cdn3.amuselabs.com",
+	    	"resourcesPrefixUrl": "https://cdn.britannica.com/mendel-resources/3-183/[url]?v=3.183.5",
+			"date": 20260518,
+			"userInfo": { "type": "ANONYMOUS"
+										,"currency": "USD"
+										,"country": "CA"
+										,"state": "ON"
+										,"timezone": "America/Toronto"
+										,"bcomId": "2676572688792246663"
+										,"adProvider": "ay"
+										,"privacyInfo": {"inGdprCountry":false,"inCcpaState":false,"showConsent":false}
+										,"hasAds": true
+										,"testVersion": "C"
+										,"adsTestVersion": "D"
+										,"consumerId": ""
+										,"instId": ""
+										,"instUserName": ""
+										,"isMwuSubscriber": false
+										,"brazeExternalId": ""
+			},
+			"tvs":{ "r":[25,25,25,25], "a": [3,3,3,91]},
+			"isLoggedInAsUser": false,
+			"isPhone": false,
+			"isDesktop": true,
+			"logoutUrl": "/auth2/logout",
+			"selfServiceUrl": "https://myaccount.britannica.com",
+			"cdnUrl": "https://cdn.britannica.com",
+			"chatbotApi": "https://www.britannica.com/chat-api",
+	        "fetchOffset": 800,
+			
+			"mendelCookieName": "__mendel",
+			"mendelCookie": {"currentDate":20260518,"lti":648813,"surveyShown":false,"ts":1},
+			
+
+			"autocompleteToSearchPage": false,"topicUrl": "https://www.britannica.com/event/World-War-II",
+	"freeTopicReason": "REFERRER_IS_FROM_OTHER_WEBSITE",
+	"topicId": 648813,
+	"template": "DESKTOP",
+	"type": "CORE",
+	"hasToc": true,
+	"chatbotApi": "https://www.britannica.com/chat-api",
+	"showPreview": false,
+		},
+        "GA": {"adLeg":"D","leg":"C","userType":"ANONYMOUS","pageType":"Topic","articleId":110199,"articleTemplateType":"PAGINATED","gisted":false,"hasAiTopQuestions":false,"hasAskButton":true,"hasIndexSummary":false,"hasNews":true,"hasSimplifyButton":true,"topicId":648813}
+    };
+     </script>
+     <meta content="1887621861548296" property="fb:app_id"/>
+     <meta content="summary_large_image" name="twitter:card"/>
+     <meta content="@britannica" name="twitter:site"/>
+     <meta content="https://cdn.britannica.com/26/188426-050-2AF26954/Germany-Poland-September-1-1939.jpg" name="twitter:image"/>
+     <meta content="World War II was a conflict that involved virtually every part of the world during 1939–45. The main combatants were the Axis powers (Germany, Italy, and Japan) and the Allies (France, Great Britain, the United States, the Soviet Union, and China). It was the bloodiest conflict, as well as the largest war, in human history." name="twitter:description"/>
+     <meta content="ARTICLE" property="og:type"/>
+     <meta content="World War II | Facts, Summary, History, Dates, Combatants, &amp; Causes | Britannica" property="og:title"/>
+     <meta content="World War II was a conflict that involved virtually every part of the world during 1939–45. The main combatants were the Axis powers (Germany, Italy, and Japan) and the Allies (France, Great Britain, the United States, the Soviet Union, and China). It was the bloodiest conflict, as well as the largest war, in human history." property="og:description"/>
+     <meta content="Encyclopedia Britannica" property="og:site_name"/>
+     <meta content="https://www.britannica.com/event/World-War-II" property="og:url"/>
+     <meta content="https://cdn.britannica.com/26/188426-050-2AF26954/Germany-Poland-September-1-1939.jpg" property="og:image"/>
+     <script data-type="init opengraph" type="text/javascript">
+      Mendel.openGraph = {
+    "type": "ARTICLE",
+    "title": "World War II | Facts, Summary, History, Dates, Combatants, & Causes",
+    "description": "World War II was a conflict that involved virtually every part of the world during 1939–45. The main combatants were the Axis powers (Germany, Italy, and Japan) and the Allies (France, Great Britain, the United States, the Soviet Union, and China). It was the bloodiest conflict, as well as the largest war, in human history.",
+    "imageUrl": "https://cdn.britannica.com/26/188426-050-2AF26954/Germany-Poland-September-1-1939.jpg",
+    "pageUrl": "https://www.britannica.com/event/World-War-II"
+}
+     </script>
+     <link href="https://fonts.googleapis.com/" rel="preconnect"/>
+     <link href="https://fonts.googleapis.com/" rel="dns-prefetch"/>
+     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
+     <link href="https://cdn.britannica.com/mendel-resources/3-183/dist/_tailwind.css?v=3.183.5" rel="stylesheet">
+      <link href="https://cdn.britannica.com/mendel-resources/3-183/dist/vendor-bundle.css?v=3.183.5" rel="stylesheet">
+       <link href="https://cdn.britannica.com/mendel-resources/3-183/dist/mendel-css.css?v=3.183.5" rel="stylesheet">
+        <link href="https://cdn.britannica.com/mendel-resources/3-183/dist/topic-page.css?v=3.183.5" rel="stylesheet"/>
+        <script type="text/javascript">
+         if ((!window.name || (window.name.indexOf('_vis_editor') === -1)) && self !== top) { top.location = self.location; }
+        </script>
+        <script type="module">
+         window.dataLayer = window.dataLayer || [];
+
+            async function awaitPaint(fn) {
+                return new Promise((resolve) => {
+                    const fallbackTimeout = setTimeout(() => {
+                        if (typeof fn === 'function') { fn(); }
+                        resolve();
+                    }, 200);
+                    requestAnimationFrame(() => {
+                        setTimeout(() => {
+                            clearTimeout(fallbackTimeout);
+                            if (typeof fn === 'function') { fn(); }
+                            resolve();
+                        }, 50);
+                    });
+                });
+            }
+
+            if (window.dataLayer && typeof window.dataLayer.push === 'function') {
+                const originalDataLayerPush = window.dataLayer.push.bind(window.dataLayer);
+                window.dataLayer.push = function (...args) {
+                    (async () => {
+                        await awaitPaint(() => {
+                            originalDataLayerPush(...args);
+                        });
+                    })();
+                };
+            }
+        </script>
+        <script>
+         window.dataLayer = window.dataLayer || [];
+				window.dataLayer.push( {
+				   'gtm.start': new Date().getTime(),
+				   event: 'gtm.js'
+			   	});
+        </script>
+        <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5W6NC8">
+        </script>
+        <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KRJ753NG">
+        </script>
+        <meta content="2026-05-18" name="last-modified"/>
+        <script type="application/ld+json">
+         {"@type":"Article","headline":"World War II | Facts, Summary, History, Dates, Combatants, & Causes","image":{"url":"https://cdn.britannica.com/26/188426-050-2AF26954/Germany-Poland-September-1-1939.jpg","@type":"ImageObject"},"keywords":"World War II","wordcount":46419,"url":"https://www.britannica.com/event/World-War-II","datePublished":"1998-08-23T00:00:00Z","dateModified":"2026-05-18T00:00:00Z","description":"World War II was a conflict that involved virtually every part of the world during 1939–45. The main combatants were the Axis powers (Germany, Italy, and Japan) and the Allies (France, Great Britain, the United States, the Soviet Union, and China). It was the bloodiest conflict, as well as the largest war, in human history.","@context":"https://schema.org","author":[{"name":"Thomas A. Hughes","url":"https://www.britannica.com/contributor/Thomas-A-Hughes/4645","@type":"Person"}],"publisher":{"@type":"Organization","logo":{"url":"https://corporate.britannica.com/wp-content/themes/eb-corporate/_img/logo.png","@type":"ImageObject"},"name":"Encyclopedia Britannica"},"sameAs":"https://www.wikidata.org/wiki/Q362"}
+        </script>
+       </link>
+      </link>
+     </link>
+    </link>
+   </link>
+  </meta>
+ </head>
+ <body class="new-topic topic-desktop first-page-true user-ANONYMOUS user-ads md-desktop leg-c" data-leg="C">
+  <!-- **** assertive yield ****-->
+  <script async="" defer="" src="https://launchpad-wrapper.privacymanager.io/0ccc6fe8-1870-4ad8-b47b-6d029ac116fc/launchpad-liveramp.js">
+  </script>
+  <script>
+   Mendel.config.adProvider = 'ay';
+  </script>
+  <script referrerpolicy="no-referrer-when-downgrade" src="https://JRyhoywLYXNLYMAhs.ay.delivery/manager/JRyhoywLYXNLYMAhs" type="text/javascript">
+  </script>
+  <script id="json-navbar-info" type="application/json">
+   {"selectedNavbarLink":{"url":"/History-Society","title":"History & Society","navbarId":"HISTORY","selected":true},"selectedSuperCategory":{"id":5,"url":"History-Society","title":"History & Society","description":"Explore history and society; accidents and disasters; the age of revolutions; the ancient world; historic dynasties; global exploration; the middle ages; the modern world; prehistory; US history; world history; wars and battles; sociology; religion and philosophy; humanities; ethics; anthropology; festivals and holidays; human rights; human migration; international relations; politics, law, and government","keywords":"accidents and disasters; the age of revolutions; the ancient world; historic dynasties; global exploration; the middle ages; the modern world; prehistory; US history; world history; wars and battles; sociology; religion and philosophy; humanities; ethics; anthropology; festivals and holidays; human rights; human migration; international relations; politics, law, and government","classId":"HISTORY","sortOrder":1},"topSectionLinks":[{"url":"/chatbot","title":"Ask the Chatbot","navbarId":"CHATBOT"},{"url":"/quiz/browse","title":"Games & Quizzes","navbarId":"QUIZZES"},{"url":"/History-Society","title":"History & Society","navbarId":"HISTORY","selected":true},{"url":"/Science-Tech","title":"Science & Tech","navbarId":"SCIENCE"},{"url":"/Biographies","title":"Biographies","navbarId":"BIOS"},{"url":"/Animals-Nature","title":"Animals & Nature","navbarId":"ANIMALS"},{"url":"/Geography-Travel","title":"Geography & Travel","navbarId":"GEOGRAPHY"},{"url":"/Arts-Culture","title":"Arts & Culture","navbarId":"ART"},{"url":"/procon","title":"ProCon","navbarId":"PROCON"},{"url":"/money","title":"Money","navbarId":"MONEY"},{"url":"/videos","title":"Videos","navbarId":"VIDEOS"}]}
+  </script>
+  <script id="json-hamburger-menu" type="application/json">
+   {"britannicaMenu1":[{"title":"Home","url":"/"},{"title":"History & Society","url":"/History-Society"},{"title":"Science & Tech","url":"/Science-Tech"},{"title":"Biographies","url":"/Biographies"},{"title":"Animals & Nature","url":"/Animals-Nature"},{"title":"Geography & Travel","url":"/Geography-Travel"},{"title":"Arts & Culture","url":"/Arts-Culture"},{"title":"ProCon","url":"/procon"},{"title":"Money","url":"/money"}],"britannicaMenu2":[{"title":"Games & Quizzes","url":"/quiz/browse"},{"title":"Videos","url":"/videos"},{"title":"On This Day","url":"/on-this-day"},{"title":"One Good Fact","url":"/one-good-fact"},{"title":"Dictionary","url":"/dictionary"},{"title":"New Articles","url":"/new-articles"}],"browseByCategory":[{"title":{"id":5,"title":"History & Society","url":"/History-Society"},"links":[{"title":"History","url":"/browse/World-History"},{"title":"Philosophy & Religion","url":"/browse/Philosophy-Religion"},{"title":"Politics, Law & Government","url":"/browse/Politics-Law-Government"},{"title":"Society & Social Issues","url":"/browse/Lifestyles-Social-Issues"}]},{"title":{"id":6,"title":"Science & Tech","url":"/Science-Tech"},"links":[{"title":"Health & Medicine","url":"/browse/Health-Medicine"},{"title":"Science","url":"/browse/Science"},{"title":"Technology","url":"/browse/Technology"}]},{"title":{"id":3,"title":"Biographies","url":"/Biographies"},"links":[{"title":"Browse Biographies","url":"/browse/biographies"}]},{"title":{"id":1,"title":"Animals & Nature","url":"/Animals-Nature"},"links":[{"title":"Birds, Reptiles & Other Vertebrates","url":"/browse/Birds-Reptiles-Vertebrates"},{"title":"Environment","url":"/browse/Environment"},{"title":"Fossils & Geologic Time","url":"/browse/Fossil-Geologic-Time"},{"title":"Insects & Other Invertebrates","url":"/browse/Bugs-Mollusks-Invertebrates"},{"title":"Mammals","url":"/browse/Mammals"},{"title":"Plants","url":"/browse/Plants"}]},{"title":{"id":4,"title":"Geography & Travel","url":"/Geography-Travel"},"links":[{"title":"Geography & Travel","url":"/browse/Geography-Travel"}]},{"title":{"id":2,"title":"Arts & Culture","url":"/Arts-Culture"},"links":[{"title":"Entertainment & Pop Culture","url":"/browse/Entertainment-Pop-Culture"},{"title":"Literature","url":"/browse/Literature"},{"title":"Sports & Recreation","url":"/browse/Sports-Recreation"},{"title":"Visual Arts","url":"/browse/Visual-Arts"}]}],"browseByFeature":[{"title":"Image Galleries","url":"/gallery/browse"},{"title":"Podcasts","url":"/podcasts"},{"title":"Summaries","url":"/summary"},{"title":"Top Questions","url":"/question"},{"title":"Lists and Stories","url":"/lists-and-stories"}],"moreFromBritannica":[{"newTab":true,"title":"Britannica Kids","url":"https://kids.britannica.com/"}],"menuType":"DEFAULT"}
+  </script>
+  <header class="bg-navy-dark" id="header">
+   <div class="global-nav-top-bar">
+    <div class="grid gx-0 h-100 justify-content-between align-items-center container-lg mx-auto p-0 position-relative">
+     <div class="d-flex align-items-center">
+      <button aria-label="Explore" class="d-flex align-items-center justify-self-start js-toggle js-toggle-hamburger btn btn-link link-white btn-sm rounded-0 p-10">
+       <div class="hamburger-tooltip">
+        <em class="material-icons d-inline-block font-24" data-icon="menu" id="nav-toggle">
+        </em>
+       </div>
+       <em class="material-icons d-inline-block font-24 global-nav-search-icon" data-icon="search" id="nav-search-icon">
+       </em>
+      </button>
+      <a class="d-flex align-items-center justify-content-center ml-10" href="/">
+       <img alt="Encyclopedia Britannica" class="global-nav-logo global-nav-logo-left" loading="lazy" src="https://cdn.britannica.com/mendel/eb-logo/MendelNewThistleLogo.png"/>
+      </a>
+      <div class="global-nav-top-search-bar global-nav-top-search-container global-nav-search-container" id="global-nav-top-search-bar">
+       <form action="/search" class="md-search-form m-0 global-nav-search-bar-small" id="global-nav-search" method="get">
+        <div class="search-box position-relative col-100">
+         <label class="sr-only" for="global-nav-search-query">
+          Search Britannica
+         </label>
+         <input aria-label="Search Britannica" autocomplete="off" class="form-control form-control-lg rounded-lg font-16 search-query pl-20 pr-70 shadow-sm" id="global-nav-search-query" maxlength="200" name="query" placeholder="Search Britannica..."/>
+         <button class="search-reset-btn btn btn-link px-10 position-absolute top-0 h-100 d-none" type="reset">
+          <em class="material-icons" data-icon="close">
+          </em>
+         </button>
+         <button class="search-submit btn btn-link text-blue px-10 position-absolute top-0 right-0 h-100" disabled="" type="submit">
+          <span class="sr-only">
+           Click here to search
+          </span>
+          <em class="material-icons search-icon" data-icon="search">
+          </em>
+         </button>
+        </div>
+       </form>
+      </div>
+     </div>
+     <a aria-label="Home" class="d-flex align-items-center justify-content-center" href="/">
+      <img alt="Encyclopedia Britannica" class="global-nav-center global-nav-logo non-homepage-logo" loading="lazy" src="https://cdn.britannica.com/mendel/eb-logo/MendelNewThistleLogo.png"/>
+     </a>
+     <form action="/search" class="md-search-form m-0 global-nav-search-bar-small global-nav-center search global-nav-center-search-container" id="global-nav-search" method="get">
+      <div class="search-box position-relative col-100">
+       <label class="sr-only" for="global-nav-search-query">
+        Search Britannica
+       </label>
+       <input aria-label="Search Britannica" autocomplete="off" class="form-control form-control-lg rounded-lg font-16 search-query pl-20 pr-70 shadow-sm" id="global-nav-search-query" maxlength="200" name="query" placeholder="Search Britannica..."/>
+       <button class="search-reset-btn btn btn-link px-10 position-absolute top-0 h-100 d-none" type="reset">
+        <em class="material-icons" data-icon="close">
+        </em>
+       </button>
+       <button class="search-submit btn btn-link text-blue px-10 position-absolute top-0 right-0 h-100" disabled="" type="submit">
+        <span class="sr-only">
+         Click here to search
+        </span>
+        <em class="material-icons search-icon" data-icon="search">
+        </em>
+       </button>
+      </div>
+     </form>
+     <div class="col-35 col-sm-auto text-right order-3 mr-lg-15 align-items-center d-flex justify-content-end">
+      <div class="d-none d-md-inline-block">
+       <span class="marketing-HEADER_SUBSCRIPTION_DESKTOP2 marketing-content" data-marketing-id="HEADER_SUBSCRIPTION_DESKTOP2">
+        <a class="subscribe-link btn btn-sm btn-blue py-5 mr-10" href="https://premium.britannica.com/premium-membership/?utm_source=premium&amp;utm_medium=global-nav&amp;utm_campaign=blue-evergreen" rel="noopener" target="_blank">
+         SUBSCRIBE
+        </a>
+       </span>
+      </div>
+      <div class="d-inline-block d-md-none mr-5 mr-sm-10">
+       <span class="marketing-HEADER_SUBSCRIPTION_MOBILE marketing-content" data-marketing-id="HEADER_SUBSCRIPTION_MOBILE">
+        <a class="subscribe-link btn btn-xs btn-blue p-5" href="https://premium.britannica.com/premium-membership/?utm_source=premium&amp;utm_medium=global-nav-mobile&amp;utm_campaign=blue-evergreen" rel="noopener" target="_blank">
+         SUBSCRIBE
+        </a>
+       </span>
+      </div>
+      <button class="js-toggle-user-dropdown js-toggle btn btn-sm btn-link link-white rounded-0 px-md-15 pl-5 pr-5">
+       <span class="d-none d-md-inline-block mr-5">
+        Login
+       </span>
+       <em class="material-icons d-inline-block d-md-none font-16 font-sm-20" data-icon="account_circle">
+       </em>
+       <div class="d-none dropdown-menu-subscription-link">
+        https://premium.britannica.com/premium-membership/?utm_source=premium&amp;utm_medium=nav-login-box&amp;utm_campaign=evergreen
+       </div>
+       <em aria-label="" class="material-icons inactive-icon d-inline-block font-18" data-icon="keyboard_arrow_down">
+       </em>
+       <em aria-label="" class="material-icons active-icon d-inline-block font-18" data-icon="keyboard_arrow_up">
+       </em>
+      </button>
+     </div>
+    </div>
+   </div>
+   <div class="d-none hamburger-menu-subscription-link">
+    <div class="marketing-HAMBURGER_MENU_CTA marketing-content" data-marketing-id="HAMBURGER_MENU_CTA">
+     <a class="subscribe-link btn btn-sm btn-blue py-5" href="https://premium.britannica.com/premium-membership/?utm_source=premium&amp;utm_medium=hamburger-menu&amp;utm_campaign=blue" target="_blank">
+      SUBSCRIBE
+     </a>
+    </div>
+   </div>
+   <div id="global-nav-react">
+    <div class="d-none">
+     <ul>
+      <li>
+       <a href="/">
+        Home
+       </a>
+      </li>
+      <li>
+       <a href="/History-Society">
+        History &amp; Society
+       </a>
+      </li>
+      <li>
+       <a href="/Science-Tech">
+        Science &amp; Tech
+       </a>
+      </li>
+      <li>
+       <a href="/Biographies">
+        Biographies
+       </a>
+      </li>
+      <li>
+       <a href="/Animals-Nature">
+        Animals &amp; Nature
+       </a>
+      </li>
+      <li>
+       <a href="/Geography-Travel">
+        Geography &amp; Travel
+       </a>
+      </li>
+      <li>
+       <a href="/Arts-Culture">
+        Arts &amp; Culture
+       </a>
+      </li>
+      <li>
+       <a href="/procon">
+        ProCon
+       </a>
+      </li>
+      <li>
+       <a href="/money">
+        Money
+       </a>
+      </li>
+     </ul>
+     <ul>
+      <li>
+       <a href="/quiz/browse">
+        Games &amp; Quizzes
+       </a>
+      </li>
+      <li>
+       <a href="/videos">
+        Videos
+       </a>
+      </li>
+      <li>
+       <a href="/on-this-day">
+        On This Day
+       </a>
+      </li>
+      <li>
+       <a href="/one-good-fact">
+        One Good Fact
+       </a>
+      </li>
+      <li>
+       <a href="/dictionary">
+        Dictionary
+       </a>
+      </li>
+      <li>
+       <a href="/new-articles">
+        New Articles
+       </a>
+      </li>
+     </ul>
+     <a href="/History-Society">
+      History &amp; Society
+     </a>
+     <ul>
+      <li>
+       <a href="/browse/World-History">
+        History
+       </a>
+      </li>
+      <li>
+       <a href="/browse/Philosophy-Religion">
+        Philosophy &amp; Religion
+       </a>
+      </li>
+      <li>
+       <a href="/browse/Politics-Law-Government">
+        Politics, Law &amp; Government
+       </a>
+      </li>
+      <li>
+       <a href="/browse/Lifestyles-Social-Issues">
+        Society &amp; Social Issues
+       </a>
+      </li>
+     </ul>
+     <a href="/Science-Tech">
+      Science &amp; Tech
+     </a>
+     <ul>
+      <li>
+       <a href="/browse/Health-Medicine">
+        Health &amp; Medicine
+       </a>
+      </li>
+      <li>
+       <a href="/browse/Science">
+        Science
+       </a>
+      </li>
+      <li>
+       <a href="/browse/Technology">
+        Technology
+       </a>
+      </li>
+     </ul>
+     <a href="/Biographies">
+      Biographies
+     </a>
+     <ul>
+      <li>
+       <a href="/browse/biographies">
+        Browse Biographies
+       </a>
+      </li>
+     </ul>
+     <a href="/Animals-Nature">
+      Animals &amp; Nature
+     </a>
+     <ul>
+      <li>
+       <a href="/browse/Birds-Reptiles-Vertebrates">
+        Birds, Reptiles &amp; Other Vertebrates
+       </a>
+      </li>
+      <li>
+       <a href="/browse/Environment">
+        Environment
+       </a>
+      </li>
+      <li>
+       <a href="/browse/Fossil-Geologic-Time">
+        Fossils &amp; Geologic Time
+       </a>
+      </li>
+      <li>
+       <a href="/browse/Bugs-Mollusks-Invertebrates">
+        Insects &amp; Other Invertebrates
+       </a>
+      </li>
+      <li>
+       <a href="/browse/Mammals">
+        Mammals
+       </a>
+      </li>
+      <li>
+       <a href="/browse/Plants">
+        Plants
+       </a>
+      </li>
+     </ul>
+     <a href="/Geography-Travel">
+      Geography &amp; Travel
+     </a>
+     <ul>
+      <li>
+       <a href="/browse/Geography-Travel">
+        Geography &amp; Travel
+       </a>
+      </li>
+     </ul>
+     <a href="/Arts-Culture">
+      Arts &amp; Culture
+     </a>
+     <ul>
+      <li>
+       <a href="/browse/Entertainment-Pop-Culture">
+        Entertainment &amp; Pop Culture
+       </a>
+      </li>
+      <li>
+       <a href="/browse/Literature">
+        Literature
+       </a>
+      </li>
+      <li>
+       <a href="/browse/Sports-Recreation">
+        Sports &amp; Recreation
+       </a>
+      </li>
+      <li>
+       <a href="/browse/Visual-Arts">
+        Visual Arts
+       </a>
+      </li>
+     </ul>
+     <ul>
+      <li>
+       <a href="/gallery/browse">
+        Image Galleries
+       </a>
+      </li>
+      <li>
+       <a href="/podcasts">
+        Podcasts
+       </a>
+      </li>
+      <li>
+       <a href="/summary">
+        Summaries
+       </a>
+      </li>
+      <li>
+       <a href="/question">
+        Top Questions
+       </a>
+      </li>
+      <li>
+       <a href="/lists-and-stories">
+        Lists and Stories
+       </a>
+      </li>
+     </ul>
+     <ul>
+      <li>
+       <a href="https://kids.britannica.com/">
+        Britannica Kids
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </header>
+  <div class="bg-navy-dark">
+   <div class="container-lg p-0 d-flex justify-content-center global-nav-categories-bar overflow-hidden">
+    <div class="slider js-slider position-relative d-inline-flex align-items-center mw-100 global-nav-slider mb-5 category-snap-slider">
+     <div class="slider-container js-slider-container overflow-hidden font-14 overflow-hidden text-nowrap mx-5">
+      <a class="nav-bar-category mx-5 category-link-CHATBOT tw:relative tw:inline-block tw:rounded-xl tw:bg-blue-600 tw:px-3 tw:py-0.5 tw:text-white tw:font-semibold" href="/chatbot">
+       <svg class="tw:fill-white tw:inline-block tw:pb-0.5" height="18" viewbox="0 0 61 60" width="18" xmlns="http://www.w3.org/2000/svg">
+        <path d="M30.9864 59.9999C30.1964 60.0039 29.424 59.7667 28.7724 59.32C28.1208 58.8734 27.621 58.2384 27.3399 57.5002L21.1156 41.3145C20.9895 40.9883 20.7967 40.6921 20.5494 40.4449C20.3022 40.1976 20.006 40.0048 19.6798 39.8787L3.48945 33.6497C2.75194 33.3666 2.1176 32.8666 1.67014 32.2156C1.22269 31.5646 0.983154 30.7932 0.983154 30.0032C0.983154 29.2133 1.22269 28.4419 1.67014 27.7909C2.1176 27.1399 2.75194 26.6398 3.48945 26.3568L19.6751 20.1325C20.0013 20.0064 20.2975 19.8136 20.5448 19.5663C20.792 19.319 20.9849 19.0228 21.1109 18.6967L27.3399 2.5063C27.623 1.76879 28.123 1.13445 28.774 0.686992C29.425 0.239536 30.1964 0 30.9864 0C31.7763 0 32.5477 0.239536 33.1987 0.686992C33.8498 1.13445 34.3498 1.76879 34.6328 2.5063L40.8572 18.692C40.9832 19.0182 41.1761 19.3144 41.4233 19.5616C41.6706 19.8089 41.9668 20.0017 42.2929 20.1278L58.3849 26.3193C59.1524 26.6038 59.8136 27.1179 60.2785 27.7916C60.7434 28.4653 60.9894 29.2659 60.983 30.0845C60.9711 30.8607 60.7265 31.6154 60.2808 32.2511C59.8352 32.8867 59.209 33.3739 58.4833 33.6497L42.2976 39.874C41.9715 40.0001 41.6753 40.1929 41.428 40.4402C41.1807 40.6874 40.9879 40.9836 40.8618 41.3098L34.6328 57.5002C34.3517 58.2384 33.852 58.8734 33.2004 59.32C32.5488 59.7667 31.7764 60.0039 30.9864 59.9999Z">
+        </path>
+       </svg>
+       Ask the Chatbot
+      </a>
+      <a class="nav-bar-category mx-5 category-link-QUIZZES" href="/quiz/browse">
+       Games &amp; Quizzes
+      </a>
+      <a class="nav-bar-category mx-5 category-link-HISTORY selected selected" href="/History-Society">
+       History &amp; Society
+      </a>
+      <a class="nav-bar-category mx-5 category-link-SCIENCE" href="/Science-Tech">
+       Science &amp; Tech
+      </a>
+      <a class="nav-bar-category mx-5 category-link-BIOS" href="/Biographies">
+       Biographies
+      </a>
+      <a class="nav-bar-category mx-5 category-link-ANIMALS" href="/Animals-Nature">
+       Animals &amp; Nature
+      </a>
+      <a class="nav-bar-category mx-5 category-link-GEOGRAPHY" href="/Geography-Travel">
+       Geography &amp; Travel
+      </a>
+      <a class="nav-bar-category mx-5 category-link-ART" href="/Arts-Culture">
+       Arts &amp; Culture
+      </a>
+      <a class="nav-bar-category mx-5 category-link-PROCON" href="/procon">
+       ProCon
+      </a>
+      <a class="nav-bar-category mx-5 category-link-MONEY" href="/money">
+       Money
+      </a>
+      <a class="nav-bar-category mx-5 category-link-VIDEOS" href="/videos">
+       Videos
+      </a>
+     </div>
+     <button aria-label="Previous" class="prev-button js-prev-button position-absolute btn btn-circle shadow btn-blue" disabled="">
+      <span class="material-icons md-24" data-icon="keyboard_arrow_left">
+      </span>
+     </button>
+     <button aria-label="Next" class="next-button js-next-button position-absolute btn btn-circle shadow btn-blue" disabled="">
+      <span class="material-icons md-24" data-icon="keyboard_arrow_right">
+      </span>
+     </button>
+    </div>
+   </div>
+  </div>
+  <main>
+   <div class="md-page-wrapper">
+    <div class="md-content" id="content">
+     <div class="md-article-container template-desktop infinite-pagination">
+      <div class="infinite-scroll-container article last">
+       <script>
+        Object.assign( window.Mendel.config, {
+        
+        "infiniteScrollList": [{"p":48,"t":648813},{"p":1,"t":2271920},{"p":1,"t":2272497},{"p":5,"t":269548},{"p":2,"t":125110},{"p":1,"t":562720},{"p":4,"t":418382},{"p":2,"t":2191531},{"p":13,"t":437585},{"p":14,"t":382397}],
+        "sequence": 1,
+        "topics": {}
+    });
+       </script>
+       <article class="topic-desktop article-content container-lg qa-content px-0 pt-0 pb-40 py-lg-20 content md-expanded" data-topic-id="648813">
+        <div class="grid gx-0">
+         <div class="col-auto">
+          <div class="topic-left-rail md-article-drawer position-relative d-flex border-right-sm border-left-sm open">
+           <div class="drawer d-flex flex-column open">
+            <div class="left-rail-section-content">
+             <div class="topic-left-rail-header text-truncate bg-gray-50 position-relative text-right d-flex align-items-center">
+              <div class="tlr-title px-20 py-15 text-left tw:flex tw:flex-row tw:overflow-hidden tw:w-full tw:md:w-auto">
+               <em aria-label="" class="material-icons text-gray-400 d-lg-none" data-icon="toc">
+               </em>
+               <div class="tw:relative tw:flex tw:flex-row tw:items-center tw:overflow-hidden tw:mr-2 tw:sm:mr-0 tw:w-full tw:md:w-auto">
+                <span class="tw:truncate tw:pr-2 tw:ml-1">
+                 <a class="font-serif font-weight-bold text-black link-blue" href="https://www.britannica.com/event/World-War-II">
+                  World War II
+                 </a>
+                </span>
+                <div class="tw:inline-block tw:sm:hidden tw:absolute tw:bottom-0 tw:right-0 tw:w-1/4 tw:h-full tw:bg-gradient-to-l tw:from-gray-50 tw:to-transparent">
+                </div>
+               </div>
+              </div>
+              <button aria-label="Close" class="js-sections-close-button btn-link btn-sm btn d-lg-none position-absolute top-0 p-10 right-0">
+               <em aria-label="" class="material-icons font-26" data-icon="close">
+               </em>
+              </button>
+             </div>
+             <div class="section-content pl-10 pr-20 pl-sm-50 pr-sm-60 pl-lg-5 pr-lg-10 pt-10 pt-lg-0 bg-gray-50 clear-catfish-ad">
+              <div class="toc mb-20">
+               <ul class="list-unstyled my-0" data-level="h1">
+                <li data-target="#ref1">
+                 <div class="pl-25">
+                  <a class="link-gray-900 w-100" href="/event/World-War-II">
+                   Introduction &amp; Top Questions
+                  </a>
+                 </div>
+                 <div class="ml-40 toc-drawer sub-toc-drawer">
+                 </div>
+                </li>
+                <li data-target="#ref53531">
+                 <div class="d-flex align-items-center">
+                  <button aria-label="Toggle Heading" class="h1-link-drawer-button btn btn-xs btn-circle d-flex rounded" type="button">
+                   <em class="material-icons font-18" data-icon="keyboard_arrow_right">
+                   </em>
+                  </button>
+                  <a class="w-100 link-gray-900" href="/event/World-War-II#ref53531">
+                   Axis initiative and Allied reaction
+                  </a>
+                 </div>
+                 <div class="ml-40 toc-drawer sub-toc-drawer">
+                  <ul class="list-unstyled" data-level="h2">
+                   <li data-target="#ref53532">
+                    <a class="w-100 link-gray-900" href="/event/World-War-II#ref53532">
+                     The outbreak of war
+                    </a>
+                   </li>
+                  </ul>
+                  <ul class="list-unstyled" data-level="h2">
+                   <li data-target="#ref53533">
+                    <a class="w-100 link-gray-900" href="/event/World-War-II/Forces-and-resources-of-the-European-combatants-1939">
+                     Forces and resources of the European combatants, 1939
+                    </a>
+                   </li>
+                  </ul>
+                  <ul class="list-unstyled" data-level="h2">
+                   <li data-target="#ref53534">
+                    <a class="w-100 link-gray-900" href="/event/World-War-II/Forces-and-resources-of-the-European-combatants-1939#ref53534">
+                     Technology of war, 1918–39
+                    </a>
+                   </li>
+                  </ul>
+                  <ul class="list-unstyled" data-level="h2">
+                   <li data-target="#ref53535">
+                    <a class="w-100 link-gray-900" href="/event/World-War-II/The-war-in-Europe-1939-41">
+                     The war in Europe, 1939–41
+                    </a>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53536">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/The-war-in-Europe-1939-41#ref53536">
+                       The campaign in Poland, 1939
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53537">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/The-Baltic-states-and-the-Russo-Finnish-War-1939-40">
+                       The Baltic states and the Russo-Finnish War, 1939–40
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li class="has-children" data-target="#ref53538">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/The-Baltic-states-and-the-Russo-Finnish-War-1939-40#ref53538">
+                       The war in the west, September 1939–June 1940
+                      </a>
+                      <ul class="list-unstyled" data-level="h4">
+                       <li data-target="#ref53539">
+                        <a class="w-100 link-gray-900" href="/event/World-War-II/The-invasion-of-Norway">
+                         The invasion of Norway
+                        </a>
+                       </li>
+                      </ul>
+                      <ul class="list-unstyled" data-level="h4">
+                       <li data-target="#ref53540">
+                        <a class="w-100 link-gray-900" href="/event/World-War-II/The-invasion-of-the-Low-Countries-and-France">
+                         The invasion of the Low Countries and France
+                        </a>
+                       </li>
+                      </ul>
+                      <ul class="list-unstyled" data-level="h4">
+                       <li data-target="#ref53541">
+                        <a class="w-100 link-gray-900" href="/event/World-War-II/The-evacuation-from-Dunkirk">
+                         The evacuation from Dunkirk
+                        </a>
+                       </li>
+                      </ul>
+                      <ul class="list-unstyled" data-level="h4">
+                       <li data-target="#ref53542">
+                        <a class="w-100 link-gray-900" href="/event/World-War-II/Italys-entry-into-the-war-and-the-French-Armistice">
+                         Italy’s entry into the war and the French Armistice
+                        </a>
+                       </li>
+                      </ul>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53543">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/The-Battle-of-Britain-and-the-Blitz">
+                       The Battle of Britain and the Blitz
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53544">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/Central-Europe-and-the-Balkans-1940-41">
+                       Central Europe and the Balkans, 1940–41
+                      </a>
+                     </li>
+                    </ul>
+                   </li>
+                  </ul>
+                  <ul class="list-unstyled" data-level="h2">
+                   <li data-target="#ref53545">
+                    <a class="w-100 link-gray-900" href="/event/World-War-II/Other-fronts-1940-41">
+                     Other fronts, 1940–41
+                    </a>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53546">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/Other-fronts-1940-41#ref53546">
+                       Egypt and Cyrenaica, 1940–summer 1941
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53547">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/East-Africa">
+                       East Africa
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53548">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/East-Africa#ref53548">
+                       Iraq and Syria, 1940–41
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53549">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/The-beginning-of-lend-lease">
+                       The beginning of lend-lease
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53550">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/The-Atlantic-and-the-Mediterranean-1940-41">
+                       The Atlantic and the Mediterranean, 1940–41
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53551">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/The-Atlantic-and-the-Mediterranean-1940-41#ref53551">
+                       German strategy, 1939–42
+                      </a>
+                     </li>
+                    </ul>
+                   </li>
+                  </ul>
+                  <ul class="list-unstyled" data-level="h2">
+                   <li data-target="#ref53552">
+                    <a class="w-100 link-gray-900" href="/event/World-War-II/Invasion-of-the-Soviet-Union-1941">
+                     Invasion of the Soviet Union, 1941
+                    </a>
+                   </li>
+                  </ul>
+                  <ul class="list-unstyled" data-level="h2">
+                   <li data-target="#ref53553">
+                    <a class="w-100 link-gray-900" href="/event/World-War-II/The-war-in-the-Pacific-1938-41">
+                     The war in the Pacific, 1938–41
+                    </a>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53554">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/The-war-in-the-Pacific-1938-41#ref53554">
+                       The war in China, 1937–41
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53555">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/Japanese-policy-1939-41">
+                       Japanese policy, 1939–41
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53556">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/Pearl-Harbor-and-the-Japanese-expansion-to-July-1942">
+                       Pearl Harbor and the Japanese expansion, to July 1942
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53557">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/The-fall-of-Singapore">
+                       The fall of Singapore
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53558">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/The-fall-of-Singapore#ref53558">
+                       The Chinese front and Burma, 1941–42
+                      </a>
+                     </li>
+                    </ul>
+                   </li>
+                  </ul>
+                  <ul class="list-unstyled" data-level="h2">
+                   <li data-target="#ref53559">
+                    <a class="w-100 link-gray-900" href="/event/World-War-II/Developments-from-autumn-1941-to-spring-1942">
+                     Developments from autumn 1941 to spring 1942
+                    </a>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53560">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/Developments-from-autumn-1941-to-spring-1942#ref53560">
+                       Allied strategy and controversies, 1940–42
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53561">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/Libya-and-Egypt-autumn-1941-summer-1942">
+                       Libya and Egypt, autumn 1941–summer 1942
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53562">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/The-Germans-summer-offensive-in-southern-Russia-1942">
+                       The Germans’ summer offensive in southern Russia, 1942
+                      </a>
+                     </li>
+                    </ul>
+                   </li>
+                  </ul>
+                 </div>
+                </li>
+                <li data-target="#ref53563">
+                 <div class="d-flex align-items-center">
+                  <button aria-label="Toggle Heading" class="h1-link-drawer-button btn btn-xs btn-circle d-flex rounded" type="button">
+                   <em class="material-icons font-18" data-icon="keyboard_arrow_right">
+                   </em>
+                  </button>
+                  <a class="w-100 link-gray-900" href="/event/World-War-II/The-Allies-first-decisive-successes">
+                   The Allies’ first decisive successes
+                  </a>
+                 </div>
+                 <div class="ml-40 toc-drawer sub-toc-drawer">
+                  <ul class="list-unstyled" data-level="h2">
+                   <li data-target="#ref53564">
+                    <a class="w-100 link-gray-900" href="/event/World-War-II/The-Allies-first-decisive-successes#ref53564">
+                     The Solomons, Papua, Madagascar, the Aleutians, and Burma, July 1942–May 1943
+                    </a>
+                   </li>
+                  </ul>
+                  <ul class="list-unstyled" data-level="h2">
+                   <li data-target="#ref53565">
+                    <a class="w-100 link-gray-900" href="/event/World-War-II/The-Allies-first-decisive-successes#ref53565">
+                     Burma, autumn 1942–summer 1943
+                    </a>
+                   </li>
+                  </ul>
+                  <ul class="list-unstyled" data-level="h2">
+                   <li data-target="#ref53566">
+                    <a class="w-100 link-gray-900" href="/event/World-War-II/Montgomerys-Battle-of-el-Alamein-and-Rommels-retreat-1942-43">
+                     Montgomery’s Battle of el-Alamein and Rommel’s retreat, 1942–43
+                    </a>
+                   </li>
+                  </ul>
+                  <ul class="list-unstyled" data-level="h2">
+                   <li data-target="#ref53567">
+                    <a class="w-100 link-gray-900" href="/event/World-War-II/Stalingrad-and-the-German-retreat-summer-1942-February-1943">
+                     Stalingrad and the German retreat, summer 1942–February 1943
+                    </a>
+                   </li>
+                  </ul>
+                  <ul class="list-unstyled" data-level="h2">
+                   <li data-target="#ref53568">
+                    <a class="w-100 link-gray-900" href="/event/World-War-II/The-invasion-of-northwest-Africa-November-December-1942">
+                     The invasion of northwest Africa, November–December 1942
+                    </a>
+                   </li>
+                  </ul>
+                  <ul class="list-unstyled" data-level="h2">
+                   <li data-target="#ref53569">
+                    <a class="w-100 link-gray-900" href="/event/World-War-II/Tunisia-November-1942-May-1943">
+                     Tunisia, November 1942–May 1943
+                    </a>
+                   </li>
+                  </ul>
+                  <ul class="list-unstyled" data-level="h2">
+                   <li data-target="#ref53570">
+                    <a class="w-100 link-gray-900" href="/event/World-War-II/Tunisia-November-1942-May-1943#ref53570">
+                     The Atlantic, the Mediterranean, and the North Sea, 1942–45
+                    </a>
+                   </li>
+                  </ul>
+                  <ul class="list-unstyled" data-level="h2">
+                   <li data-target="#ref53571">
+                    <a class="w-100 link-gray-900" href="/event/World-War-II/Air-warfare-1942-43">
+                     Air warfare, 1942–43
+                    </a>
+                   </li>
+                  </ul>
+                  <ul class="list-unstyled" data-level="h2">
+                   <li data-target="#ref53572">
+                    <a class="w-100 link-gray-900" href="/event/World-War-II/German-occupied-Europe">
+                     German-occupied Europe
+                    </a>
+                   </li>
+                  </ul>
+                  <ul class="list-unstyled" data-level="h2">
+                   <li data-target="#ref53573">
+                    <a class="w-100 link-gray-900" href="/event/World-War-II/Casablanca-and-Trident-January-May-1943">
+                     Casablanca and Trident, January–May 1943
+                    </a>
+                   </li>
+                  </ul>
+                  <ul class="list-unstyled" data-level="h2">
+                   <li data-target="#ref53574">
+                    <a class="w-100 link-gray-900" href="/event/World-War-II/Casablanca-and-Trident-January-May-1943#ref53574">
+                     The Eastern Front, February–September 1943
+                    </a>
+                   </li>
+                  </ul>
+                  <ul class="list-unstyled" data-level="h2">
+                   <li data-target="#ref53575">
+                    <a class="w-100 link-gray-900" href="/event/World-War-II/Casablanca-and-Trident-January-May-1943#ref53575">
+                     The Southwest and South Pacific, June–October 1943
+                    </a>
+                   </li>
+                  </ul>
+                 </div>
+                </li>
+                <li data-target="#ref53576">
+                 <div class="d-flex align-items-center">
+                  <button aria-label="Toggle Heading" class="h1-link-drawer-button btn btn-xs btn-circle d-flex rounded" type="button">
+                   <em class="material-icons font-18" data-icon="keyboard_arrow_right">
+                   </em>
+                  </button>
+                  <a class="w-100 link-gray-900" href="/event/World-War-II/The-Allied-landings-in-Europe-and-the-defeat-of-the-Axis-powers">
+                   The Allied landings in Europe and the defeat of the Axis powers
+                  </a>
+                 </div>
+                 <div class="ml-40 toc-drawer sub-toc-drawer">
+                  <ul class="list-unstyled" data-level="h2">
+                   <li data-target="#ref53577">
+                    <a class="w-100 link-gray-900" href="/event/World-War-II/The-Allied-landings-in-Europe-and-the-defeat-of-the-Axis-powers#ref53577">
+                     Developments from autumn 1943 to summer 1944
+                    </a>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53578">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/The-Allied-landings-in-Europe-and-the-defeat-of-the-Axis-powers#ref53578">
+                       Sicily and the fall of Mussolini, July–August 1943
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53579">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/The-Allied-landings-in-Europe-and-the-defeat-of-the-Axis-powers#ref53579">
+                       The Quadrant Conference (Quebec I)
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53580">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/The-Allies-invasion-of-Italy-and-the-Italian-volte-face-1943">
+                       The Allies’ invasion of Italy and the Italian volte-face, 1943
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53581">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/The-Allies-invasion-of-Italy-and-the-Italian-volte-face-1943#ref53581">
+                       The western Allies and Stalin: Cairo and Tehrān, 1943
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53582">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/German-strategy-from-1943">
+                       German strategy, from 1943
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53583">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/German-strategy-from-1943#ref53583">
+                       The Eastern Front, October 1943–April 1944
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li class="has-children" data-target="#ref53584">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/The-war-in-the-Pacific-October-1943-August-1944">
+                       The war in the Pacific, October 1943–August 1944
+                      </a>
+                      <ul class="list-unstyled" data-level="h4">
+                       <li data-target="#ref53585">
+                        <a class="w-100 link-gray-900" href="/event/World-War-II/The-war-in-the-Pacific-October-1943-August-1944#ref53585">
+                         The encirclement of Rabaul
+                        </a>
+                       </li>
+                      </ul>
+                      <ul class="list-unstyled" data-level="h4">
+                       <li data-target="#ref53586">
+                        <a class="w-100 link-gray-900" href="/event/World-War-II/The-war-in-the-Pacific-October-1943-August-1944#ref53586">
+                         Western New Guinea
+                        </a>
+                       </li>
+                      </ul>
+                      <ul class="list-unstyled" data-level="h4">
+                       <li data-target="#ref53587">
+                        <a class="w-100 link-gray-900" href="/event/World-War-II/The-central-Pacific">
+                         The central Pacific
+                        </a>
+                       </li>
+                      </ul>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53588">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/The-central-Pacific#ref53588">
+                       The Burmese frontier and China, November 1943–summer 1944
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53589">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/The-Italian-front-1944">
+                       The Italian front, 1944
+                      </a>
+                     </li>
+                    </ul>
+                   </li>
+                  </ul>
+                  <ul class="list-unstyled" data-level="h2">
+                   <li data-target="#ref53590">
+                    <a class="w-100 link-gray-900" href="/event/World-War-II/Developments-from-summer-1944-to-autumn-1945">
+                     Developments from summer 1944 to autumn 1945
+                    </a>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53591">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/Developments-from-summer-1944-to-autumn-1945#ref53591">
+                       The Allied invasions of western Europe, June–November 1944
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53592">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/The-Eastern-Front-June-December-1944">
+                       The Eastern Front, June–December 1944
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53593">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/The-Eastern-Front-June-December-1944#ref53593">
+                       Air warfare, 1944
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53594">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/The-Eastern-Front-June-December-1944#ref53594">
+                       Allied policy and strategy: Octagon (Quebec II) and Moscow, 1944
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53595">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/The-Philippines-and-Borneo-from-September-1944">
+                       The Philippines and Borneo, from September 1944
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53596">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/Burma-and-China-October-1944-May-1945">
+                       Burma and China, October 1944–May 1945
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53597">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/Burma-and-China-October-1944-May-1945#ref53597">
+                       The German offensive in the west, winter 1944–45
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53598">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/The-Soviet-advance-to-the-Oder-January-February-1945">
+                       The Soviet advance to the Oder, January–February 1945
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53599">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/Yalta">
+                       Yalta
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53600">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/Yalta#ref53600">
+                       The German collapse, spring 1945
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53601">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/Potsdam">
+                       Potsdam
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li class="has-children" data-target="#ref53602">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/The-end-of-the-Japanese-war-February-September-1945">
+                       The end of the Japanese war, February–September 1945
+                      </a>
+                      <ul class="list-unstyled" data-level="h4">
+                       <li data-target="#ref53603">
+                        <a class="w-100 link-gray-900" href="/event/World-War-II/The-end-of-the-Japanese-war-February-September-1945#ref53603">
+                         Iwo Jima and the bombing of Tokyo
+                        </a>
+                       </li>
+                      </ul>
+                      <ul class="list-unstyled" data-level="h4">
+                       <li data-target="#ref53604">
+                        <a class="w-100 link-gray-900" href="/event/World-War-II/The-end-of-the-Japanese-war-February-September-1945#ref53604">
+                         Okinawa
+                        </a>
+                       </li>
+                      </ul>
+                      <ul class="list-unstyled" data-level="h4">
+                       <li data-target="#ref53605">
+                        <a class="w-100 link-gray-900" href="/event/World-War-II/Hiroshima-and-Nagasaki">
+                         Hiroshima and Nagasaki
+                        </a>
+                       </li>
+                      </ul>
+                      <ul class="list-unstyled" data-level="h4">
+                       <li data-target="#ref53606">
+                        <a class="w-100 link-gray-900" href="/event/World-War-II/Hiroshima-and-Nagasaki#ref53606">
+                         The Japanese surrender
+                        </a>
+                       </li>
+                      </ul>
+                     </li>
+                    </ul>
+                   </li>
+                  </ul>
+                  <ul class="list-unstyled" data-level="h2">
+                   <li data-target="#ref53607">
+                    <a class="w-100 link-gray-900" href="/event/World-War-II/Costs-of-the-war">
+                     Costs of the war
+                    </a>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li data-target="#ref53608">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/Costs-of-the-war#ref53608">
+                       Killed, wounded, prisoners, or missing
+                      </a>
+                     </li>
+                    </ul>
+                    <ul class="list-unstyled" data-level="h3">
+                     <li class="has-children" data-target="#ref53609">
+                      <a class="w-100 link-gray-900" href="/event/World-War-II/Human-and-material-cost">
+                       Human and material cost
+                      </a>
+                      <ul class="list-unstyled" data-level="h4">
+                       <li data-target="#ref53610">
+                        <a class="w-100 link-gray-900" href="/event/World-War-II/Human-and-material-cost#ref53610">
+                         Europe
+                        </a>
+                       </li>
+                      </ul>
+                      <ul class="list-unstyled" data-level="h4">
+                       <li data-target="#ref53611">
+                        <a class="w-100 link-gray-900" href="/event/World-War-II/The-Far-East">
+                         The Far East
+                        </a>
+                       </li>
+                      </ul>
+                     </li>
+                    </ul>
+                   </li>
+                  </ul>
+                 </div>
+                </li>
+               </ul>
+               <a class="toc-extra-link link-gray-900" href="https://www.britannica.com/event/World-War-II/additional-info">
+                References &amp; Edit History
+               </a>
+               <a class="toc-extra-link link-gray-900" href="/facts/World-War-II">
+                Quick Facts &amp; Related Topics
+               </a>
+              </div>
+              <div class="tlr-media-slider pb-10 mb-30">
+               <a class="section-header link-gray-900 font-serif font-14 font-weight-bold mb-10 mx-10" href="https://www.britannica.com/event/World-War-II/images-videos">
+                Images, Videos &amp; Interactives
+               </a>
+               <div class="slider js-slider position-relative d-inline-flex align-items-center mw-100">
+                <div class="slider-container js-slider-container overflow-hidden overflow-hidden text-nowrap ml-15">
+                 <a class="media-overlay-link d-inline-block mr-5" data-href="/media/1/648813/74903" href="https://cdn.britannica.com/26/188426-050-2AF26954/Germany-Poland-September-1-1939.jpg">
+                  <img alt="World War II: Germany invading Poland" height="50" loading="lazy" src="https://cdn.britannica.com/26/188426-004-185B62A4/Germany-Poland-September-1-1939.jpg"/>
+                 </a>
+                 <a class="media-overlay-link d-inline-block mr-5" data-href="/media/1/648813/92072" href="https://cdn.britannica.com/53/78753-050-9F513FB8/Winston-Churchill-British-Joseph-Stalin-meeting-Soviet-July-1945.jpg">
+                  <img alt="Winston Churchill, Harry Truman, and Joseph Stalin" height="50" loading="lazy" src="https://cdn.britannica.com/53/78753-004-905E0AF3/Winston-Churchill-British-Joseph-Stalin-meeting-Soviet-July-1945.jpg"/>
+                 </a>
+                 <a class="media-overlay-link d-inline-block mr-5" data-href="/media/1/648813/92071" href="https://cdn.britannica.com/34/76534-050-EE7422B0/mushroom-cloud-aircraft-Hiroshima-Japan-people-city-August-6-1945.jpg">
+                  <img alt="Atomic bombing of Hiroshima" height="50" loading="lazy" src="https://cdn.britannica.com/34/76534-004-02646A14/mushroom-cloud-aircraft-Hiroshima-Japan-people-city-August-6-1945.jpg"/>
+                 </a>
+                 <a class="media-overlay-link d-inline-block mr-5" data-href="/media/1/648813/35747" href="https://cdn.britannica.com/56/70056-050-8DD89416/Adolf-Hitler-troops-Eastern-Front-1939.jpg">
+                  <img alt="Adolf Hitler" height="50" loading="lazy" src="https://cdn.britannica.com/56/70056-004-275F4E8D/Adolf-Hitler-troops-Eastern-Front-1939.jpg"/>
+                 </a>
+                 <a class="media-overlay-link d-inline-block mr-5" data-href="/media/1/648813/37468" href="https://cdn.britannica.com/20/60720-050-498BC5DA/Pz-IV-German-Pz-III-tanks-1942.jpg">
+                  <img alt="German tanks" height="50" loading="lazy" src="https://cdn.britannica.com/20/60720-004-12AE808B/Pz-IV-German-Pz-III-tanks-1942.jpg"/>
+                 </a>
+                 <a class="media-overlay-link d-inline-block mr-5" data-href="/media/1/648813/73266" href="https://cdn.britannica.com/08/60708-050-E180D29C/German-dive-bomber-Stuka-Junkers-Ju-87.jpg">
+                  <img alt="Stuka" height="50" loading="lazy" src="https://cdn.britannica.com/08/60708-004-65DD1E6C/German-dive-bomber-Stuka-Junkers-Ju-87.jpg"/>
+                 </a>
+                 <a class="media-overlay-link d-inline-block mr-5" data-href="/media/1/648813/290764" href="">
+                  <img alt="German aircraft production by year, 1933–39" height="50" loading="lazy" src="https://cdn.britannica.com/46/249446-049-74064A7B/German-aircraft-production-by-year-World-War-II.jpg"/>
+                 </a>
+                 <a class="media-overlay-link d-inline-block mr-5" data-href="/media/1/648813/290765" href="">
+                  <img alt="Allied air strength, September 1939" height="50" loading="lazy" src="https://cdn.britannica.com/47/249447-049-DB6EC998/Allied-air-strength-September-1939-World-War-II.jpg"/>
+                 </a>
+                 <a class="media-overlay-link d-inline-block mr-5" data-href="/media/1/648813/244364" href="https://cdn.britannica.com/76/197876-050-1D537849/pilot-British-aircraft-seat-fighter-type-Hawker.jpg">
+                  <img alt="Hawker Hurricane; Royal Air Force" height="50" loading="lazy" src="https://cdn.britannica.com/76/197876-004-832DE489/pilot-British-aircraft-seat-fighter-type-Hawker.jpg"/>
+                 </a>
+                 <a class="media-overlay-link d-inline-block mr-5" data-href="/media/1/648813/18885" href="/video/Germans-The-Second-World-War-Prelude-to-September-1939/-18885">
+                  <div class="position-relative --aspect-ratio: 16/9">
+                   <img alt="View archival footage of German troops invading Poland and forcing Europe into war" class="col-100" loading="lazy" src="https://cdn.britannica.com/69/22969-138-609BFE17/Germans-The-Second-World-War-Prelude-to-September-1939.jpg?w=400&amp;h=225&amp;c=crop"/>
+                   <div class="btn font-12 btn-white btn-circle position-absolute shadow" style="top: 50%; left:50%; transform: translate(-50%, -50%)">
+                    <em aria-label="" class="material-icons font-15" data-icon="play_arrow">
+                    </em>
+                   </div>
+                  </div>
+                 </a>
+                </div>
+                <button aria-label="Previous" class="prev-button js-prev-button position-absolute btn btn-circle shadow btn-blue" disabled="">
+                 <span class="material-icons md-24" data-icon="keyboard_arrow_left">
+                 </span>
+                </button>
+                <button aria-label="Next" class="next-button js-next-button position-absolute btn btn-circle shadow btn-blue" disabled="">
+                 <span class="material-icons md-24" data-icon="keyboard_arrow_right">
+                 </span>
+                </button>
+               </div>
+              </div>
+              <div class="mb-30 tlr-student-links">
+               <div class="text-gray-900 p-5 font-serif font-14 font-weight-bold mx-10 mb-10">
+                At a Glance
+               </div>
+               <div class="imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10">
+                <div class="position-relative card-media" style="flex: 0;">
+                 <a class="ilf-image position-relative" href="/quiz/pop-quiz-17-things-to-know-about-world-war-ii">
+                  <img alt="Germany invades Poland, September 1, 1939, using 45 German divisions and aerial attack. By September 20, only Warsaw held out, but final surrender came on September 29." height="200" loading="lazy" src="https://cdn.britannica.com/26/188426-050-2AF26954/Germany-Poland-September-1-1939.jpg?w=200&amp;h=200&amp;c=crop" width="200"/>
+                 </a>
+                </div>
+                <div class="card-body ilf-content">
+                 <a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="/quiz/pop-quiz-17-things-to-know-about-world-war-ii">
+                  Pop Quiz: 17 Things to Know About World War II
+                 </a>
+                </div>
+               </div>
+               <div class="imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10">
+                <div class="position-relative card-media" style="flex: 0;">
+                 <a class="ilf-image position-relative" href="/summary/World-War-II">
+                  <img alt="World War II: V-E Day" height="200" loading="lazy" src="https://cdn.britannica.com/54/194654-050-6306FC99/People-end-phase-New-York-City-European-May-8-1945.jpg?w=200&amp;h=200&amp;c=crop" width="200"/>
+                 </a>
+                </div>
+                <div class="card-body ilf-content">
+                 <a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="/summary/World-War-II">
+                  World War II summary
+                 </a>
+                </div>
+               </div>
+              </div>
+              <div class="mb-30 tlr-related-quizzes">
+               <div class="text-gray-900 p-5 font-serif font-14 font-weight-bold mx-10 mb-10">
+                Quizzes
+               </div>
+               <div class="imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10">
+                <div class="position-relative card-media" style="flex: 0;">
+                 <a class="ilf-image position-relative" href="/quiz/world-war-ii-quiz">
+                  <img alt="U.S. marines raising the American flag over Mount Suribachi, Iwo Jima, in February 1945" height="200" loading="lazy" src="https://cdn.britannica.com/35/10735-131-96F338E8/US-Marines-flag-Mount-Suribachi-Iwo-Jima-February-1945.jpg?w=200&amp;h=200&amp;c=crop" width="200"/>
+                 </a>
+                </div>
+                <div class="card-body ilf-content">
+                 <a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="/quiz/world-war-ii-quiz">
+                  World War II Quiz
+                 </a>
+                </div>
+               </div>
+               <div class="imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10">
+                <div class="position-relative card-media" style="flex: 0;">
+                 <a class="ilf-image position-relative" href="/quiz/pick-your-battles-quiz">
+                  <img alt="Civil War era cannon overlooks Kennesaw Mountain National Battle. (military, artillery, American history)" height="200" loading="lazy" src="https://cdn.britannica.com/27/273327-131-76BD5EF0/civil-war-cannon-overlooks-keneesaw-mountain-national-battle.jpg?w=200&amp;h=200&amp;c=crop" width="200"/>
+                 </a>
+                </div>
+                <div class="card-body ilf-content">
+                 <a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="/quiz/pick-your-battles-quiz">
+                  Pick Your Battles Quiz
+                 </a>
+                </div>
+               </div>
+               <div class="imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10">
+                <div class="position-relative card-media" style="flex: 0;">
+                 <a class="ilf-image position-relative" href="/quiz/world-wars">
+                  <img alt="Louis IX of France (St. Louis), stained glass window of Louis IX during the Crusades. (Unknown location.)" height="200" loading="lazy" src="https://cdn.britannica.com/69/159669-131-A73FA5E9/Louis-IX-stained-glass-window-France-Crusades.jpg?w=200&amp;h=200&amp;c=crop" width="200"/>
+                 </a>
+                </div>
+                <div class="card-body ilf-content">
+                 <a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="/quiz/world-wars">
+                  World Wars
+                 </a>
+                </div>
+               </div>
+               <div class="imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10">
+                <div class="position-relative card-media" style="flex: 0;">
+                 <a class="ilf-image position-relative" href="/quiz/a-history-of-war">
+                  <img alt="D-Day. American soldiers fire rifles, throw grenades and wade ashore on Omaha Beach next to a German bunker during D Day landing. 1 of 5 Allied beachheads est. in Normandy, France. The Normandy Invasion of World War II launched June 6, 1944." height="200" loading="lazy" src="https://cdn.britannica.com/45/171645-131-FB9DD0D9/D-Day-soldiers-American-rifles-grenades-beachheads-bunker-June-6-1944.jpg?w=200&amp;h=200&amp;c=crop" width="200"/>
+                 </a>
+                </div>
+                <div class="card-body ilf-content">
+                 <a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="/quiz/a-history-of-war">
+                  A History of War
+                 </a>
+                </div>
+               </div>
+               <div class="imagelink-with-image-on-the-side card card-horizontal tlr-img-with-side-link ml-15 link-gray-900 mb-10">
+                <div class="position-relative card-media" style="flex: 0;">
+                 <a class="ilf-image position-relative" href="/quiz/germany-and-world-war-ii">
+                  <img alt="American soldiers in the Ardennes during the Battle of the Bulge." height="200" loading="lazy" src="https://cdn.britannica.com/92/122492-131-BA95C631/soldiers-American-Ardennes-Battle-of-the-Bulge.jpg?w=200&amp;h=200&amp;c=crop" width="200"/>
+                 </a>
+                </div>
+                <div class="card-body ilf-content">
+                 <a class="font-weight-semi-bold d-block mb-5 font-16 ilf-title" href="/quiz/germany-and-world-war-ii">
+                  Germany and World War II
+                 </a>
+                </div>
+               </div>
+              </div>
+              <div class="mb-30 tlr-related-questions">
+               <div class="text-gray-900 p-5 pb-0 font-serif font-14 font-weight-bold mx-10 mb-15">
+                Related Questions
+               </div>
+               <ul>
+                <li class="link-gray-900 mb-15">
+                 <a class="" href="/question/What-was-the-cause-of-World-War-II">
+                  What was the cause of World War II?
+                 </a>
+                </li>
+                <li class="link-gray-900 mb-15">
+                 <a class="" href="/question/What-were-the-turning-points-of-World-War-II">
+                  What were the turning points of World War II?
+                 </a>
+                </li>
+                <li class="link-gray-900 mb-15">
+                 <a class="" href="/question/How-did-World-War-II-end">
+                  How did World War II end?
+                 </a>
+                </li>
+                <li class="link-gray-900 mb-15">
+                 <a class="" href="/question/How-many-people-died-during-World-War-II">
+                  How many people died during World War II?
+                 </a>
+                </li>
+                <li class="link-gray-900 mb-15">
+                 <a class="" href="/question/Who-won-the-Battle-of-Stalingrad">
+                  Who won the Battle of Stalingrad?
+                 </a>
+                </li>
+               </ul>
+              </div>
+             </div>
+            </div>
+           </div>
+           <button aria-label="Toggle Drawer" class="drawerToggle test-class-for-drawer btn position-sticky border btn-xs btn-white btn-circle rounded-sm d-none d-lg-flex" data-open="true" type="button">
+            <em aria-label="" class="material-icons font-18 text-blue" data-icon="keyboard_arrow_left">
+            </em>
+           </button>
+          </div>
+         </div>
+         <div class="col">
+          <div class="h-100 ml-0 pr-lg-0">
+           <div class="h-100 grid gx-0 gx-lg-20">
+            <aside class="col-md-da-320 topic-right-ad-container">
+            </aside>
+            <div class="h-100 col-sm reading-channel-container">
+             <div class="h-100 infinite-pagination-container d-flex flex-column position-relative">
+              <div class="position-absolute top-0 h-100 w-100">
+               <div class="toc-sticky-header d-none d-lg-none bg-gray-50 px-sm-30 position-sticky w-100 sticky-new D C">
+                <div class="toc-sticky-header-inner-container tw:px-5 tw:sm:px-0 mx-auto h-100 w-100 overflow-x-auto tw:scrollbar-hidden">
+                 <div class="tw:relative">
+                  <div class="toc-sticky-header-ai-container tw:py-1 tw:border-y tw:border-gray-200 tw:overflow-x-auto tw:scrollbar-hidden tw:flex tw:flex-row tw:justify-between tw:items-center tw:justify-start">
+                   <img alt="Britannica AI Icon" class="britannica-ai-icon tw:text-blue-600 tw:mr-2 tw:hidden tw:lg:block" height="24" src="https://cdn.britannica.com/mendel-resources/3-183/images/chatbot/star-ai.svg?v=3.183.5" width="24"/>
+                   <div class="sticky-header-ai-buttons-container tw:flex tw:flex-row tw:items-center tw:gap-x-2">
+                    <button class="d-flex d-lg-none btn btn-sm btn-white text-blue border-2 border-gray-100 gtm-mobile-toc-header-button js-sections-button tw:text-white! tw:bg-blue-link! tw:py-2.5! tw:px-2! p-15">
+                     <em aria-label="" class="material-icons my-n5 md-icon" data-icon="toc">
+                     </em>
+                    </button>
+                    <div class="js-header-ai-ask-button-placeholder tw:hidden">
+                    </div>
+                    <div class="js-header-ai-simplify-button-placeholder tw:hidden">
+                    </div>
+                    <div class="js-header-ai-study-button-placeholder tw:hidden">
+                    </div>
+                    <div class="js-header-ai-simplify-keep-learning-buttons-placeholder">
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+              <div class="grey-box w-100 grey-box-top">
+               <div class="grey-box-content mx-auto w-100">
+                <div class="tw:flex tw:flex-row tw:items-center tw:justify-between tw:mt-2">
+                 <script type="application/ld+json">
+                  {
+					"@context" : "https://schema.org",
+					"@type" : "BreadcrumbList",
+					"itemListElement" :
+					[
+						
+					
+					{
+					"@type" : "ListItem",
+					"position" : 1,
+					"item" :
+					{
+					"@id" : "https://www.britannica.com/browse/World-History",
+					"name": "History"
+					}
+					}
+				
+					,
+					{
+					"@type" : "ListItem",
+					"position" : 2,
+					"item" :
+					{
+					"@id" : "https://www.britannica.com/browse/Wars-Battles-Conflicts",
+					"name": "Wars, Battles &amp; Armed Conflicts"
+					}
+					}
+				
+					]
+				}
+                 </script>
+                 <nav class="breadcrumb tw:mb-0">
+                  <span class="breadcrumb-item">
+                   <a class="link-gray-600" href="/browse/World-History">
+                    History
+                   </a>
+                  </span>
+                  <span class="breadcrumb-item">
+                   <a class="link-gray-600" href="/browse/Wars-Battles-Conflicts">
+                    Wars, Battles &amp; Armed Conflicts
+                   </a>
+                  </span>
+                 </nav>
+                 <div class="d-none d-sm-flex flex-row tw:items-center header-topic-tools">
+                  <button class="js-print-modal-button js-modal gtm-topic-tool gtm-topic-tool tw:bg-white tw:text-blue-link tw:font-semibold tw:px-2.5 tw:pl-2 tw:pr-1 tw:rounded-lg tw:border-ai tw:text-shadow-md" data-modal="[data-topic-id=648813] .md-print-modal">
+                   <em aria-label="" class="material-icons sm-icon tw:text-xl" data-icon="print">
+                   </em>
+                  </button>
+                  <div class="md-print-modal size-lg d-none">
+                   <div class="md-modal-body">
+                    <div class="h2 font-serif d-flex align-items-center pb-15 border-bottom">
+                     <em class="material-icons text-blue mr-10">
+                      print
+                     </em>
+                     Print
+                    </div>
+                    <div class="mt-20 mb-10">
+                     Please select which sections you would like to print:
+                    </div>
+                    <form action="/print/article/648813" method="post" rel="noopener" target="_blank">
+                     <div class="print-box-items">
+                      <ul class="list-unstyled">
+                       <li>
+                        <label>
+                         <input class="mr-10" name="sequence[]" type="checkbox" value="0"/>
+                         Table Of Contents
+                        </label>
+                       </li>
+                      </ul>
+                     </div>
+                     <input class="btn btn-blue md-disabled" type="submit" value="Print">
+                     </input>
+                    </form>
+                   </div>
+                  </div>
+                  <button class="js-modal qa-cite-modal-button gtm-topic-tool tw:rounded-lg tw:border-ai tw:bg-white tw:text-blue-link tw:font-semibold tw:text-sm! tw:px-2.5 tw:py-1.5 tw:hover:text-shadow-sm" data-modal="[data-topic-id=648813]  .md-cite-modal">
+                   CITE
+                  </button>
+                  <div class="md-cite-modal size-lg d-none">
+                   <div class="md-modal-body">
+                    <div class="h2 font-serif d-flex align-items-center pb-15 border-bottom mb-15">
+                     <em class="material-icons text-blue mr-10">
+                      verified
+                     </em>
+                     Cite
+                    </div>
+                    <div class="font-serif">
+                     While every effort has been made to follow citation style rules, there may be some discrepancies.
+			Please refer to the appropriate style manual or other sources if you have any questions.
+                    </div>
+                    <div class="label mt-20 mb-10">
+                     Select Citation Style
+                    </div>
+                    <select class="js-citation-format-select form-select">
+                     <option selected="" value="mla">
+                      MLA
+                     </option>
+                     <option value="apa">
+                      APA
+                     </option>
+                     <option value="chicago">
+                      Chicago Manual of Style
+                     </option>
+                    </select>
+                    <div class="citation font-serif border rounded p-15 mt-20" data-authors="Hughes, Thomas A., Royde-Smith, John Graham" data-authors-initial="Hughes, T.A., Royde-Smith, J.G." data-published-date="18 May. 2026" data-title="World War II" data-url="https://www.britannica.com/event/World-War-II">
+                     <div class="citation-text">
+                     </div>
+                    </div>
+                    <button class="js-copy-citation-button mt-20 btn btn-xs btn-outline-blue border shadow-sm pr-10">
+                     <em aria-label="" class="material-icons md-icon ml-n10 my-n5 mr-5" data-icon="file_copy">
+                     </em>
+                     <span class="js-citation-status-text">
+                      Copy Citation
+                     </span>
+                    </button>
+                   </div>
+                  </div>
+                  <div class="d-block md-topic-tools qa-action-buttons" data-topic-id="648813">
+                   <div class="d-flex tw:flex-row">
+                    <button class="js-tooltip tw:text-blue-link tw:px-2.5 tw:py-2 tw:rounded-lg tw:border-ai tw:border-ai-focus text-nowrap">
+                     <em aria-label="More Actions" class="material-icons md-icon ml-n10 my-n5 mr-5 sm-icon" data-icon="more_vert">
+                     </em>
+                    </button>
+                   </div>
+                   <div class="md-more-popover popover popover-sm p-0 font-14 dropdown-menu">
+                    <div>
+                     <button class="js-share-modal-button js-modal btn btn-sm btn-link gtm-topic-tool font-weight-bold btn-link" data-modal="[data-topic-id=648813] .md-share-modal">
+                      <em aria-label="" class="material-icons mr-5 ml-n10 my-n5 md-icon" data-icon="share">
+                      </em>
+                      Share
+                     </button>
+                     <div class="md-share-modal size-lg d-none qa-share-modal">
+                      <div class="md-modal-body">
+                       <div class="h2 font-serif d-flex align-items-center pb-15 border-bottom">
+                        <em aria-label="" class="material-icons text-blue mr-10" data-icon="share">
+                        </em>
+                        Share
+                       </div>
+                       <div class="label my-20">
+                        Share to social media
+                       </div>
+                       <div class="md-social-toolbar-circle d-flex align-items-start inverted" data-url="https://www.britannica.com/event/World-War-II" data-value="share" title="World War II">
+                        <a aria-label="Share on Facebook" class="social-icon facebook justify-content-center d-flex align-items-center align-self-center" data-provider="facebook" href="https://www.facebook.com/BRITANNICA/" rel="noopener" target="_blank">
+                         <span>
+                          Facebook
+                         </span>
+                        </a>
+                        <a aria-label="Share on X" class="social-icon x justify-content-center d-flex align-items-center align-self-center" data-provider="x" href="https://x.com/britannica" rel="noopener" target="_blank">
+                         <span>
+                          X
+                         </span>
+                        </a>
+                       </div>
+                       <div class="label pt-20 mt-20 mb-5 border-top">
+                        URL
+                       </div>
+                       <a class="font-serif text-truncate d-inline-block" href="https://www.britannica.com/event/World-War-II">
+                        https://www.britannica.com/event/World-War-II
+                       </a>
+                      </div>
+                     </div>
+                    </div>
+                    <div>
+                     <button class="js-feedback-modal-button js-modal btn btn-sm btn-link gtm-topic-tool font-weight-bold btn-link" data-modal=".md-feedback-modal">
+                      <em aria-label="" class="material-icons mr-5 ml-n10 my-n5 md-icon" data-icon="message">
+                      </em>
+                      Feedback
+                     </button>
+                    </div>
+                    <div>
+                     <button class="qa-external-website-modal-button js-modal btn btn-sm btn-link gtm-topic-tool font-weight-bold btn-link" data-modal="[data-topic-id=648813] .md-websites-modal">
+                      <em aria-label="" class="material-icons md-icon ml-n10 mr-5" data-icon="link">
+                      </em>
+                      External Websites
+                     </button>
+                    </div>
+                   </div>
+                   <div class="md-feedback-modal size-lg d-none">
+                    <div class="md-modal-body">
+                     <div class="h2 font-serif pb-15 border-bottom">
+                      Feedback
+                     </div>
+                     <form action="/submission/feedback/648813" method="post">
+                      <div class="my-20">
+                       Corrections? Updates? Omissions? Let us know if you have suggestions to improve this article (requires login).
+                      </div>
+                      <div class="type-menu">
+                       <label class="label mb-10" for="feedback-type-648813">
+                        Feedback Type
+                       </label>
+                       <select class="form-select mb-30" id="feedback-type-648813" name="feedbackTypeId" required="">
+                        <option selected="selected" value="">
+                         Select a type (Required)
+                        </option>
+                        <option value="1">
+                         Factual Correction
+                        </option>
+                        <option value="2">
+                         Spelling/Grammar Correction
+                        </option>
+                        <option value="3">
+                         Link Correction
+                        </option>
+                        <option value="4">
+                         Additional Information
+                        </option>
+                        <option value="5">
+                         Other
+                        </option>
+                       </select>
+                      </div>
+                      <label class="label mb-10" for="feedback-648813">
+                       Your Feedback
+                      </label>
+                      <textarea class="form-control mb-30" id="feedback-648813" maxlength="3000" name="feedback" required="" rows="7"></textarea>
+                      <button class="btn btn-blue" type="submit">
+                       Submit Feedback
+                      </button>
+                     </form>
+                     <div class="success-messaging d-none mt-30">
+                      <div class="title">
+                       Thank you for your feedback
+                      </div>
+                      <p>
+                       Our editors will review what you’ve submitted and determine whether to revise the article.
+                      </p>
+                     </div>
+                    </div>
+                   </div>
+                   <div class="md-websites-modal size-lg d-none">
+                    <div class="md-modal-body">
+                     <div class="h2 font-serif pb-15 border-bottom font-weight-bold">
+                      External Websites
+                     </div>
+                     <div class="pb-20">
+                      <ul class="list-unstyled mt-20 lh-lg">
+                       <li>
+                        <a class="external" href="https://education.cfr.org/learn/reading/why-did-world-war-ii-happen" rel="noopener" target="_blank">
+                         Council on Foreign Relations - Education - Why Did World War II Happen?
+                        </a>
+                       </li>
+                       <li>
+                        <a class="external" href="https://www.nationalww2museum.org/war/articles/world-war-ii-and-popular-culture" rel="noopener" target="_blank">
+                         The National WWII Museum - World War II and Popular Culture
+                        </a>
+                       </li>
+                       <li>
+                        <a class="external" href="https://weaponsandwarfare.com/world-war-ii/" rel="noopener" target="_blank">
+                         Weapons and Warfare - World War II
+                        </a>
+                       </li>
+                       <li>
+                        <a class="external" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4025972/" rel="noopener" target="_blank">
+                         National Center for Biotechnology Information - PubMed Central - The Effects of World War II on Economic and Health Outcomes across Europe
+                        </a>
+                       </li>
+                       <li>
+                        <a class="external" href="https://www.airandspaceforces.com/PDF/MagazineArchive/Documents/2003/June%202003/0603casualties.pdf" rel="noopener" target="_blank">
+                         Air and Space Forces Magazine - Casualties
+                        </a>
+                       </li>
+                       <li>
+                        <a class="external" href="https://nzhistory.govt.nz/war/second-world-war" rel="noopener nofollow" target="_blank">
+                         New Zealand History - Second World War
+                        </a>
+                       </li>
+                       <li>
+                        <a class="external" href="https://origins.osu.edu/milestones/september-2014-nazis-take-poland-and-start-world-war-ii" rel="noopener" target="_blank">
+                         Ohio State University - Origins - The Nazis Take Poland and the Start of World War II
+                        </a>
+                       </li>
+                      </ul>
+                     </div>
+                     <div class="md-websites-ebk-title">
+                      Britannica Websites
+                     </div>
+                     <div class="md-websites-ebk-subtitle">
+                      Articles from Britannica Encyclopedias for elementary and high school students.
+                     </div>
+                     <ul class="list-unstyled bps-topic-web-sites lh-lg">
+                      <li>
+                       <a class="external" href="https://kids.britannica.com/kids/article/World-War-II/353934" rel="noopener" target="_blank">
+                        World War II - Children's Encyclopedia (Ages 8-11)
+                       </a>
+                      </li>
+                      <li>
+                       <a class="external" href="https://kids.britannica.com/students/article/World-War-II/277798" rel="noopener" target="_blank">
+                        World War II - Student Encyclopedia (Ages 11 and up)
+                       </a>
+                      </li>
+                     </ul>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+                <div class="page2ref-true topic-content topic-type-REGULAR" data-student-article="true">
+                 <script class="page-description-json" type="application/json">
+                  {
+	"url": "/event/World-War-II",
+    "shareUrl": "https://www.britannica.com/event/World-War-II",
+    "browserTitle": "World War II | Facts, Summary, History, Dates, Combatants, & Causes",
+    "firstTopicPage": true,
+    "topicId":648813
+    }
+                 </script>
+                 <div class="reading-channel">
+                  <div class="desktop-header-image module-spacing tw:mt-0 tw:sm:mt-14">
+                   <figure class="md-assembly m-0 mb-20 mb-md-0 card card-borderless print-false" data-asm-type="image" data-assembly-id="13684">
+                    <div class="md-assembly-wrapper card-media" data-type="image">
+                     <a class="gtm-assembly-link position-relative d-flex align-items-center justify-content-center media-overlay-link card-media" data-href="/media/1/648813/74903" href="https://cdn.britannica.com/26/188426-050-2AF26954/Germany-Poland-September-1-1939.jpg" style="min-height: 160px;">
+                      <picture>
+                       <source media="(min-width: 680px)" srcset="https://cdn.britannica.com/26/188426-050-2AF26954/Germany-Poland-September-1-1939.jpg?w=300"/>
+                       <img alt="World War II: Germany invading Poland" loading="eager" src="https://cdn.britannica.com/26/188426-050-2AF26954/Germany-Poland-September-1-1939.jpg?w=400&amp;h=300&amp;c=crop"/>
+                      </picture>
+                      <button aria-label="Zoom in" class="magnifying-glass btn btn-circle position-absolute shadow btn-white top-10 right-10">
+                       <em class="material-icons link-blue" data-icon="zoom_in">
+                       </em>
+                      </button>
+                     </a>
+                    </div>
+                    <figcaption class="card-body">
+                     <div class="md-assembly-caption text-muted font-14 font-serif line-clamp">
+                      <span>
+                       <a class="gtm-assembly-link md-assembly-title font-weight-bold d-inline font-sans-serif mr-5 media-overlay-link" data-href="/media/1/648813/74903" href="https://cdn.britannica.com/26/188426-050-2AF26954/Germany-Poland-September-1-1939.jpg">
+                        World War II: Germany invading Poland
+                       </a>
+                       <span>
+                        <span>
+                         Germany invading Poland, September 1, 1939.
+                        </span>
+                       </span>
+                       <button aria-label="Toggle more/less fact data" class="js-more-btn d-none btn btn-unstyled font-12 bg-white js-content">
+                        <span class="link-blue">
+                         (more)
+                        </span>
+                       </button>
+                      </span>
+                     </div>
+                    </figcaption>
+                   </figure>
+                  </div>
+                  <div class="topic-header new-ai-topic-header">
+                   <div class="d-flex align-items-top justify-content-between">
+                    <div class="d-flex flex-column">
+                     <div>
+                      <div>
+                       <h1 class="tw:inline">
+                        World War II
+                       </h1>
+                      </div>
+                     </div>
+                     <div class="topic-identifier">
+                      1939–1945
+                     </div>
+                    </div>
+                   </div>
+                   <button class="tw:ai-button tw:flex tw:items-center ai-ask-button js-header-ai-ask-button tw:text-nowrap d-none tw:py-1.5 tw:px-3">
+                    Ask Anything
+                   </button>
+                   <button class="tw:ai-button tw:flex tw:items-center ai-simplify-button js-header-ai-simplify-button tw:text-nowrap d-none tw:py-1.5 tw:px-3">
+                    Quick Summary
+                   </button>
+                   <button class="tw:ai-button tw:flex tw:items-center ai-study-button tw:border-teal-600 js-header-ai-study-button tw:text-nowrap d-none tw:py-1.5 tw:px-3">
+                    Homework Help
+                   </button>
+                   <div class="caption alternate-titles">
+                    Also known as:
+                    <span class="alternate-titles-string">
+                     Second World War, WWII
+                    </span>
+                   </div>
+                   <div class="md-byline module-spacing">
+                    <div class="written-by font-serif font-12">
+                     <span class="text-gray-700">
+                      <div class="wtooltip" tabindex="100">
+                       <em aria-label="" class="material-icons written-by-icon" data-icon="account_circle">
+                       </em>
+                       <div class="wtooltip-text">
+                        Written by
+                       </div>
+                      </div>
+                     </span>
+                     <div class="editor-popover popover p-0">
+                      <a class="d-block p-20 qa-editor-popup gtm-byline font-12 byline-contributor" href="/contributor/Thomas-A-Hughes/4645">
+                       <div class="editor-title font-16 font-weight-bold">
+                        Thomas A. Hughes
+                       </div>
+                       <div class="editor-description font-12 font-serif mt-5 clamp-description text-black">
+                        Dr. Thomas Alexander Hughes (BA, Saint John’s University; MA, PhD, University of Houston) is an associate professor at the School of Advanced Air and Space Studies, Maxwell AFB, Alabama. He formerly served...
+                       </div>
+                      </a>
+                      <div data-popper-arrow="">
+                      </div>
+                     </div>
+                     <span class="btn-link editor-link p-0 qa-byline-link font-serif gtm-byline font-12 byline-contributor">
+                      Thomas A. Hughes
+                     </span>
+                     <span class="see-all-contributors">
+                      <a class="gtm-byline" href="https://www.britannica.com/event/World-War-II/additional-info#contributors" rel="nofollow">
+                       All
+                      </a>
+                     </span>
+                    </div>
+                    <div class="fact-checked-by font-serif font-12 text-gray-700">
+                     <div class="wtooltip" tabindex="100">
+                      <em aria-label="" class="material-icons fact-checked-icon" data-icon="verified_user">
+                      </em>
+                      <div class="wtooltip-text">
+                       Fact-checked by
+                      </div>
+                     </div>
+                     <div class="editor-popover popover p-0">
+                      <a class="d-block p-20 qa-editor-popup font-12" href="/editor/The-Editors-of-Encyclopaedia-Britannica/4419">
+                       <div class="editor-title font-16 font-weight-bold">
+                        Britannica Editors
+                       </div>
+                       <div class="editor-description font-12 font-serif mt-5 clamp-description text-black">
+                        Encyclopaedia Britannica's editors oversee subject areas in which they have extensive knowledge, whether from years of experience gained by working on that content or via study for an advanced degree....
+                       </div>
+                      </a>
+                      <div data-popper-arrow="">
+                      </div>
+                     </div>
+                     <span class="btn-link editor-link p-0 qa-byline-link font-serif font-12">
+                      Britannica Editors
+                     </span>
+                    </div>
+                    <div class="last-updated font-12 font-serif">
+                     <div class="wtooltip" tabindex="100">
+                      <em aria-label="" class="material-icons last-updated-icon" data-icon="today">
+                      </em>
+                      <div class="wtooltip-text">
+                       Last updated
+                      </div>
+                     </div>
+                     <span class="text-gray-700">
+                      <time datetime="2026-05-18T00:00:00CDT">
+                       May 18, 2026
+                      </time>
+                     </span>
+                     <span style="margin-right: 3px">
+                      •
+                     </span>
+                     <a class="byline-edit-history" href="https://www.britannica.com/event/World-War-II/additional-info#history" rel="nofollow">
+                      History
+                     </a>
+                    </div>
+                   </div>
+                   <div class="tw:sm:block header-topic-britannica-ai-module">
+                    <button class="js-inline-ai-ask-button tw:border-ai-focus tw:group britannica-ai-title-container tw:pb-2.5 tw:flex tw:flex-row tw:cursor-pointer tw:transition-all tw:duration-300 tw:group-hover:text-blue-600">
+                     <img alt="Britannica AI Icon" class="britannica-ai-icon tw:text-blue-600 tw:mr-1.5 tw:transition-transform tw:duration-300 tw:drop-shadow-blue-600/25 tw:group-hover:rotate-45 tw:group-hover:drop-shadow-[0_0_4px] tw:group-hover:opacity-100 tw:group-hover:scale-110" height="24" src="https://cdn.britannica.com/mendel-resources/3-183/images/chatbot/star-ai.svg?v=3.183.5" width="24"/>
+                     <span class="britannica-ai-title tw:font-semibold tw:transition-colors tw:duration-300 tw:group-hover:text-blue-600">
+                      Britannica AI
+                     </span>
+                    </button>
+                    <div class="britannica-ai-buttons tw:flex tw:flex-wrap tw:gap-y-2.5 tw:mb-4">
+                     <button class="tw:ai-button tw:flex tw:items-center ai-ask-button js-inline-ai-ask-button tw:mr-2.5! tw:text-nowrap tw:py-1.5 tw:px-3">
+                      Ask Anything
+                     </button>
+                     <button class="tw:ai-button tw:flex tw:items-center ai-simplify-button js-inline-ai-simplify-button tw:mr-2.5! tw:text-nowrap tw:py-1.5 tw:px-3">
+                      Quick Summary
+                     </button>
+                    </div>
+                   </div>
+                   <div class="toc-header-marker">
+                   </div>
+                  </div>
+                  <button class="d-flex d-lg-none btn btn-outline-blue border rounded-sm shadow-sm mobile-toc-button gtm-mobile-toc-inline-button d-none d-sm-block js-sections-inline-button module-spacing btn d-lg-none">
+                   <em aria-label="" class="material-icons mr-5 ml-n10 my-n5 md-icon" data-icon="toc">
+                   </em>
+                   Table of Contents
+                  </button>
+                  <div class="d-flex d-sm-none flex-row">
+                   <button class="d-flex d-lg-none btn btn-outline-blue border rounded-sm shadow-sm mobile-toc-button gtm-mobile-toc-inline-button js-sections-inline-button module-spacing">
+                    <em aria-label="" class="material-icons mr-5 ml-n10 my-n5 md-icon" data-icon="toc">
+                    </em>
+                    Table of Contents
+                   </button>
+                   <button class="tw:ai-button tw:flex tw:items-center ai-simplify-button module-spacing js-inline-ai-simplify-button p-10 ml-5">
+                    Quick Summary
+                   </button>
+                   <button class="tw:ai-button tw:flex tw:items-center ai-ask-button module-spacing js-inline-ai-ask-button p-10 ml-5">
+                    Ask Anything
+                   </button>
+                  </div>
+                  <script type="application/ld+json">
+                   {
+		"@context": "https://schema.org",
+		"@type": "FAQPage",
+		"mainEntity":
+		[
+			
+			{
+				"@type" : "Question",
+				"name" : "<div>What was the cause of World War II?<\/div><em><\/em>",
+				"acceptedAnswer" : {
+					"@type" : "Answer",
+					"text" : "World War II began in Europe on September 1, 1939, when <a href=\"https:\/\/www.britannica.com\/place\/Germany\">Germany<\/a> invaded Poland. Great Britain and France responded by declaring war on Germany on September 3. The war between the U.S.S.R. and Germany began on June 22, 1941, with <a href=\"https:\/\/www.britannica.com\/event\/Operation-Barbarossa\">Operation Barbarossa<\/a>, the German invasion of the <a href=\"https:\/\/www.britannica.com\/place\/Soviet-Union\">Soviet Union<\/a>. The war in the Pacific began on December 7\/8, 1941, when <a href=\"https:\/\/www.britannica.com\/event\/Pearl-Harbor-attack\">Japan attacked the American naval base at Pearl Harbor<\/a> and other American, Dutch, and British military installations throughout Asia."
+				}
+			}
+	        ,
+			
+			{
+				"@type" : "Question",
+				"name" : "<div>What countries fought in World War II?<\/div><em><\/em>",
+				"acceptedAnswer" : {
+					"@type" : "Answer",
+					"text" : "The main combatants were the <a href=\"https:\/\/www.britannica.com\/topic\/Axis-Powers\">Axis powers<\/a> (Germany, Italy, and Japan) and the <a href=\"https:\/\/www.britannica.com\/topic\/Allied-Powers-international-alliance\">Allies<\/a> (France, Great Britain, the United States, the Soviet Union, and, to a lesser extent, China)."
+				}
+			}
+	        ,
+			
+			{
+				"@type" : "Question",
+				"name" : "<div>Who were the leaders during World War II?<\/div><em><\/em>",
+				"acceptedAnswer" : {
+					"@type" : "Answer",
+					"text" : "The <a href=\"https:\/\/www.britannica.com\/topic\/Allied-Powers-international-alliance\">Allied powers<\/a> were led by <a href=\"https:\/\/www.britannica.com\/biography\/Winston-Churchill\">Winston Churchill<\/a> (United Kingdom); <a href=\"https:\/\/www.britannica.com\/biography\/Joseph-Stalin\">Joseph Stalin<\/a> (Soviet Union); <a href=\"https:\/\/www.britannica.com\/biography\/Charles-de-Gaulle-president-of-France\">Charles de Gaulle<\/a> (France); and <a href=\"https:\/\/www.britannica.com\/biography\/Franklin-D-Roosevelt\">Franklin D. Roosevelt<\/a> and <a href=\"https:\/\/www.britannica.com\/biography\/Harry-S-Truman\">Harry S. Truman<\/a> (United States). The <a href=\"https:\/\/www.britannica.com\/topic\/Axis-Powers\">Axis powers<\/a> were led by <a href=\"https:\/\/www.britannica.com\/biography\/Adolf-Hitler\">Adolf Hitler<\/a> (Germany), <a href=\"https:\/\/www.britannica.com\/biography\/Benito-Mussolini\">Benito Mussolini<\/a> (Italy), and <a href=\"https:\/\/www.britannica.com\/biography\/Tojo-Hideki\">Hideki Tojo<\/a> (Japan)."
+				}
+			}
+	        ,
+			
+			{
+				"@type" : "Question",
+				"name" : "<div>What were the turning points of World War II?<\/div><em><\/em>",
+				"acceptedAnswer" : {
+					"@type" : "Answer",
+					"text" : "The <a href=\"https:\/\/www.britannica.com\/topic\/Pacific-War\">war in the Pacific<\/a> turned against Japan during the <a href=\"https:\/\/www.britannica.com\/event\/Battle-of-Midway\">Battle of Midway<\/a> (June 3\u20136, 1942), an American victory that destroyed the Japanese first-line <a href=\"https:\/\/www.britannica.com\/technology\/aircraft-carrier\">carrier<\/a> force and, together with the <a href=\"https:\/\/www.britannica.com\/event\/Battle-of-Guadalcanal\">Battle of Guadalcanal<\/a>, ended Japan\u2019s ability to prosecute an offensive war.<\/p><p>The tide of the war in Europe shifted with the <a href=\"https:\/\/www.britannica.com\/place\/Soviet-Union\">Soviet<\/a> victory at the <a href=\"https:\/\/www.britannica.com\/event\/Battle-of-Stalingrad\">Battle of Stalingrad<\/a> (February 1943). More than one million Soviet troops and tens of thousands of civilians died in the defense of the city, but the destruction of two entire German armies marked the beginning of the end of the <a href=\"https:\/\/www.britannica.com\/place\/Third-Reich\">Third Reich<\/a>."
+				}
+			}
+	        ,
+			
+			{
+				"@type" : "Question",
+				"name" : "<div>How did World War II end?<\/div><em><\/em>",
+				"acceptedAnswer" : {
+					"@type" : "Answer",
+					"text" : "The <a href=\"https:\/\/www.britannica.com\/topic\/Allied-Powers-international-alliance\">Allied<\/a> <a href=\"https:\/\/www.britannica.com\/event\/Normandy-Invasion\">landings at Normandy<\/a> on June 6, 1944, opened a second front in Europe, and Germany\u2019s abortive <a href=\"https:\/\/www.britannica.com\/event\/Battle-of-the-Bulge\">offensive at the Ardennes<\/a> in the winter of 1944\u201345 marked the <a href=\"https:\/\/www.britannica.com\/place\/Third-Reich\">Third Reich<\/a>\u2019s final push in the west. The <a href=\"https:\/\/www.britannica.com\/topic\/Red-Army\">Red Army<\/a> advanced from the east and effectively claimed all the territory under its control for the <a href=\"https:\/\/www.britannica.com\/place\/Soviet-Union\">Soviet<\/a> sphere. The Allied armies converged on Berlin. <a href=\"https:\/\/www.britannica.com\/biography\/Adolf-Hitler\">Adolf Hitler<\/a> committed suicide on April 30, 1945, and the war in Europe ended on May 8.<\/p><p>The American \u201Cisland hopping\u201D campaign had destroyed key Japanese installations throughout the <a href=\"https:\/\/www.britannica.com\/topic\/Pacific-War\">Pacific<\/a> while allowing bypassed islands to wither on the vine. Hundreds of thousands were killed in firebombings of Japanese cities, and the <a href=\"https:\/\/www.britannica.com\/event\/atomic-bombings-of-Hiroshima-and-Nagasaki\">atomic bombings of Hiroshima and Nagasaki<\/a> in August 1945 knocked Japan out of the war."
+				}
+			}
+	        ,
+			
+			{
+				"@type" : "Question",
+				"name" : "<div>How many people died during World War II?<\/div><em><\/em>",
+				"acceptedAnswer" : {
+					"@type" : "Answer",
+					"text" : "Estimates of the total number of people killed during World War II have ranged from 35,000,000 to 60,000,000\u2014a significant span, because statistics about the war\u2019s casualties are inexact. The Soviet Union and China are believed to have suffered the most total casualties, while an estimated 5,800,000 Poles died, which represents about 20 percent of Poland\u2019s prewar population. About 4,200,000 Germans died, and about 1,972,000 Japanese died. In all, the scale of human losses during World War II was vast. A table that details estimated deaths by country is available <a href=\"https:\/\/www.britannica.com\/event\/World-War-II\/Costs-of-the-war\">here<\/a>."
+				}
+			}
+	        
+			
+		]
+	}
+                  </script>
+                  <div class="top-questions qa-accordion d-flex flex-column module-spacing">
+                   <div class="font-weight-bold font-14 mb-5">
+                    Top Questions
+                   </div>
+                   <div class="md-intent-accordion" id="intent-accordion">
+                    <div class="top-question bg-gray-50 rounded" data-value="1">
+                     <h3 class="accordion--question font-14 font-weight-normal cursor-pointer rounded">
+                      <div class="pe-none d-flex justify-content-between align-items-center">
+                       <div>
+                        What was the cause of World War II?
+                       </div>
+                       <em class="material-icons" data-icon="expand_more">
+                       </em>
+                      </div>
+                     </h3>
+                     <div class="accordion--answer hidden p-15 pt-5 font-16 mb-5">
+                      <div class="accordion--answer-copy">
+                       <p>
+                        World War II began in Europe on September 1, 1939, when
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/place/Germany">
+                         Germany
+                        </a>
+                        invaded Poland. Great Britain and France responded by declaring war on Germany on September 3. The war between the U.S.S.R. and Germany began on June 22, 1941, with
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/event/Operation-Barbarossa">
+                         Operation Barbarossa
+                        </a>
+                        , the German invasion of the
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/place/Soviet-Union">
+                         Soviet Union
+                        </a>
+                        . The war in the Pacific began on December 7/8, 1941, when
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/event/Pearl-Harbor-attack">
+                         Japan attacked the American naval base at Pearl Harbor
+                        </a>
+                        and other American, Dutch, and British military installations throughout Asia.
+                       </p>
+                      </div>
+                     </div>
+                    </div>
+                    <div class="top-question bg-gray-50 rounded" data-value="2">
+                     <h3 class="accordion--question font-14 font-weight-normal cursor-pointer rounded">
+                      <div class="pe-none d-flex justify-content-between align-items-center">
+                       <div>
+                        What countries fought in World War II?
+                       </div>
+                       <em class="material-icons" data-icon="expand_more">
+                       </em>
+                      </div>
+                     </h3>
+                     <div class="accordion--answer hidden p-15 pt-5 font-16 mb-5">
+                      <div class="accordion--answer-copy">
+                       <p>
+                        The main combatants were the
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/topic/Axis-Powers">
+                         Axis powers
+                        </a>
+                        (Germany, Italy, and Japan) and the
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/topic/Allied-Powers-international-alliance">
+                         Allies
+                        </a>
+                        (France, Great Britain, the United States, the Soviet Union, and, to a lesser extent, China).
+                       </p>
+                      </div>
+                     </div>
+                    </div>
+                    <div class="top-question bg-gray-50 rounded" data-value="3">
+                     <h3 class="accordion--question font-14 font-weight-normal cursor-pointer rounded">
+                      <div class="pe-none d-flex justify-content-between align-items-center">
+                       <div>
+                        Who were the leaders during World War II?
+                       </div>
+                       <em class="material-icons" data-icon="expand_more">
+                       </em>
+                      </div>
+                     </h3>
+                     <div class="accordion--answer hidden p-15 pt-5 font-16 mb-5">
+                      <div class="accordion--answer-copy">
+                       <p>
+                        The
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/topic/Allied-Powers-international-alliance">
+                         Allied powers
+                        </a>
+                        were led by
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/biography/Winston-Churchill">
+                         Winston Churchill
+                        </a>
+                        (United Kingdom);
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/biography/Joseph-Stalin">
+                         Joseph Stalin
+                        </a>
+                        (Soviet Union);
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/biography/Charles-de-Gaulle-president-of-France">
+                         Charles de Gaulle
+                        </a>
+                        (France); and
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/biography/Franklin-D-Roosevelt">
+                         Franklin D. Roosevelt
+                        </a>
+                        and
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/biography/Harry-S-Truman">
+                         Harry S. Truman
+                        </a>
+                        (United States). The
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/topic/Axis-Powers">
+                         Axis powers
+                        </a>
+                        were led by
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/biography/Adolf-Hitler">
+                         Adolf Hitler
+                        </a>
+                        (Germany),
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/biography/Benito-Mussolini">
+                         Benito Mussolini
+                        </a>
+                        (Italy), and
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/biography/Tojo-Hideki">
+                         Hideki Tojo
+                        </a>
+                        (Japan).
+                       </p>
+                      </div>
+                     </div>
+                    </div>
+                    <div class="top-question bg-gray-50 rounded" data-value="4">
+                     <h3 class="accordion--question font-14 font-weight-normal cursor-pointer rounded">
+                      <div class="pe-none d-flex justify-content-between align-items-center">
+                       <div>
+                        What were the turning points of World War II?
+                       </div>
+                       <em class="material-icons" data-icon="expand_more">
+                       </em>
+                      </div>
+                     </h3>
+                     <div class="accordion--answer hidden p-15 pt-5 font-16 mb-5">
+                      <div class="accordion--answer-copy">
+                       <p>
+                        The
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/topic/Pacific-War">
+                         war in the Pacific
+                        </a>
+                        turned against Japan during the
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/event/Battle-of-Midway">
+                         Battle of Midway
+                        </a>
+                        (June 3–6, 1942), an American victory that destroyed the Japanese first-line
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/technology/aircraft-carrier">
+                         carrier
+                        </a>
+                        force and, together with the
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/event/Battle-of-Guadalcanal">
+                         Battle of Guadalcanal
+                        </a>
+                        , ended Japan’s ability to prosecute an offensive war.
+                       </p>
+                       <p>
+                        The tide of the war in Europe shifted with the
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/place/Soviet-Union">
+                         Soviet
+                        </a>
+                        victory at the
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/event/Battle-of-Stalingrad">
+                         Battle of Stalingrad
+                        </a>
+                        (February 1943). More than one million Soviet troops and tens of thousands of civilians died in the defense of the city, but the destruction of two entire German armies marked the beginning of the end of the
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/place/Third-Reich">
+                         Third Reich
+                        </a>
+                        .
+                       </p>
+                      </div>
+                     </div>
+                    </div>
+                    <div class="top-question bg-gray-50 rounded" data-value="5">
+                     <h3 class="accordion--question font-14 font-weight-normal cursor-pointer rounded">
+                      <div class="pe-none d-flex justify-content-between align-items-center">
+                       <div>
+                        How did World War II end?
+                       </div>
+                       <em class="material-icons" data-icon="expand_more">
+                       </em>
+                      </div>
+                     </h3>
+                     <div class="accordion--answer hidden p-15 pt-5 font-16 mb-5">
+                      <div class="accordion--answer-copy">
+                       <p>
+                        The
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/topic/Allied-Powers-international-alliance">
+                         Allied
+                        </a>
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/event/Normandy-Invasion">
+                         landings at Normandy
+                        </a>
+                        on June 6, 1944, opened a second front in Europe, and Germany’s abortive
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/event/Battle-of-the-Bulge">
+                         offensive at the Ardennes
+                        </a>
+                        in the winter of 1944–45 marked the
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/place/Third-Reich">
+                         Third Reich
+                        </a>
+                        ’s final push in the west. The
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/topic/Red-Army">
+                         Red Army
+                        </a>
+                        advanced from the east and effectively claimed all the territory under its control for the
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/place/Soviet-Union">
+                         Soviet
+                        </a>
+                        sphere. The Allied armies converged on Berlin.
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/biography/Adolf-Hitler">
+                         Adolf Hitler
+                        </a>
+                        committed suicide on April 30, 1945, and the war in Europe ended on May 8.
+                       </p>
+                       <p>
+                        The American “island hopping” campaign had destroyed key Japanese installations throughout the
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/topic/Pacific-War">
+                         Pacific
+                        </a>
+                        while allowing bypassed islands to wither on the vine. Hundreds of thousands were killed in firebombings of Japanese cities, and the
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/event/atomic-bombings-of-Hiroshima-and-Nagasaki">
+                         atomic bombings of Hiroshima and Nagasaki
+                        </a>
+                        in August 1945 knocked Japan out of the war.
+                       </p>
+                      </div>
+                     </div>
+                    </div>
+                    <div class="top-question bg-gray-50 rounded" data-value="6">
+                     <h3 class="accordion--question font-14 font-weight-normal cursor-pointer rounded">
+                      <div class="pe-none d-flex justify-content-between align-items-center">
+                       <div>
+                        How many people died during World War II?
+                       </div>
+                       <em class="material-icons" data-icon="expand_more">
+                       </em>
+                      </div>
+                     </h3>
+                     <div class="accordion--answer hidden p-15 pt-5 font-16 mb-5">
+                      <div class="accordion--answer-copy">
+                       <p>
+                        Estimates of the total number of people killed during World War II have ranged from 35,000,000 to 60,000,000—a significant span, because statistics about the war’s casualties are inexact. The Soviet Union and China are believed to have suffered the most total casualties, while an estimated 5,800,000 Poles died, which represents about 20 percent of Poland’s prewar population. About 4,200,000 Germans died, and about 1,972,000 Japanese died. In all, the scale of human losses during World War II was vast. A table that details estimated deaths by country is available
+                        <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/event/World-War-II/Costs-of-the-war">
+                         here
+                        </a>
+                        .
+                       </p>
+                      </div>
+                     </div>
+                    </div>
+                    <button aria-label="Show more questions" class="show-more-button js-toggle-top-questions btn btn-unstyled font-14 d-flex pr-10 rounded-sm">
+                     <em class="material-icons" data-icon="expand_more">
+                     </em>
+                    </button>
+                   </div>
+                  </div>
+                  <div class="bg-gray-50 p-15 rounded module-spacing recent-news d-flex flex-column float-false">
+                   <div>
+                    <h2 class="font-weight-bold font-14 m-0 d-inline">
+                     News
+                     <span class="text-gray-600">
+                      •
+                     </span>
+                    </h2>
+                    <div class="recent-news-item first-recent-news-item d-inline">
+                     <a class="font-14 gtm-ap-news-link" href="/news/648813/3d25790a2ecc1bbd8816550b2bfd7e05" rel="nofollow">
+                      US pauses joint defense effort with Canada that dates to WWII
+                     </a>
+                     <span class="font-14 text-gray-600">
+                      <span>
+                       •
+                      </span>
+                      May 18, 2026, 5:32 PM ET (AP)
+                      <button class="btn btn-link d-inline p-0 font-12 js-toggle-recent-news">
+                       <span class="text-gray-500">
+                        ...
+                       </span>
+                       <span>
+                        (Show more)
+                       </span>
+                      </button>
+                     </span>
+                    </div>
+                   </div>
+                   <div class="rest-of-recent-news-items">
+                    <div class="recent-news-item mt-5">
+                     <a class="font-14 gtm-ap-news-link" href="/news/648813/84dbbbacc081f68b80c04a894b8fa45a" rel="nofollow">
+                      Created as IDs, dog tags became a crucial link between military families and fallen troops
+                     </a>
+                     <span class="font-14 text-gray-600">
+                      <span>
+                       •
+                      </span>
+                      May 15, 2026, 4:21 PM ET (AP)
+                     </span>
+                    </div>
+                    <div class="recent-news-item mt-5">
+                     <a class="font-14 gtm-ap-news-link" href="/news/648813/7cb7b5cbfbaf993dadfe9bafb5cf5262" rel="nofollow">
+                      Moscow marks Victory Day with a scaled down Red Square parade under tight security
+                     </a>
+                     <span class="font-14 text-gray-600">
+                      <span>
+                       •
+                      </span>
+                      May 9, 2026, 6:14 PM ET (AP)
+                     </span>
+                    </div>
+                    <div class="recent-news-item mt-5">
+                     <a class="font-14 gtm-ap-news-link" href="/news/648813/883a1f388f2ae8b99d70ea3a4f177525" rel="nofollow">
+                      The Latest: Trump says a 3-day Russia-Ukraine ceasefire may be 'beginning of the end'
+                     </a>
+                     <span class="font-14 text-gray-600">
+                      <span>
+                       •
+                      </span>
+                      May 8, 2026, 8:08 PM ET (AP)
+                     </span>
+                    </div>
+                    <div class="recent-news-item mt-5">
+                     <a class="font-14 gtm-ap-news-link" href="/news/648813/9a686273da1f284230180a7819613719" rel="nofollow">
+                      Russia declares a truce in Ukraine to mark Victory Day. Kyiv says it'll cease fire two days earlier
+                     </a>
+                     <span class="font-14 text-gray-600">
+                      <span>
+                       •
+                      </span>
+                      May 8, 2026, 7:10 AM ET (AP)
+                     </span>
+                    </div>
+                    <button aria-label="Toggle additional news items" class="js-toggle-recent-news d-flex btn btn-unstyled font-14 pr-10 rounded-sm mt-10">
+                     Show less
+                     <em class="material-icons" data-icon="expand_less">
+                     </em>
+                    </button>
+                   </div>
+                  </div>
+                  <!--[BEFORE-ARTICLE]-->
+                  <span class="marker before-article">
+                  </span>
+                  <section data-level="1" id="ref1">
+                   <!--[PREMOD1]-->
+                   <span class="marker PREMOD1 mod-inline">
+                   </span>
+                   <p class="topic-paragraph">
+                    <strong>
+                     <span id="ref511766">
+                     </span>
+                     World War II
+                    </strong>
+                    ,  conflict that involved virtually every part of the world during the years 1939–45. The
+                    <a class="md-crosslink autoxref" data-show-preview="true" href="https://www.britannica.com/topic/war">
+                     war
+                    </a>
+                    was in many respects a continuation, after an uneasy 20-year
+                    <a class="md-dictionary-link md-dictionary-tt-off mw" data-term="hiatus" data-type="MW" href="https://www.merriam-webster.com/dictionary/hiatus">
+                     hiatus
+                    </a>
+                    , of the disputes left unsettled by
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/event/World-War-I">
+                     World War I
+                    </a>
+                    . The principal
+                    <a class="md-dictionary-link md-dictionary-tt-off mw" data-term="belligerents" data-type="MW" href="https://www.merriam-webster.com/dictionary/belligerents">
+                     belligerents
+                    </a>
+                    were the
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/topic/Axis-Powers">
+                     Axis powers
+                    </a>
+                    —
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/place/Germany">
+                     Germany
+                    </a>
+                    ,
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/place/Italy">
+                     Italy
+                    </a>
+                    , and
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/place/Japan">
+                     Japan
+                    </a>
+                    —and the
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/topic/Allied-powers-World-War-II">
+                     Allies
+                    </a>
+                    —
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/place/France">
+                     France
+                    </a>
+                    ,
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/place/Great-Britain-island-Europe">
+                     Great Britain
+                    </a>
+                    , the
+                    <span id="ref1160511">
+                    </span>
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/place/United-States">
+                     United States
+                    </a>
+                    , the
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/place/Soviet-Union">
+                     Soviet Union
+                    </a>
+                    , and
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/place/China">
+                     China
+                    </a>
+                    (after the war, these countries would become the five permanent members of the
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/topic/United-Nations-Security-Council">
+                     United Nations Security Council
+                    </a>
+                    ).  The
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/topic/total-war">
+                     total nature
+                    </a>
+                    of World War II meant that civilian populations not only contributed to the war effort but also became direct targets of
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/event/strategic-bombing-during-World-War-II">
+                     aerial attack
+                    </a>
+                    . Moreover, in 1941 the Nazi regime unleashed a war of extermination against Jews,
+                    <a class="md-crosslink autoxref" data-show-preview="true" href="https://www.britannica.com/topic/Slav">
+                     Slavs
+                    </a>
+                    , and other people deemed inferior by Hitler’s
+                    <a class="md-dictionary-link md-dictionary-tt-off mw" data-term="ideology" data-type="MW" href="https://www.merriam-webster.com/dictionary/ideology">
+                     ideology
+                    </a>
+                    , while Stalinist Russia extended its
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/event/Holodomor">
+                     campaign of terror against Ukrainians
+                    </a>
+                    to the conquered Poles. The 40,000,000–50,000,000 deaths incurred in World War II make it the bloodiest conflict, as well as the largest war, in history.
+                   </p>
+                   <!--[MOD1]-->
+                   <span class="marker MOD1 mod-inline">
+                   </span>
+                   <!--[PREMOD2]-->
+                   <span class="marker PREMOD2 mod-inline">
+                   </span>
+                   <div class="assemblies multiple medialist slider js-slider position-relative d-inline-flex align-items-center mw-100" data-type="other">
+                    <div class="slider-container js-slider-container overflow-hidden d-flex">
+                     <div class="rw-track d-flex align-items-center">
+                      <div class="position-relative rw-slide col-100 px-20">
+                       <figure class="md-assembly m-0 mb-md-0 card card-borderless print-false" data-asm-type="image" data-assembly-id="92072">
+                        <div class="md-assembly-wrapper card-media" data-type="image">
+                         <a class="gtm-assembly-link position-relative d-flex align-items-center justify-content-center media-overlay-link card-media" data-href="/media/1/648813/92072" href="https://cdn.britannica.com/53/78753-050-9F513FB8/Winston-Churchill-British-Joseph-Stalin-meeting-Soviet-July-1945.jpg">
+                          <picture>
+                           <source media="(min-width: 680px)" srcset="https://cdn.britannica.com/53/78753-050-9F513FB8/Winston-Churchill-British-Joseph-Stalin-meeting-Soviet-July-1945.jpg?w=300"/>
+                           <img alt="Winston Churchill, Harry Truman, and Joseph Stalin" data-height="1211" data-width="1600" loading="eager" src="https://cdn.britannica.com/53/78753-050-9F513FB8/Winston-Churchill-British-Joseph-Stalin-meeting-Soviet-July-1945.jpg?w=300"/>
+                          </picture>
+                          <div class="position-absolute top-10 left-10 assembly-slide-tag rounded-lg">
+                           1 of 2
+                          </div>
+                          <button aria-label="Zoom in" class="magnifying-glass btn btn-circle position-absolute shadow btn-white top-10 right-10">
+                           <em class="material-icons link-blue" data-icon="zoom_in">
+                           </em>
+                          </button>
+                         </a>
+                        </div>
+                        <figcaption class="card-body">
+                         <div class="md-assembly-caption text-muted font-14 font-serif line-clamp">
+                          <span>
+                           <a class="gtm-assembly-link md-assembly-title font-weight-bold d-inline font-sans-serif mr-5 media-overlay-link" data-href="/media/1/648813/92072" href="https://cdn.britannica.com/53/78753-050-9F513FB8/Winston-Churchill-British-Joseph-Stalin-meeting-Soviet-July-1945.jpg">
+                            Winston Churchill, Harry Truman, and Joseph Stalin
+                           </a>
+                           <span>
+                            British Prime Minister Winston Churchill, U.S. Pres. Harry S. Truman, and Soviet Premier Joseph Stalin meeting at Potsdam, Germany, in July 1945 to discuss the postwar order in Europe.
+                           </span>
+                           <button aria-label="Toggle more/less fact data" class="js-more-btn d-none btn btn-unstyled font-12 bg-white js-content">
+                            <span class="link-blue">
+                             (more)
+                            </span>
+                           </button>
+                          </span>
+                         </div>
+                        </figcaption>
+                       </figure>
+                      </div>
+                      <div class="position-relative rw-slide col-100 px-20">
+                       <figure class="md-assembly m-0 mb-md-0 card card-borderless print-false" data-asm-type="image" data-assembly-id="92071">
+                        <div class="md-assembly-wrapper card-media" data-type="image">
+                         <a class="gtm-assembly-link position-relative d-flex align-items-center justify-content-center media-overlay-link card-media" data-href="/media/1/648813/92071" href="https://cdn.britannica.com/34/76534-050-EE7422B0/mushroom-cloud-aircraft-Hiroshima-Japan-people-city-August-6-1945.jpg">
+                          <picture>
+                           <source media="(min-width: 680px)" srcset="https://cdn.britannica.com/34/76534-050-EE7422B0/mushroom-cloud-aircraft-Hiroshima-Japan-people-city-August-6-1945.jpg?w=300"/>
+                           <img alt="Atomic bombing of Hiroshima" data-height="1600" data-width="1285" loading="eager" src="https://cdn.britannica.com/34/76534-050-EE7422B0/mushroom-cloud-aircraft-Hiroshima-Japan-people-city-August-6-1945.jpg?w=300"/>
+                          </picture>
+                          <div class="position-absolute top-10 left-10 assembly-slide-tag rounded-lg">
+                           2 of 2
+                          </div>
+                          <button aria-label="Zoom in" class="magnifying-glass btn btn-circle position-absolute shadow btn-white top-10 right-10">
+                           <em class="material-icons link-blue" data-icon="zoom_in">
+                           </em>
+                          </button>
+                         </a>
+                        </div>
+                        <figcaption class="card-body">
+                         <div class="md-assembly-caption text-muted font-14 font-serif line-clamp">
+                          <span>
+                           <a class="gtm-assembly-link md-assembly-title font-weight-bold d-inline font-sans-serif mr-5 media-overlay-link" data-href="/media/1/648813/92071" href="https://cdn.britannica.com/34/76534-050-EE7422B0/mushroom-cloud-aircraft-Hiroshima-Japan-people-city-August-6-1945.jpg">
+                            Atomic bombing of Hiroshima
+                           </a>
+                           <span>
+                            A gigantic mushroom cloud rising above Hiroshima, Japan, on August 6, 1945, after a U.S. aircraft dropped an atomic bomb on the city, immediately killing more than 70,000 people.
+                           </span>
+                           <button aria-label="Toggle more/less fact data" class="js-more-btn d-none btn btn-unstyled font-12 bg-white js-content">
+                            <span class="link-blue">
+                             (more)
+                            </span>
+                           </button>
+                          </span>
+                         </div>
+                        </figcaption>
+                       </figure>
+                      </div>
+                     </div>
+                    </div>
+                    <button aria-label="Previous" class="prev-button js-prev-button position-absolute btn btn-circle shadow btn-lg btn-blue-dark m-20" disabled="true">
+                     <span class="material-icons" data-icon="keyboard_arrow_left">
+                     </span>
+                    </button>
+                    <button aria-label="Next" class="next-button js-next-button position-absolute btn btn-circle shadow btn-lg btn-blue-dark m-20" disabled="true">
+                     <span class="material-icons" data-icon="keyboard_arrow_right">
+                     </span>
+                    </button>
+                   </div>
+                   <p class="topic-paragraph">
+                    Along with World War I, World War II was one of the great watersheds of 20th-century geopolitical history. It resulted in the extension of the Soviet Union’s power to nations of eastern
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/place/Europe">
+                     Europe
+                    </a>
+                    , enabled a communist movement to eventually
+                    <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/event/Chinese-Civil-War">
+                     achieve power in China
+                    </a>
+                    , and marked the decisive shift of power in the world away from the states of western Europe and toward the United States and the Soviet Union.
+                   </p>
+                   <!--[MOD2]-->
+                   <span class="marker MOD2 mod-inline">
+                   </span>
+                   <!--[PREMOD3]-->
+                   <span class="marker PREMOD3 mod-inline">
+                   </span>
+                   <p class="topic-paragraph">
+                    <em>
+                     <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/event/Normandy-Invasion">
+                      (Read Sir John Keegan’s Britannica entry on the Normandy Invasion.)
+                     </a>
+                    </em>
+                   </p>
+                   <!--[MOD3]-->
+                   <span class="marker MOD3 mod-inline">
+                   </span>
+                  </section>
+                  <!--[H2]-->
+                  <span class="marker h2">
+                  </span>
+                  <section data-level="1" id="ref53531">
+                   <h2 class="h1">
+                    Axis initiative and Allied reaction
+                   </h2>
+                   <section data-level="2" id="ref53532">
+                    <h2 class="h2">
+                     The outbreak of war
+                    </h2>
+                    <!--[PREMOD4]-->
+                    <span class="marker PREMOD4 mod-inline">
+                    </span>
+                    <p class="topic-paragraph">
+                     By the early part of 1939 the
+                     <span id="ref511767">
+                     </span>
+                     <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/place/Germany">
+                      German
+                     </a>
+                     dictator
+                     <span id="ref511768">
+                     </span>
+                     <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/biography/Adolf-Hitler">
+                      Adolf Hitler
+                     </a>
+                     had become determined to invade and occupy
+                     <span id="ref511769">
+                     </span>
+                     <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/place/Poland">
+                      Poland
+                     </a>
+                     . Poland, for its part, had guarantees of French and British military support should it be attacked by Germany. Hitler intended to invade Poland anyway, but first he had to neutralize the possibility that the Soviet Union would resist the invasion of its western neighbor. Secret negotiations led on August 23–24 to the signing of the
+                     <span id="ref511770">
+                     </span>
+                     <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/event/German-Soviet-Nonaggression-Pact">
+                      German-Soviet Nonaggression Pact
+                     </a>
+                     in
+                     <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/place/Moscow">
+                      Moscow
+                     </a>
+                     . In a secret
+                     <a class="md-dictionary-link md-dictionary-tt-off mw" data-term="protocol" data-type="MW" href="https://www.merriam-webster.com/dictionary/protocol">
+                      protocol
+                     </a>
+                     of this pact, the Germans and the Soviets agreed that Poland should be divided between them, with the western third of the country going to Germany and the eastern two-thirds being taken over by the U.S.S.R.
+                    </p>
+                    <div class="js-qf-module qf-module px-40 px-sm-20 py-15 mx-auto module-spacing font-14 bg-gray-50 rounded">
+                     <div class="qf-title font-weight-bold font-14 mb-10 text-center">
+                      Quick Facts
+                     </div>
+                     <div class="facts-list mt-10">
+                      <div class="">
+                       <div class="js-fact mb-10 line-clamp clamp-3">
+                        <dl>
+                         <dt>
+                          Also called:
+                         </dt>
+                         <dd>
+                          Second World War
+                         </dd>
+                        </dl>
+                        <button aria-label="Toggle more/less fact data" class="js-more-btn d-none btn btn-unstyled font-12 bg-gray-50">
+                         <em class="js-content link-blue">
+                          (Show more)
+                         </em>
+                        </button>
+                       </div>
+                      </div>
+                      <div class="">
+                       <div class="js-fact mb-10 line-clamp clamp-3">
+                        <dl>
+                         <dt>
+                          Date:
+                         </dt>
+                         <dd>
+                          September 3, 1939 - September 2, 1945
+                         </dd>
+                        </dl>
+                        <button aria-label="Toggle more/less fact data" class="js-more-btn d-none btn btn-unstyled font-12 bg-gray-50">
+                         <em class="js-content link-blue">
+                          (Show more)
+                         </em>
+                        </button>
+                       </div>
+                      </div>
+                      <div class="">
+                       <div class="js-fact mb-10 line-clamp clamp-3">
+                        <dl>
+                         <dt>
+                          Participants:
+                         </dt>
+                         <dd>
+                          <a href="/place/Canada">
+                           Canada
+                          </a>
+                         </dd>
+                         <dd>
+                          <a href="/place/China">
+                           China
+                          </a>
+                         </dd>
+                         <dd>
+                          <a href="/place/France">
+                           France
+                          </a>
+                         </dd>
+                         <dd>
+                          <a href="/place/Germany">
+                           Germany
+                          </a>
+                         </dd>
+                         <dd>
+                          <a href="/place/India">
+                           India
+                          </a>
+                         </dd>
+                         <dd>
+                          <a href="/place/Italy">
+                           Italy
+                          </a>
+                         </dd>
+                         <dd>
+                          <a href="/place/Japan">
+                           Japan
+                          </a>
+                         </dd>
+                         <dd>
+                          <a href="/place/Soviet-Union">
+                           Soviet Union
+                          </a>
+                         </dd>
+                         <dd>
+                          <a href="/place/United-Kingdom">
+                           United Kingdom
+                          </a>
+                         </dd>
+                         <dd>
+                          <a href="/place/United-States">
+                           United States
+                          </a>
+                         </dd>
+                        </dl>
+                        <button aria-label="Toggle more/less fact data" class="js-more-btn d-none btn btn-unstyled font-12 bg-gray-50">
+                         <em class="js-content link-blue">
+                          (Show more)
+                         </em>
+                        </button>
+                       </div>
+                      </div>
+                      <div class="">
+                       <div class="js-fact mb-10 line-clamp clamp-3">
+                        <dl>
+                         <dt>
+                          Major Events:
+                         </dt>
+                         <dd>
+                          <a href="/event/Battle-of-France-World-War-II">
+                           Battle of France
+                          </a>
+                         </dd>
+                         <dd>
+                          <a href="/event/Holocaust">
+                           Holocaust
+                          </a>
+                         </dd>
+                         <dd>
+                          <a href="/event/North-Africa-campaigns">
+                           North Africa campaigns
+                          </a>
+                         </dd>
+                         <dd>
+                          <a href="/topic/Pacific-War">
+                           Pacific War
+                          </a>
+                         </dd>
+                         <dd>
+                          <a href="/event/Eastern-Front-World-War-II">
+                           Eastern Front
+                          </a>
+                         </dd>
+                        </dl>
+                        <button aria-label="Toggle more/less fact data" class="js-more-btn d-none btn btn-unstyled font-12 bg-gray-50">
+                         <em class="js-content link-blue">
+                          (Show more)
+                         </em>
+                        </button>
+                       </div>
+                      </div>
+                      <div class="">
+                       <div class="js-fact mb-10 line-clamp clamp-3">
+                        <dl>
+                         <dt>
+                          Key People:
+                         </dt>
+                         <dd>
+                          <a href="/biography/Winston-Churchill">
+                           Winston Churchill
+                          </a>
+                         </dd>
+                         <dd>
+                          <a href="/biography/Adolf-Hitler">
+                           Adolf Hitler
+                          </a>
+                         </dd>
+                         <dd>
+                          <a href="/biography/Alessandro-Pertini">
+                           Alessandro Pertini
+                          </a>
+                         </dd>
+                         <dd>
+                          <a href="/biography/Keith-Park">
+                           Keith Park
+                          </a>
+                         </dd>
+                         <dd>
+                          <a href="/biography/Theodore-Roosevelt-Jr">
+                           Theodore Roosevelt, Jr.
+                          </a>
+                         </dd>
+                        </dl>
+                        <button aria-label="Toggle more/less fact data" class="js-more-btn d-none btn btn-unstyled font-12 bg-gray-50">
+                         <em class="js-content link-blue">
+                          (Show more)
+                         </em>
+                        </button>
+                       </div>
+                      </div>
+                      <div class="facts-item-none d-none">
+                       <div class="js-fact mb-10 line-clamp clamp-3">
+                        <dl>
+                         <dt>
+                          On the Web:
+                         </dt>
+                         <dd>
+                          <a href="https://education.cfr.org/learn/reading/why-did-world-war-ii-happen" target="_blank">
+                           Council on Foreign Relations - Education - Why Did World War II Happen?
+                          </a>
+                          (May 08, 2026)
+                         </dd>
+                        </dl>
+                        <button aria-label="Toggle more/less fact data" class="js-more-btn d-none btn btn-unstyled font-12 bg-gray-50">
+                         <em class="js-content link-blue">
+                          (Show more)
+                         </em>
+                        </button>
+                       </div>
+                       <div class="text-center">
+                        <a class="btn btn-sm btn-link p-0" href="/facts/World-War-II">
+                         See all related content
+                        </a>
+                       </div>
+                      </div>
+                     </div>
+                     <button class="facts-list-show-more-btn mt-15 p-0 mx-auto btn font-14 d-block font-weight-normal">
+                      <span class="material-icons" data-icon="expand_more">
+                      </span>
+                      <span class="show-more-label">
+                       Show More
+                      </span>
+                     </button>
+                    </div>
+                    <!--[MOD4]-->
+                    <span class="marker MOD4 mod-inline">
+                    </span>
+                    <!--[PREMOD5]-->
+                    <span class="marker PREMOD5 mod-inline">
+                    </span>
+                    <p class="topic-paragraph">
+                     Having achieved this
+                     <a class="md-dictionary-link md-dictionary-tt-off mw" data-term="cynical" data-type="MW" href="https://www.merriam-webster.com/dictionary/cynical">
+                      cynical
+                     </a>
+                     agreement, the other provisions of which stupefied Europe even without divulgence of the secret protocol, Hitler thought that Germany could attack Poland with no danger of Soviet or British intervention and gave orders for the invasion to start on August 26. News of the signing, on August 25, of a formal treaty of mutual assistance between Great Britain and Poland (to supersede a previous though temporary agreement) caused him to postpone the start of hostilities for a few days. He was still determined, however, to ignore the diplomatic efforts of the western powers to restrain him. Finally, at 12:40
+                     <span class="text-smallcaps">
+                      pm
+                     </span>
+                     on August 31, 1939, Hitler ordered hostilities against Poland to start at 4:45 the next morning. The invasion began as ordered. In response,
+                     <span id="ref511771">
+                     </span>
+                     <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/place/United-Kingdom">
+                      Great Britain
+                     </a>
+                     and
+                     <span id="ref511772">
+                     </span>
+                     <a class="md-crosslink" data-show-preview="true" href="https://www.britannica.com/place/France">
+                      France
+                     </a>
+                     declared war on Germany on September 3, at 11:00
+                     <span class="text-smallcaps">
+                      am
+                     </span>
+                     and at 5:00
+                     <span class="text-smallcaps">
+                      pm
+                     </span>
+                     , respectively. World War II had begun.
+                    </p>
+                    <a class="link-module shadow-sm d-block qa-quiz-module" href="/quiz/pop-quiz-17-things-to-know-about-world-war-ii">
+                     <img alt="Germany invades Poland, September 1, 1939, using 45 German divisions and aerial attack. By September 20, only Warsaw held out, but final surrender came on September 29." class="rounded-sm mr-15" loading="lazy" src="https://cdn.britannica.com/26/188426-050-2AF26954/Germany-Poland-September-1-1939.jpg" width="70">
+                      <div class="line-clamp clamp-5">
+                       <div class="module-title bg-green">
+                        Britannica Quiz
+                       </div>
+                       <div class="font-weight-semi-bold mt-5">
+                        Pop Quiz: 17 Things to Know About World War II
+                       </div>
+                      </div>
+                     </img>
+                    </a>
+                    <!--[MOD5]-->
+                    <span class="marker MOD5 mod-inline">
+                    </span>
+                   </section>
+                  </section>
+                  <!--[AFTER-ARTICLE]-->
+                  <span class="marker after-article">
+                  </span>
+                 </div>
+                 <div id="chatbot-simplify-root">
+                 </div>
+                 <div id="chatbot-root">
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </article>
+      </div>
+     </div>
+    </div>
+   </div>
+  </main>
+  <div id="md-footer">
+  </div>
+  <script type="module">
+   window.dataLayer = window.dataLayer || [];
+
+            async function awaitPaint(fn) {
+                return new Promise((resolve) => {
+                    const fallbackTimeout = setTimeout(() => {
+                        if (typeof fn === 'function') { fn(); }
+                        resolve();
+                    }, 200);
+                    requestAnimationFrame(() => {
+                        setTimeout(() => {
+                            clearTimeout(fallbackTimeout);
+                            if (typeof fn === 'function') { fn(); }
+                            resolve();
+                        }, 50);
+                    });
+                });
+            }
+
+            if (window.dataLayer && typeof window.dataLayer.push === 'function') {
+                const originalDataLayerPush = window.dataLayer.push.bind(window.dataLayer);
+                window.dataLayer.push = function (...args) {
+                    (async () => {
+                        await awaitPaint(() => {
+                            originalDataLayerPush(...args);
+                        });
+                    })();
+                };
+            }
+  </script>
+  <noscript>
+   <iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-5W6NC8" style="display:none;visibility:hidden" title="google-gtm" width="0">
+   </iframe>
+  </noscript>
+  <noscript>
+   <iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-KRJ753NG" style="display:none;visibility:hidden" title="google-gtm" width="0">
+   </iframe>
+  </noscript>
+  <script src="https://cdn.britannica.com/mendel-resources/3-183/js/libs/jquery-3.5.0.min.js?v=3.183.5">
+  </script>
+  <script data-type="Init Mendel Code Splitting" type="text/javascript">
+   (function() {
+                $.ajax({
+                  dataType: 'script',
+                  cache: true,
+                  url: 'https://cdn.britannica.com/mendel-resources/3-183/dist/topic-page.js?v=3.183.5'
+                });
+              })();
+  </script>
+  <div id="bc-fixed-dialogue">
+  </div>
+  <script crossorigin="anonymous" data-cf-beacon='{"version":"2024.11.0","token":"5cc7d7124de641b181da990fc8c9a0b6","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' defer="" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447">
+  </script>
+ </body>
+</html>
