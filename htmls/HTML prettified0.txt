@@ -1,7 +1,7 @@
 <!-- main-declarative-templating.twig -->
 <!-- story.id : 2f47fe15074d326cafd436f2cf80dfa9 -->
 <!-- story.source : SB -->
-<!-- CorrelationId : db4ac0fb18a1dc4fa09ee163d5ec0dbc -->
+<!-- CorrelationId : 6e6e0867c0dabd2647cd0624d8f2eb37 -->
 <!DOCTYPE html>
 <html lang="fr" xml:lang="fr">
  <head>
@@ -1189,7 +1189,7 @@
  <body>
   <!-- header -->
   <script type="application/ld+json">
-   {"@context":"https://schema.org","@type":"NewsArticle","articleSection":"Opinions","mainEntityOfPage":{"@type":"WebPage","url":"https://www.lapresse.ca/dialogue/opinions/2026-05-02/sante-mentale-des-medecins/ce-qui-n-est-pas-mesure-n-est-pas-soigne.php","@id":"https://www.lapresse.ca/dialogue/opinions/2026-05-02/sante-mentale-des-medecins/ce-qui-n-est-pas-mesure-n-est-pas-soigne.php"},"datePublished":"2026-05-02T08:00:00-04:00","dateModified":"2026-05-02T08:00:00-04:00","headline":"Santé mentale des médecins Ce qui n’est pas mesuré n’est pas soigné","image":["https://mobile-img.lpcdn.ca/v2/924x/r3996/96faa9b8cf2832fc893e29284494a1db.jpg"],"description":"Réflexion sur le silence qui entoure la santé mentale des médecins, et les outils qui manquent.","associatedMedia":[{"@type":"ImageObject","contentUrl":"https://mobile-img.lpcdn.ca/v2/924x/r3996/96faa9b8cf2832fc893e29284494a1db.jpg","caption":"« Au Québec, nous avons perdu plusieurs médecins par suicide ces derniers mois », écrit l’auteur.","creditText":"PHOTO GETTY IMAGES","@id":"urn:lpca:imageobject:6a0bae02680e7"}],"articleBody":" Réflexion sur le silence qui entoure la santé mentale des médecins, et les outils qui manquent. Un médecin qui va mal calcule avant de demander de l’aide. Combien de temps il peut tenir encore. Qui le remarquera. Ce que cela laissera comme trace. Au Québec, nous avons perdu plusieurs médecins par suicide ces derniers mois. Nous ne comptons pas précisément ceux qui meurent. Et, en même temps, nous risquons d’ajouter un obstacle administratif pour celles et ceux qui demandent de l’aide. Deux faces d’une même culture du silence. Mon propos ne porte pas sur une personne, mais sur ce que ces décès révèlent. Ce que nous ne voyons pas assez tôt Depuis plusieurs années, l’Association des médecins psychiatres du Québec et d’autres voix du milieu demandent que le Québec documente mieux la santé mentale des soignants. Pas seulement les décès. Ce qui les précède aussi : la détresse, l’épuisement, les arrêts de travail, la peur de consulter, les départs prématurés de la pratique. Ces signaux existent déjà. Ils apparaissent dans les demandes d’aide, les milieux cliniques, les établissements, les programmes de soutien. Mais ils restent dispersés. Personne ne tient vraiment le portrait d’ensemble. Nous savons que plusieurs vivent de la détresse et hésitent à demander de l’aide. Nous savons aussi que, parfois, nous ne voyons la trajectoire qu’au moment où il est trop tard. Une médecine fondée sur les données probantes devrait être capable de mesurer ce qui blesse celles et ceux qui la pratiquent. Ce n’est pas le cas. Ce que nous compliquons Ce silence ne vient pas seulement de ce que nous ne mesurons pas. Il vient aussi de ce que les médecins craignent quand ils demandent de l’aide. C’est dans ce contexte que le Collège des médecins du Québec a introduit, en février 2026, une nouvelle question dans la déclaration annuelle : « Souffrez-vous présentement d’une condition physique ou mentale, incluant une dépendance ou un trouble lié à l’usage de substances, qui pourrait compromettre votre capacité d’exercer la médecine de façon sécuritaire et compétente ? » Lue strictement, la question vise une atteinte actuelle et fonctionnelle. Un diagnostic stabilisé, un suivi en cours, une vulnérabilité contrôlée ne sont pas, en principe, visés. Mais reçue dans une culture où la santé mentale demeure taboue, elle est souvent lue autrement. Beaucoup de médecins se demandent ce qu’ils doivent déclarer. Ce qui suit une réponse affirmative. Qui voit cette information. Combien de temps elle est conservée. Quels recours existent en cas de bris de confidentialité. Les communications publiées par le Collège n’ont pas suffi à dissiper ces inquiétudes. Un médecin en difficulté évalue déjà sa charge, son temps, son entourage. Une variable s’ajoute maintenant : le risque administratif. Les médecins qui sont réellement à risque sont rarement ceux qui ont la lucidité de se déclarer. L’autocritique est souvent la première capacité que la maladie altère. Ceux qui écriront « oui » sont souvent ceux qui ont déjà amorcé une démarche depuis longtemps. Un médecin qui hésite à consulter reste un médecin qui se tait plus longtemps. Je le sais aussi de l’intérieur. J’ai déjà écrit dans ces pages sur ma propre détresse, sur mes pensées suicidaires et sur ma dépendance. On peut savoir exactement quoi faire et être incapable de franchir ce pas quand il s’agit de soi. Trois demandes Je formule trois demandes. Elles s’adressent aux instances qui encadrent, soutiennent et régulent la pratique médicale au Québec. Un. Que le Collège des médecins publie une interprétation claire du libellé de sa nouvelle question et du processus qui suit une réponse affirmative : qui consulte l’information. Pourquoi. Pendant combien de temps. Quels recours existent en cas de bris de confidentialité. Et surtout : qu’une simple déclaration n’entraîne aucune conséquence administrative automatique. Deux. Que le Québec se dote d’un cadre indépendant pour suivre la santé mentale des personnes qui soignent. Appelons cela un observatoire, ou autrement. Le nom importe moins que la fonction : relier les signaux déjà présents sur le terrain, les suivre dans le temps et les transformer en prévention. Ce mandat pourrait être confié à l’Institut national de santé publique ou à une instance équivalente. Trois. Que les instances médicales s’engagent publiquement à ce que demander de l’aide ne devienne jamais, en soi, un signal de fragilité administrative ni un motif de restriction de la pratique. Protéger le public commence par prendre soin des personnes qui soignent. Nous acceptons depuis trop longtemps qu’une profession formée pour soigner peine encore à se soigner elle-même. Pourquoi continuons-nous à perdre des soignants alors que nous savons qu’ils souffrent en silence ? Tant que nous ne mesurerons pas mieux, tant que nous ne rassurerons pas clairement, tant que nous ne protégerons pas celles et ceux qui demandent de l’aide, la réponse restera la même. Partout au Québec, l’aide est disponible 24 heures sur 24, 7 jours sur 7. Les services sont gratuits, bilingues et confidentiels. Téléphone : 1 866 APPELLE (277-3553), texto : 53 53 53, clavardage et outils : www.suicide.ca","author":[{"@type":"Person","name":"Steven Palanchuck","image":"https://mobile-img.lpcdn.ca/v2/100/760f072cf44b3659bddd2d43a0518faf.jpg","affiliation":{"@type":"Organization","name":"Médecin, Montréal","@id":"urn:lpca:organization:médecin,-montréal"},"@id":"urn:lpca:author:steven-palanchuck"}],"@id":"urn:lpca:newsarticle:2f47fe15074d326cafd436f2cf80dfa9"}
+   {"@context":"https://schema.org","@type":"NewsArticle","articleSection":"Opinions","mainEntityOfPage":{"@type":"WebPage","url":"https://www.lapresse.ca/dialogue/opinions/2026-05-02/sante-mentale-des-medecins/ce-qui-n-est-pas-mesure-n-est-pas-soigne.php","@id":"https://www.lapresse.ca/dialogue/opinions/2026-05-02/sante-mentale-des-medecins/ce-qui-n-est-pas-mesure-n-est-pas-soigne.php"},"datePublished":"2026-05-02T08:00:00-04:00","dateModified":"2026-05-02T08:00:00-04:00","headline":"Santé mentale des médecins Ce qui n’est pas mesuré n’est pas soigné","image":["https://mobile-img.lpcdn.ca/v2/924x/r3996/96faa9b8cf2832fc893e29284494a1db.jpg"],"description":"Réflexion sur le silence qui entoure la santé mentale des médecins, et les outils qui manquent.","associatedMedia":[{"@type":"ImageObject","contentUrl":"https://mobile-img.lpcdn.ca/v2/924x/r3996/96faa9b8cf2832fc893e29284494a1db.jpg","caption":"« Au Québec, nous avons perdu plusieurs médecins par suicide ces derniers mois », écrit l’auteur.","creditText":"PHOTO GETTY IMAGES","@id":"urn:lpca:imageobject:6a0d0bfb83823"}],"articleBody":" Réflexion sur le silence qui entoure la santé mentale des médecins, et les outils qui manquent. Un médecin qui va mal calcule avant de demander de l’aide. Combien de temps il peut tenir encore. Qui le remarquera. Ce que cela laissera comme trace. Au Québec, nous avons perdu plusieurs médecins par suicide ces derniers mois. Nous ne comptons pas précisément ceux qui meurent. Et, en même temps, nous risquons d’ajouter un obstacle administratif pour celles et ceux qui demandent de l’aide. Deux faces d’une même culture du silence. Mon propos ne porte pas sur une personne, mais sur ce que ces décès révèlent. Ce que nous ne voyons pas assez tôt Depuis plusieurs années, l’Association des médecins psychiatres du Québec et d’autres voix du milieu demandent que le Québec documente mieux la santé mentale des soignants. Pas seulement les décès. Ce qui les précède aussi : la détresse, l’épuisement, les arrêts de travail, la peur de consulter, les départs prématurés de la pratique. Ces signaux existent déjà. Ils apparaissent dans les demandes d’aide, les milieux cliniques, les établissements, les programmes de soutien. Mais ils restent dispersés. Personne ne tient vraiment le portrait d’ensemble. Nous savons que plusieurs vivent de la détresse et hésitent à demander de l’aide. Nous savons aussi que, parfois, nous ne voyons la trajectoire qu’au moment où il est trop tard. Une médecine fondée sur les données probantes devrait être capable de mesurer ce qui blesse celles et ceux qui la pratiquent. Ce n’est pas le cas. Ce que nous compliquons Ce silence ne vient pas seulement de ce que nous ne mesurons pas. Il vient aussi de ce que les médecins craignent quand ils demandent de l’aide. C’est dans ce contexte que le Collège des médecins du Québec a introduit, en février 2026, une nouvelle question dans la déclaration annuelle : « Souffrez-vous présentement d’une condition physique ou mentale, incluant une dépendance ou un trouble lié à l’usage de substances, qui pourrait compromettre votre capacité d’exercer la médecine de façon sécuritaire et compétente ? » Lue strictement, la question vise une atteinte actuelle et fonctionnelle. Un diagnostic stabilisé, un suivi en cours, une vulnérabilité contrôlée ne sont pas, en principe, visés. Mais reçue dans une culture où la santé mentale demeure taboue, elle est souvent lue autrement. Beaucoup de médecins se demandent ce qu’ils doivent déclarer. Ce qui suit une réponse affirmative. Qui voit cette information. Combien de temps elle est conservée. Quels recours existent en cas de bris de confidentialité. Les communications publiées par le Collège n’ont pas suffi à dissiper ces inquiétudes. Un médecin en difficulté évalue déjà sa charge, son temps, son entourage. Une variable s’ajoute maintenant : le risque administratif. Les médecins qui sont réellement à risque sont rarement ceux qui ont la lucidité de se déclarer. L’autocritique est souvent la première capacité que la maladie altère. Ceux qui écriront « oui » sont souvent ceux qui ont déjà amorcé une démarche depuis longtemps. Un médecin qui hésite à consulter reste un médecin qui se tait plus longtemps. Je le sais aussi de l’intérieur. J’ai déjà écrit dans ces pages sur ma propre détresse, sur mes pensées suicidaires et sur ma dépendance. On peut savoir exactement quoi faire et être incapable de franchir ce pas quand il s’agit de soi. Trois demandes Je formule trois demandes. Elles s’adressent aux instances qui encadrent, soutiennent et régulent la pratique médicale au Québec. Un. Que le Collège des médecins publie une interprétation claire du libellé de sa nouvelle question et du processus qui suit une réponse affirmative : qui consulte l’information. Pourquoi. Pendant combien de temps. Quels recours existent en cas de bris de confidentialité. Et surtout : qu’une simple déclaration n’entraîne aucune conséquence administrative automatique. Deux. Que le Québec se dote d’un cadre indépendant pour suivre la santé mentale des personnes qui soignent. Appelons cela un observatoire, ou autrement. Le nom importe moins que la fonction : relier les signaux déjà présents sur le terrain, les suivre dans le temps et les transformer en prévention. Ce mandat pourrait être confié à l’Institut national de santé publique ou à une instance équivalente. Trois. Que les instances médicales s’engagent publiquement à ce que demander de l’aide ne devienne jamais, en soi, un signal de fragilité administrative ni un motif de restriction de la pratique. Protéger le public commence par prendre soin des personnes qui soignent. Nous acceptons depuis trop longtemps qu’une profession formée pour soigner peine encore à se soigner elle-même. Pourquoi continuons-nous à perdre des soignants alors que nous savons qu’ils souffrent en silence ? Tant que nous ne mesurerons pas mieux, tant que nous ne rassurerons pas clairement, tant que nous ne protégerons pas celles et ceux qui demandent de l’aide, la réponse restera la même. Partout au Québec, l’aide est disponible 24 heures sur 24, 7 jours sur 7. Les services sont gratuits, bilingues et confidentiels. Téléphone : 1 866 APPELLE (277-3553), texto : 53 53 53, clavardage et outils : www.suicide.ca","author":[{"@type":"Person","name":"Steven Palanchuck","image":"https://mobile-img.lpcdn.ca/v2/100/760f072cf44b3659bddd2d43a0518faf.jpg","affiliation":{"@type":"Organization","name":"Médecin, Montréal","@id":"urn:lpca:organization:médecin,-montréal"},"@id":"urn:lpca:author:steven-palanchuck"}],"@id":"urn:lpca:newsarticle:2f47fe15074d326cafd436f2cf80dfa9"}
   </script>
   <!-- Begin comScore Tag -->
   <script>
@@ -1506,7 +1506,7 @@
        <div class="mainNav__title">
         La Presse
        </div>
-       , lundi 18 mai 2026
+       , mardi 19 mai 2026
       </div>
      </div>
      <div class="mainNav__header__item">
@@ -2556,10 +2556,10 @@
           </time>
          </span>
         </div>
-        <div class="socialShare" id="socialShare_6a0bae0268d67">
+        <div class="socialShare" id="socialShare_6a0d0bfb84659">
          <a class="print" href="javascript:window.print();" title="Imprimer la page">
          </a>
-         <span class="share" data-toggle-class="open" data-toggle-class-target="#socialShare_6a0bae0268d67">
+         <span class="share" data-toggle-class="open" data-toggle-class-target="#socialShare_6a0d0bfb84659">
           <img alt="Partager" height="18" src="https://static.lpcdn.ca/lpweb/mobile/img/share-icon.png" width="16"/>
          </span>
          <ul class="buttons buttons--slidable">
@@ -2623,12 +2623,12 @@
        </p>
        <div class="adsWrapper greyLineToppedBox" style="max-width: 100%;">
         <div class="adSpotBlock wrapCenter pageBox adSpotBlock--pageView-desktop">
-         <div class="slotWrapper adSpotBlock__slotWrapper" id="ad6a0bae0268f50-slotWrapper">
-          <div class="adSlot adSpotBlock__slotInner" id="ad6a0bae0268f50-adSlotLppos">
+         <div class="slotWrapper adSpotBlock__slotWrapper" id="ad6a0d0bfb84891-slotWrapper">
+          <div class="adSlot adSpotBlock__slotInner" id="ad6a0d0bfb84891-adSlotLppos">
           </div>
-          <script data-ads-meta="" data-name="ad6a0bae0268f50-adSlotLppos">
+          <script data-ads-meta="" data-name="ad6a0d0bfb84891-adSlotLppos">
            (function () {
-                var slotName = "ad6a0bae0268f50-adSlotLppos";
+                var slotName = "ad6a0d0bfb84891-adSlotLppos";
                 var dimensions = ["fluid",[634,125],[634,150],[634,180],[634,200],[634,634],[634,400],[640,360],[640,480],[728,200]];
                 var pageBlock = "text";
                 const IS_MOBILE = window.innerWidth < 1024;
@@ -2943,12 +2943,12 @@
       </div>
       <div class="adsWrapper greyLineToppedBox" style="max-width: 100%;">
        <div class="adSpotBlock wrapCenter pageBox adSpotBlock--pageView-desktop">
-        <div class="slotWrapper adSpotBlock__slotWrapper" id="ad6a0bae02692db-slotWrapper">
-         <div class="adSlot adSpotBlock__slotInner" id="ad6a0bae02692db-adSlotLppos">
+        <div class="slotWrapper adSpotBlock__slotWrapper" id="ad6a0d0bfb84c7b-slotWrapper">
+         <div class="adSlot adSpotBlock__slotInner" id="ad6a0d0bfb84c7b-adSlotLppos">
          </div>
-         <script data-ads-meta="" data-name="ad6a0bae02692db-adSlotLppos">
+         <script data-ads-meta="" data-name="ad6a0d0bfb84c7b-adSlotLppos">
           (function () {
-                var slotName = "ad6a0bae02692db-adSlotLppos";
+                var slotName = "ad6a0d0bfb84c7b-adSlotLppos";
                 var dimensions = ["fluid",[634,125],[634,150],[634,180],[634,200],[634,634],[634,400],[640,360],[640,480],[728,200]];
                 var pageBlock = "articleFooter";
                 const IS_MOBILE = window.innerWidth < 1024;
@@ -3416,12 +3416,12 @@
          <li class="mostRecentList__listItem">
           <article class="storyCard storyCard--position-1 storyCard--section-DIA card DIA mostRecentCard" data-position="1" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
            <meta content="1" itemprop="position">
-            <a class="visual" data-target-id="25e915205c2b3346b3046ff7f291236b" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-17/en-mode-solution/deux-bons-coups-en-itinerance-mais-il-en-faut-d-autres.php" itemprop="url" title="Deux bons coups en itinérance, mais il en faut d’autres">
+            <a class="visual" data-target-id="6dd5467a455d3f228e7edf48bdb72f5b" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-19/cooperatives-d-habitation/on-ne-regle-pas-une-crise-en-demolissant-ce-qui-tient-debout.php" itemprop="url" title="On ne règle pas une crise en démolissant ce qui tient debout">
              <span class="visualWrapper mostRecentCard__visual storyCard__visual">
               <picture>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/2b090ba6123c382fad3a9acff4b59250.webp" type="image/webp"/>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/2b090ba6123c382fad3a9acff4b59250.jpg" type="image/jpeg"/>
-               <img alt="En mode solution Deux bons coups en itinérance, mais il en faut d’autres" class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/2b090ba6123c382fad3a9acff4b59250.jpg"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/2ab2df8bb6693d41be4c82e4f07d507d.webp" type="image/webp"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/2ab2df8bb6693d41be4c82e4f07d507d.jpg" type="image/jpeg"/>
+               <img alt="Coopératives d’habitation On ne règle pas une crise en démolissant ce qui tient debout" class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/2ab2df8bb6693d41be4c82e4f07d507d.jpg"/>
               </picture>
              </span>
             </a>
@@ -3433,26 +3433,26 @@
                </a>
               </div>
              </div>
-             <a data-target-id="25e915205c2b3346b3046ff7f291236b" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-17/en-mode-solution/deux-bons-coups-en-itinerance-mais-il-en-faut-d-autres.php">
+             <a data-target-id="6dd5467a455d3f228e7edf48bdb72f5b" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-19/cooperatives-d-habitation/on-ne-regle-pas-une-crise-en-demolissant-ce-qui-tient-debout.php">
               <div class="mostRecentCard__titleWrapper">
                <span class="subTitle mostRecentCard__subTitle">
-                En mode solution
+                Coopératives d’habitation
                </span>
                <span class="title mostRecentCard__title">
-                Deux bons coups en itinérance, mais il en faut d’autres
+                On ne règle pas une crise en démolissant ce qui tient debout
                </span>
               </div>
              </a>
              <p class="articleDetail__lead mostRecentCard__lead">
-              James Hugues, de la Mission Old Brewery, propose des moyens concrets de s’attaquer aux causes de l’itinérance afin de freiner sa croissance
+              J’ai choisi de vivre en coopérative d’habitation. Pas par défaut, pas par contrainte. Par conviction, parce que je crois que le toit au-dessus de la tête n’est pas une marchandise et que la démocratie ne se limite pas aux urnes. Ce choix, 30 000 ménages québécois l’ont fait aussi. Le projet de loi 20, réintroduit cette semaine à l’Assemblée nationale, s’attaque directement à ce modèle. Il faut le dire clairement : le PL20 est une ingérence injustifiée dans la vie d’entreprises collectives privées qui fonctionnent, depuis 40 ans, à coût quasi nul pour l’État.
              </p>
             </div>
             <div class="storyCard__publicationDates datewrapper">
              <div class="dates">
               <span class="created">
-               Publié hier à
+               Publié à
                <time class="publicationsDate--type-publication">
-                21 h 00
+                17 h 00
                </time>
               </span>
              </div>
@@ -3463,12 +3463,12 @@
          <li class="mostRecentList__listItem">
           <article class="storyCard storyCard--position-2 storyCard--section-DIA card DIA mostRecentCard" data-position="2" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
            <meta content="2" itemprop="position">
-            <a class="visual" data-target-id="3a4d07189ae1376b874e2d013db6bc9e" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-17/penurie-de-logements/misons-sur-les-familles-unies.php" itemprop="url" title="Misons sur les familles unies">
+            <a class="visual" data-target-id="6895221766f0371d9f416b2a60ee2f5c" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-18/strategie-d-electrification-du-canada/un-pari-industriel-et-energetique-immense.php" itemprop="url" title="Un pari industriel et énergétique immense">
              <span class="visualWrapper mostRecentCard__visual storyCard__visual">
               <picture>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/81ff2b4e083b30d292cfb1cfca18d943.webp" type="image/webp"/>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/81ff2b4e083b30d292cfb1cfca18d943.jpg" type="image/jpeg"/>
-               <img alt="Pénurie de logements Misons sur les familles unies" class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/81ff2b4e083b30d292cfb1cfca18d943.jpg"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/36aa287b/ee16e580787134f2b7060a43ccc95340.webp" type="image/webp"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/36aa287b/ee16e580787134f2b7060a43ccc95340.jpg" type="image/jpeg"/>
+               <img alt="Stratégie d’électrification du Canada Un pari industriel et énergétique immense" class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/36aa287b/ee16e580787134f2b7060a43ccc95340.jpg"/>
               </picture>
              </span>
             </a>
@@ -3480,18 +3480,22 @@
                </a>
               </div>
              </div>
-             <a data-target-id="3a4d07189ae1376b874e2d013db6bc9e" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-17/penurie-de-logements/misons-sur-les-familles-unies.php">
+             <a data-target-id="6895221766f0371d9f416b2a60ee2f5c" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-18/strategie-d-electrification-du-canada/un-pari-industriel-et-energetique-immense.php">
               <div class="mostRecentCard__titleWrapper">
                <span class="subTitle mostRecentCard__subTitle">
-                Pénurie de logements
+                Stratégie d’électrification du Canada
                </span>
                <span class="title mostRecentCard__title">
-                Misons sur les familles unies
+                Un pari industriel et énergétique immense
                </span>
               </div>
              </a>
              <p class="articleDetail__lead mostRecentCard__lead">
-              Martin Lépine estime qu’une des solutions au manque de logements est de mettre en place les conditions pour que plusieurs personnes soient heureuses en demeurant sous un même toit.
+              La
+              <em>
+               Stratégie nationale pour une économie canadienne électrifiée
+              </em>
+              , dévoilée il y a quelques jours par le premier ministre Mark Carney, trace la voie au plus vaste chantier énergétique entrepris au pays depuis la construction des grands réseaux électriques du siècle dernier. Elle vise à doubler la capacité électrique canadienne d’ici 2050 pour faire face aux besoins croissants du secteur industriel, du transport, des centres de données.
              </p>
             </div>
             <div class="storyCard__publicationDates datewrapper">
@@ -3499,7 +3503,7 @@
               <span class="created">
                Publié hier à
                <time class="publicationsDate--type-publication">
-                8 h 00
+                23 h 30
                </time>
               </span>
              </div>
@@ -3510,12 +3514,12 @@
          <li class="mostRecentList__listItem">
           <div class="adsWrapper greyLineToppedBox">
            <div class="adSpotBlock wrapCenter pageBox adSpotBlock--pageView-desktop">
-            <div class="slotWrapper adSpotBlock__slotWrapper" id="ad6a0bae026c5bf-slotWrapper">
-             <div class="adSlot adSpotBlock__slotInner" id="ad6a0bae026c5bf-adSlotLppos">
+            <div class="slotWrapper adSpotBlock__slotWrapper" id="ad6a0d0bfb87f70-slotWrapper">
+             <div class="adSlot adSpotBlock__slotInner" id="ad6a0d0bfb87f70-adSlotLppos">
              </div>
-             <script data-ads-meta="" data-name="ad6a0bae026c5bf-adSlotLppos">
+             <script data-ads-meta="" data-name="ad6a0d0bfb87f70-adSlotLppos">
               (function () {
-                var slotName = "ad6a0bae026c5bf-adSlotLppos";
+                var slotName = "ad6a0d0bfb87f70-adSlotLppos";
                 var dimensions = {"lg":["fluid",[634,125],[634,150],[634,180],[634,200],[634,634],[634,400],[728,90],[728,200]],"mobile":["fluid",[300,250],[300,600],[300,50],[300,100],[320,50]]};
                 var pageBlock = "recents";
                 const IS_MOBILE = window.innerWidth < 1024;
@@ -3729,12 +3733,12 @@
          <li class="mostRecentList__listItem">
           <article class="storyCard storyCard--position-3 storyCard--section-DIA card DIA mostRecentCard" data-position="3" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
            <meta content="3" itemprop="position">
-            <a class="visual" data-target-id="4c690f67c32c3aeb86bab3ace94dfb92" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-17/chauffeurs-inc/quand-le-doute-plane-sur-l-impartialite.php" itemprop="url" title="Quand le doute plane sur l’impartialité…">
+            <a class="visual" data-target-id="e895b7c80d7237848bbd0d37fe4053e8" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-18/les-riches-ne-partiront-pas-pour-une-poignee-de-dollars.php" itemprop="url" title="Les riches ne partiront pas pour une poignée de dollars">
              <span class="visualWrapper mostRecentCard__visual storyCard__visual">
               <picture>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/f7654562c4253cbd992d4c88a38b15e3.webp" type="image/webp"/>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/f7654562c4253cbd992d4c88a38b15e3.jpg" type="image/jpeg"/>
-               <img alt="Chauffeurs inc. Quand le doute plane sur l’impartialité…" class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/f7654562c4253cbd992d4c88a38b15e3.jpg"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/5d7118335de53f5eb567304d6a0843e7.webp" type="image/webp"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/5d7118335de53f5eb567304d6a0843e7.jpg" type="image/jpeg"/>
+               <img alt=" Les riches ne partiront pas pour une poignée de dollars" class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/5d7118335de53f5eb567304d6a0843e7.jpg"/>
               </picture>
              </span>
             </a>
@@ -3746,18 +3750,15 @@
                </a>
               </div>
              </div>
-             <a data-target-id="4c690f67c32c3aeb86bab3ace94dfb92" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-17/chauffeurs-inc/quand-le-doute-plane-sur-l-impartialite.php">
+             <a data-target-id="e895b7c80d7237848bbd0d37fe4053e8" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-18/les-riches-ne-partiront-pas-pour-une-poignee-de-dollars.php">
               <div class="mostRecentCard__titleWrapper">
-               <span class="subTitle mostRecentCard__subTitle">
-                Chauffeurs inc.
-               </span>
                <span class="title mostRecentCard__title">
-                Quand le doute plane sur l’impartialité…
+                Les riches ne partiront pas pour une poignée de dollars
                </span>
               </div>
              </a>
              <p class="articleDetail__lead mostRecentCard__lead">
-              Trois femmes dont les vies ont été changées à jamais à la suite de collisions provoquées par des poids lourds se demandent si leurs témoignages devant un comité parlementaire qui étudie le phénomène des chauffeurs au rabais ont été vraiment entendus.
+              Contrairement à la croyance répandue, les impôts sur la fortune ne font pas fuir les riches, ont démontré plusieurs études. Mais ce mythe leur est bien commode, estime Arnaud Stopa.
              </p>
             </div>
             <div class="storyCard__publicationDates datewrapper">
@@ -3765,7 +3766,7 @@
               <span class="created">
                Publié hier à
                <time class="publicationsDate--type-publication">
-                8 h 00
+                23 h 00
                </time>
               </span>
              </div>
@@ -3776,12 +3777,12 @@
          <li class="mostRecentList__listItem">
           <article class="storyCard storyCard--position-4 storyCard--section-DIA card DIA mostRecentCard" data-position="4" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
            <meta content="4" itemprop="position">
-            <a class="visual" data-target-id="768b796321bc3516b914c1719507618e" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-16/la-nouvelle-taxe-orange.php" itemprop="url" title="La nouvelle taxe orange">
+            <a class="visual" data-target-id="03d8ca1085d73eb0877834df727cf769" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-18/apres-les-lilas-l-urgence-de-vivre.php" itemprop="url" title="Après les lilas… l’urgence de vivre">
              <span class="visualWrapper mostRecentCard__visual storyCard__visual">
               <picture>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/cbc1409b8d4b32d8a2200adbbc941bef.webp" type="image/webp"/>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/cbc1409b8d4b32d8a2200adbbc941bef.jpg" type="image/jpeg"/>
-               <img alt=" La nouvelle taxe orange" class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/cbc1409b8d4b32d8a2200adbbc941bef.jpg"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/10b44e7431f33f26bb6287db81375964.webp" type="image/webp"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/10b44e7431f33f26bb6287db81375964.jpg" type="image/jpeg"/>
+               <img alt=" Après les lilas… l’urgence de vivre" class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/10b44e7431f33f26bb6287db81375964.jpg"/>
               </picture>
              </span>
             </a>
@@ -3793,23 +3794,23 @@
                </a>
               </div>
              </div>
-             <a data-target-id="768b796321bc3516b914c1719507618e" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-16/la-nouvelle-taxe-orange.php">
+             <a data-target-id="03d8ca1085d73eb0877834df727cf769" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-18/apres-les-lilas-l-urgence-de-vivre.php">
               <div class="mostRecentCard__titleWrapper">
                <span class="title mostRecentCard__title">
-                La nouvelle taxe orange
+                Après les lilas… l’urgence de vivre
                </span>
               </div>
              </a>
              <p class="articleDetail__lead mostRecentCard__lead">
-              Daniel Dufort fait valoir que l’argent investi par les personnes dites riches, loin de dormir, crée des emplois et contribue à la recherche de produits innovants.
+              L’hiver est (trop) long au Québec, écrit le chef André Nicolàs Medina, né au Venezuela. Mais quand les beaux jours arrivent enfin, tout de suite après la floraison des lilas, la nature d’ici se fait d’une inégalable générosité. À nous d’en profiter !
              </p>
             </div>
             <div class="storyCard__publicationDates datewrapper">
              <div class="dates">
               <span class="created">
-               Publié le
+               Publié hier à
                <time class="publicationsDate--type-publication">
-                16 mai
+                20 h 30
                </time>
               </span>
              </div>
@@ -3820,12 +3821,12 @@
          <li class="mostRecentList__listItem">
           <article class="storyCard storyCard--position-5 storyCard--section-DIA card DIA mostRecentCard" data-position="5" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
            <meta content="5" itemprop="position">
-            <a class="visual" data-target-id="63f13f2256c030a09b55b829e9ac7159" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-16/l-ia-au-secondaire/eloge-d-une-lenteur-calculee.php" itemprop="url" title="Éloge d’une lenteur calculée ">
+            <a class="visual" data-target-id="25e915205c2b3346b3046ff7f291236b" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-17/en-mode-solution/deux-bons-coups-en-itinerance-mais-il-en-faut-d-autres.php" itemprop="url" title="Deux bons coups en itinérance, mais il en faut d’autres">
              <span class="visualWrapper mostRecentCard__visual storyCard__visual">
               <picture>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/0c3ad5c5287a374cbf95adc7e6a19c6b.webp" type="image/webp"/>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/0c3ad5c5287a374cbf95adc7e6a19c6b.jpg" type="image/jpeg"/>
-               <img alt="L’IA au secondaire Éloge d’une lenteur calculée " class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/0c3ad5c5287a374cbf95adc7e6a19c6b.jpg"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/2b090ba6123c382fad3a9acff4b59250.webp" type="image/webp"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/2b090ba6123c382fad3a9acff4b59250.jpg" type="image/jpeg"/>
+               <img alt="En mode solution Deux bons coups en itinérance, mais il en faut d’autres" class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/2b090ba6123c382fad3a9acff4b59250.jpg"/>
               </picture>
              </span>
             </a>
@@ -3837,18 +3838,18 @@
                </a>
               </div>
              </div>
-             <a data-target-id="63f13f2256c030a09b55b829e9ac7159" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-16/l-ia-au-secondaire/eloge-d-une-lenteur-calculee.php">
+             <a data-target-id="25e915205c2b3346b3046ff7f291236b" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-17/en-mode-solution/deux-bons-coups-en-itinerance-mais-il-en-faut-d-autres.php">
               <div class="mostRecentCard__titleWrapper">
                <span class="subTitle mostRecentCard__subTitle">
-                L’IA au secondaire
+                En mode solution
                </span>
                <span class="title mostRecentCard__title">
-                Éloge d’une lenteur calculée
+                Deux bons coups en itinérance, mais il en faut d’autres
                </span>
               </div>
              </a>
              <p class="articleDetail__lead mostRecentCard__lead">
-              Marie-Luce Leclerc propose de former des esprits avant de former des utilisateurs de l’intelligence artificielle.
+              James Hugues, de la Mission Old Brewery, propose des moyens concrets de s’attaquer aux causes de l’itinérance afin de freiner sa croissance
              </p>
             </div>
             <div class="storyCard__publicationDates datewrapper">
@@ -3856,7 +3857,7 @@
               <span class="created">
                Publié le
                <time class="publicationsDate--type-publication">
-                16 mai
+                17 mai
                </time>
               </span>
              </div>
@@ -3867,12 +3868,12 @@
          <li class="mostRecentList__listItem">
           <article class="storyCard storyCard--position-6 storyCard--section-DIA card DIA mostRecentCard" data-position="6" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
            <meta content="6" itemprop="position">
-            <a class="visual" data-target-id="bbd2fef8e5d63c0c83ac5df61bea7ac6" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-15/le-canada-ne-doit-pas-permettre-a-israel-d-annexer-la-cisjordanie.php" itemprop="url" title="Le Canada ne doit pas permettre à Israël d’annexer la Cisjordanie ">
+            <a class="visual" data-target-id="3a4d07189ae1376b874e2d013db6bc9e" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-17/penurie-de-logements/misons-sur-les-familles-unies.php" itemprop="url" title="Misons sur les familles unies">
              <span class="visualWrapper mostRecentCard__visual storyCard__visual">
               <picture>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/713b4e2cbc5f33eb8d6043a8150e73dc.webp" type="image/webp"/>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/713b4e2cbc5f33eb8d6043a8150e73dc.jpg" type="image/jpeg"/>
-               <img alt=" Le Canada ne doit pas permettre à Israël d’annexer la Cisjordanie " class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/713b4e2cbc5f33eb8d6043a8150e73dc.jpg"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/81ff2b4e083b30d292cfb1cfca18d943.webp" type="image/webp"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/81ff2b4e083b30d292cfb1cfca18d943.jpg" type="image/jpeg"/>
+               <img alt="Pénurie de logements Misons sur les familles unies" class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/81ff2b4e083b30d292cfb1cfca18d943.jpg"/>
               </picture>
              </span>
             </a>
@@ -3884,15 +3885,18 @@
                </a>
               </div>
              </div>
-             <a data-target-id="bbd2fef8e5d63c0c83ac5df61bea7ac6" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-15/le-canada-ne-doit-pas-permettre-a-israel-d-annexer-la-cisjordanie.php">
+             <a data-target-id="3a4d07189ae1376b874e2d013db6bc9e" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-17/penurie-de-logements/misons-sur-les-familles-unies.php">
               <div class="mostRecentCard__titleWrapper">
+               <span class="subTitle mostRecentCard__subTitle">
+                Pénurie de logements
+               </span>
                <span class="title mostRecentCard__title">
-                Le Canada ne doit pas permettre à Israël d’annexer la Cisjordanie
+                Misons sur les familles unies
                </span>
               </div>
              </a>
              <p class="articleDetail__lead mostRecentCard__lead">
-              Dans une lettre adressée au premier ministre Mark Carney, près de 200 anciens diplomates canadiens expriment leurs vives préoccupations relatives à l’expansion de la colonisation israélienne en Cisjordanie et la persistance du conflit au Liban. Ils demandent à Ottawa de prendre des mesures pour contraindre Tel-Aviv à respecter le droit international.
+              Martin Lépine estime qu’une des solutions au manque de logements est de mettre en place les conditions pour que plusieurs personnes soient heureuses en demeurant sous un même toit.
              </p>
             </div>
             <div class="storyCard__publicationDates datewrapper">
@@ -3900,7 +3904,7 @@
               <span class="created">
                Publié le
                <time class="publicationsDate--type-publication">
-                15 mai
+                17 mai
                </time>
               </span>
              </div>
@@ -3911,12 +3915,12 @@
          <li class="mostRecentList__listItem">
           <div class="adsWrapper greyLineToppedBox">
            <div class="adSpotBlock wrapCenter pageBox adSpotBlock--pageView-desktop">
-            <div class="slotWrapper adSpotBlock__slotWrapper" id="ad6a0bae026d038-slotWrapper">
-             <div class="adSlot adSpotBlock__slotInner" id="ad6a0bae026d038-adSlotLppos">
+            <div class="slotWrapper adSpotBlock__slotWrapper" id="ad6a0d0bfb88981-slotWrapper">
+             <div class="adSlot adSpotBlock__slotInner" id="ad6a0d0bfb88981-adSlotLppos">
              </div>
-             <script data-ads-meta="" data-name="ad6a0bae026d038-adSlotLppos">
+             <script data-ads-meta="" data-name="ad6a0d0bfb88981-adSlotLppos">
               (function () {
-                var slotName = "ad6a0bae026d038-adSlotLppos";
+                var slotName = "ad6a0d0bfb88981-adSlotLppos";
                 var dimensions = {"lg":["fluid",[634,125],[634,150],[634,180],[634,200],[634,634],[634,400],[728,90],[728,200]],"mobile":["fluid",[300,250],[300,600],[300,50],[300,100],[320,50]]};
                 var pageBlock = "recents";
                 const IS_MOBILE = window.innerWidth < 1024;
@@ -4130,12 +4134,12 @@
          <li class="mostRecentList__listItem">
           <article class="storyCard storyCard--position-7 storyCard--section-DIA card DIA mostRecentCard" data-position="7" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
            <meta content="7" itemprop="position">
-            <a class="visual" data-target-id="e115a68dd7143694ae51ab8616644404" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-15/deploiement-du-dossier-sante-numerique/une-veritable-epreuve-de-leadership.php" itemprop="url" title="Une véritable épreuve de leadership">
+            <a class="visual" data-target-id="4c690f67c32c3aeb86bab3ace94dfb92" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-17/chauffeurs-inc/quand-le-doute-plane-sur-l-impartialite.php" itemprop="url" title="Quand le doute plane sur l’impartialité…">
              <span class="visualWrapper mostRecentCard__visual storyCard__visual">
               <picture>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/f375694022e73739a0fdc4d3c593550f.webp" type="image/webp"/>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/f375694022e73739a0fdc4d3c593550f.jpg" type="image/jpeg"/>
-               <img alt="Déploiement du Dossier santé numérique Une véritable épreuve de leadership" class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/f375694022e73739a0fdc4d3c593550f.jpg"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/f7654562c4253cbd992d4c88a38b15e3.webp" type="image/webp"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/f7654562c4253cbd992d4c88a38b15e3.jpg" type="image/jpeg"/>
+               <img alt="Chauffeurs inc. Quand le doute plane sur l’impartialité…" class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/f7654562c4253cbd992d4c88a38b15e3.jpg"/>
               </picture>
              </span>
             </a>
@@ -4147,18 +4151,18 @@
                </a>
               </div>
              </div>
-             <a data-target-id="e115a68dd7143694ae51ab8616644404" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-15/deploiement-du-dossier-sante-numerique/une-veritable-epreuve-de-leadership.php">
+             <a data-target-id="4c690f67c32c3aeb86bab3ace94dfb92" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-17/chauffeurs-inc/quand-le-doute-plane-sur-l-impartialite.php">
               <div class="mostRecentCard__titleWrapper">
                <span class="subTitle mostRecentCard__subTitle">
-                Déploiement du Dossier santé numérique
+                Chauffeurs inc.
                </span>
                <span class="title mostRecentCard__title">
-                Une véritable épreuve de leadership
+                Quand le doute plane sur l’impartialité…
                </span>
               </div>
              </a>
              <p class="articleDetail__lead mostRecentCard__lead">
-              Il est normal que des turbulences surviennent lors d’un grand déploiement, explique Guy Paré.
+              Trois femmes dont les vies ont été changées à jamais à la suite de collisions provoquées par des poids lourds se demandent si leurs témoignages devant un comité parlementaire qui étudie le phénomène des chauffeurs au rabais ont été vraiment entendus.
              </p>
             </div>
             <div class="storyCard__publicationDates datewrapper">
@@ -4166,7 +4170,7 @@
               <span class="created">
                Publié le
                <time class="publicationsDate--type-publication">
-                15 mai
+                17 mai
                </time>
               </span>
              </div>
@@ -4177,12 +4181,12 @@
          <li class="mostRecentList__listItem">
           <article class="storyCard storyCard--position-8 storyCard--section-DIA card DIA mostRecentCard" data-position="8" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
            <meta content="8" itemprop="position">
-            <a class="visual" data-target-id="8729c3bcb08035be9f4254d091038a8c" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-15/agriculture/travailleurs-temporaires-apport-permanent.php" itemprop="url" title="Travailleurs temporaires, apport permanent">
+            <a class="visual" data-target-id="768b796321bc3516b914c1719507618e" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-16/la-nouvelle-taxe-orange.php" itemprop="url" title="La nouvelle taxe orange">
              <span class="visualWrapper mostRecentCard__visual storyCard__visual">
               <picture>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/35900efc069f3e648a43540023995b07.webp" type="image/webp"/>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/35900efc069f3e648a43540023995b07.jpg" type="image/jpeg"/>
-               <img alt="Agriculture Travailleurs temporaires, apport permanent" class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/35900efc069f3e648a43540023995b07.jpg"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/cbc1409b8d4b32d8a2200adbbc941bef.webp" type="image/webp"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/cbc1409b8d4b32d8a2200adbbc941bef.jpg" type="image/jpeg"/>
+               <img alt=" La nouvelle taxe orange" class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/cbc1409b8d4b32d8a2200adbbc941bef.jpg"/>
               </picture>
              </span>
             </a>
@@ -4194,18 +4198,106 @@
                </a>
               </div>
              </div>
-             <a data-target-id="8729c3bcb08035be9f4254d091038a8c" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-15/agriculture/travailleurs-temporaires-apport-permanent.php">
+             <a data-target-id="768b796321bc3516b914c1719507618e" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-16/la-nouvelle-taxe-orange.php">
               <div class="mostRecentCard__titleWrapper">
-               <span class="subTitle mostRecentCard__subTitle">
-                Agriculture
-               </span>
                <span class="title mostRecentCard__title">
-                Travailleurs temporaires, apport permanent
+                La nouvelle taxe orange
                </span>
               </div>
              </a>
              <p class="articleDetail__lead mostRecentCard__lead">
-              Des productrices et producteurs agricoles souhaitent mettre en valeur le travail de ceux qui permettent à bien des fermes de survivre.
+              Daniel Dufort fait valoir que l’argent investi par les personnes dites riches, loin de dormir, crée des emplois et contribue à la recherche de produits innovants.
+             </p>
+            </div>
+            <div class="storyCard__publicationDates datewrapper">
+             <div class="dates">
+              <span class="created">
+               Publié le
+               <time class="publicationsDate--type-publication">
+                16 mai
+               </time>
+              </span>
+             </div>
+            </div>
+           </meta>
+          </article>
+         </li>
+         <li class="mostRecentList__listItem">
+          <article class="storyCard storyCard--position-9 storyCard--section-DIA card DIA mostRecentCard" data-position="9" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+           <meta content="9" itemprop="position">
+            <a class="visual" data-target-id="63f13f2256c030a09b55b829e9ac7159" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-16/l-ia-au-secondaire/eloge-d-une-lenteur-calculee.php" itemprop="url" title="Éloge d’une lenteur calculée ">
+             <span class="visualWrapper mostRecentCard__visual storyCard__visual">
+              <picture>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/0c3ad5c5287a374cbf95adc7e6a19c6b.webp" type="image/webp"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/0c3ad5c5287a374cbf95adc7e6a19c6b.jpg" type="image/jpeg"/>
+               <img alt="L’IA au secondaire Éloge d’une lenteur calculée " class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/0c3ad5c5287a374cbf95adc7e6a19c6b.jpg"/>
+              </picture>
+             </span>
+            </a>
+            <div class="articleDetail mostRecentCard__detail">
+             <div class="storyCard__badgeCollection">
+              <div class="badgeCollection">
+               <a class="badge badge--section-DIA" data-target-id="294" data-target-type="section" href="/dialogue/opinions/">
+                Opinions
+               </a>
+              </div>
+             </div>
+             <a data-target-id="63f13f2256c030a09b55b829e9ac7159" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-16/l-ia-au-secondaire/eloge-d-une-lenteur-calculee.php">
+              <div class="mostRecentCard__titleWrapper">
+               <span class="subTitle mostRecentCard__subTitle">
+                L’IA au secondaire
+               </span>
+               <span class="title mostRecentCard__title">
+                Éloge d’une lenteur calculée
+               </span>
+              </div>
+             </a>
+             <p class="articleDetail__lead mostRecentCard__lead">
+              Marie-Luce Leclerc propose de former des esprits avant de former des utilisateurs de l’intelligence artificielle.
+             </p>
+            </div>
+            <div class="storyCard__publicationDates datewrapper">
+             <div class="dates">
+              <span class="created">
+               Publié le
+               <time class="publicationsDate--type-publication">
+                16 mai
+               </time>
+              </span>
+             </div>
+            </div>
+           </meta>
+          </article>
+         </li>
+         <li class="mostRecentList__listItem">
+          <article class="storyCard storyCard--position-10 storyCard--section-DIA card DIA mostRecentCard" data-position="10" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
+           <meta content="10" itemprop="position">
+            <a class="visual" data-target-id="bbd2fef8e5d63c0c83ac5df61bea7ac6" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-15/le-canada-ne-doit-pas-permettre-a-israel-d-annexer-la-cisjordanie.php" itemprop="url" title="Le Canada ne doit pas permettre à Israël d’annexer la Cisjordanie ">
+             <span class="visualWrapper mostRecentCard__visual storyCard__visual">
+              <picture>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/713b4e2cbc5f33eb8d6043a8150e73dc.webp" type="image/webp"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/713b4e2cbc5f33eb8d6043a8150e73dc.jpg" type="image/jpeg"/>
+               <img alt=" Le Canada ne doit pas permettre à Israël d’annexer la Cisjordanie " class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/713b4e2cbc5f33eb8d6043a8150e73dc.jpg"/>
+              </picture>
+             </span>
+            </a>
+            <div class="articleDetail mostRecentCard__detail">
+             <div class="storyCard__badgeCollection">
+              <div class="badgeCollection">
+               <a class="badge badge--section-DIA" data-target-id="294" data-target-type="section" href="/dialogue/opinions/">
+                Opinions
+               </a>
+              </div>
+             </div>
+             <a data-target-id="bbd2fef8e5d63c0c83ac5df61bea7ac6" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-15/le-canada-ne-doit-pas-permettre-a-israel-d-annexer-la-cisjordanie.php">
+              <div class="mostRecentCard__titleWrapper">
+               <span class="title mostRecentCard__title">
+                Le Canada ne doit pas permettre à Israël d’annexer la Cisjordanie
+               </span>
+              </div>
+             </a>
+             <p class="articleDetail__lead mostRecentCard__lead">
+              Dans une lettre adressée au premier ministre Mark Carney, près de 200 anciens diplomates canadiens expriment leurs vives préoccupations relatives à l’expansion de la colonisation israélienne en Cisjordanie et la persistance du conflit au Liban. Ils demandent à Ottawa de prendre des mesures pour contraindre Tel-Aviv à respecter le droit international.
              </p>
             </div>
             <div class="storyCard__publicationDates datewrapper">
@@ -4222,102 +4314,14 @@
           </article>
          </li>
          <li class="mostRecentList__listItem">
-          <article class="storyCard storyCard--position-9 storyCard--section-DIA card DIA mostRecentCard" data-position="9" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
-           <meta content="9" itemprop="position">
-            <a class="visual" data-target-id="4b59810eba773a79b2ac338ebf52d31d" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-14/les-anglophones-doivent-aussi-proteger-le-francais.php" itemprop="url" title="Les anglophones doivent aussi protéger le français">
-             <span class="visualWrapper mostRecentCard__visual storyCard__visual">
-              <picture>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/bb290414d5ce367eaf5b0ee6573214c3.webp" type="image/webp"/>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/bb290414d5ce367eaf5b0ee6573214c3.jpg" type="image/jpeg"/>
-               <img alt=" Les anglophones doivent aussi protéger le français" class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/bb290414d5ce367eaf5b0ee6573214c3.jpg"/>
-              </picture>
-             </span>
-            </a>
-            <div class="articleDetail mostRecentCard__detail">
-             <div class="storyCard__badgeCollection">
-              <div class="badgeCollection">
-               <a class="badge badge--section-DIA" data-target-id="294" data-target-type="section" href="/dialogue/opinions/">
-                Opinions
-               </a>
-              </div>
-             </div>
-             <a data-target-id="4b59810eba773a79b2ac338ebf52d31d" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-14/les-anglophones-doivent-aussi-proteger-le-francais.php">
-              <div class="mostRecentCard__titleWrapper">
-               <span class="title mostRecentCard__title">
-                Les anglophones doivent aussi protéger le français
-               </span>
-              </div>
-             </a>
-             <p class="articleDetail__lead mostRecentCard__lead">
-              En matière de vivre-ensemble linguistique, la balle est aussi dans la cour des leaders d’opinion de la communauté anglophone, estime Mario Polèse.
-             </p>
-            </div>
-            <div class="storyCard__publicationDates datewrapper">
-             <div class="dates">
-              <span class="created">
-               Publié le
-               <time class="publicationsDate--type-publication">
-                14 mai
-               </time>
-              </span>
-             </div>
-            </div>
-           </meta>
-          </article>
-         </li>
-         <li class="mostRecentList__listItem">
-          <article class="storyCard storyCard--position-10 storyCard--section-DIA card DIA mostRecentCard" data-position="10" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
-           <meta content="10" itemprop="position">
-            <a class="visual" data-target-id="8286410e8d553da2be00e93e4455954a" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-14/le-quebec-peut-encore-viser-la-carboneutralite.php" itemprop="url" title="Le Québec peut encore viser la carboneutralité ">
-             <span class="visualWrapper mostRecentCard__visual storyCard__visual">
-              <picture>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/747de1ae71cf3efca1ad882f66eb5d90.webp" type="image/webp"/>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/747de1ae71cf3efca1ad882f66eb5d90.jpg" type="image/jpeg"/>
-               <img alt=" Le Québec peut encore viser la carboneutralité " class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/747de1ae71cf3efca1ad882f66eb5d90.jpg"/>
-              </picture>
-             </span>
-            </a>
-            <div class="articleDetail mostRecentCard__detail">
-             <div class="storyCard__badgeCollection">
-              <div class="badgeCollection">
-               <a class="badge badge--section-DIA" data-target-id="294" data-target-type="section" href="/dialogue/opinions/">
-                Opinions
-               </a>
-              </div>
-             </div>
-             <a data-target-id="8286410e8d553da2be00e93e4455954a" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-14/le-quebec-peut-encore-viser-la-carboneutralite.php">
-              <div class="mostRecentCard__titleWrapper">
-               <span class="title mostRecentCard__title">
-                Le Québec peut encore viser la carboneutralité
-               </span>
-              </div>
-             </a>
-             <p class="articleDetail__lead mostRecentCard__lead">
-              En remédiant à l’inertie institutionnelle, le prochain gouvernement a encore la possibilité de réussir la transition énergétique de la province, estiment les auteurs.
-             </p>
-            </div>
-            <div class="storyCard__publicationDates datewrapper">
-             <div class="dates">
-              <span class="created">
-               Publié le
-               <time class="publicationsDate--type-publication">
-                14 mai
-               </time>
-              </span>
-             </div>
-            </div>
-           </meta>
-          </article>
-         </li>
-         <li class="mostRecentList__listItem">
           <div class="adsWrapper greyLineToppedBox">
            <div class="adSpotBlock wrapCenter pageBox adSpotBlock--pageView-desktop">
-            <div class="slotWrapper adSpotBlock__slotWrapper" id="ad6a0bae026dab9-slotWrapper">
-             <div class="adSlot adSpotBlock__slotInner" id="ad6a0bae026dab9-adSlotLppos">
+            <div class="slotWrapper adSpotBlock__slotWrapper" id="ad6a0d0bfb894ae-slotWrapper">
+             <div class="adSlot adSpotBlock__slotInner" id="ad6a0d0bfb894ae-adSlotLppos">
              </div>
-             <script data-ads-meta="" data-name="ad6a0bae026dab9-adSlotLppos">
+             <script data-ads-meta="" data-name="ad6a0d0bfb894ae-adSlotLppos">
               (function () {
-                var slotName = "ad6a0bae026dab9-adSlotLppos";
+                var slotName = "ad6a0d0bfb894ae-adSlotLppos";
                 var dimensions = {"lg":["fluid",[634,125],[634,150],[634,180],[634,200],[634,634],[634,400],[728,90],[728,200]],"mobile":["fluid",[300,250],[300,600],[300,50],[300,100],[320,50]]};
                 var pageBlock = "recents";
                 const IS_MOBILE = window.innerWidth < 1024;
@@ -4531,12 +4535,12 @@
          <li class="mostRecentList__listItem">
           <article class="storyCard storyCard--position-11 storyCard--section-DIA card DIA mostRecentCard" data-position="11" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
            <meta content="11" itemprop="position">
-            <a class="visual" data-target-id="530748ea37953d0cad632c91af3def14" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-14/pauvrete/le-quebec-a-les-moyens-de-repondre-aux-besoins-des-moins-nantis.php" itemprop="url" title="Le Québec a les moyens de répondre aux besoins des moins nantis">
+            <a class="visual" data-target-id="e115a68dd7143694ae51ab8616644404" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-15/deploiement-du-dossier-sante-numerique/une-veritable-epreuve-de-leadership.php" itemprop="url" title="Une véritable épreuve de leadership">
              <span class="visualWrapper mostRecentCard__visual storyCard__visual">
               <picture>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/45d85249f0263249a76799591a013414.webp" type="image/webp"/>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/45d85249f0263249a76799591a013414.jpg" type="image/jpeg"/>
-               <img alt="Pauvreté Le Québec a les moyens de répondre aux besoins des moins nantis" class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/45d85249f0263249a76799591a013414.jpg"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/f375694022e73739a0fdc4d3c593550f.webp" type="image/webp"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/f375694022e73739a0fdc4d3c593550f.jpg" type="image/jpeg"/>
+               <img alt="Déploiement du Dossier santé numérique Une véritable épreuve de leadership" class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/f375694022e73739a0fdc4d3c593550f.jpg"/>
               </picture>
              </span>
             </a>
@@ -4548,18 +4552,18 @@
                </a>
               </div>
              </div>
-             <a data-target-id="530748ea37953d0cad632c91af3def14" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-14/pauvrete/le-quebec-a-les-moyens-de-repondre-aux-besoins-des-moins-nantis.php">
+             <a data-target-id="e115a68dd7143694ae51ab8616644404" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-15/deploiement-du-dossier-sante-numerique/une-veritable-epreuve-de-leadership.php">
               <div class="mostRecentCard__titleWrapper">
                <span class="subTitle mostRecentCard__subTitle">
-                Pauvreté
+                Déploiement du Dossier santé numérique
                </span>
                <span class="title mostRecentCard__title">
-                Le Québec a les moyens de répondre aux besoins des moins nantis
+                Une véritable épreuve de leadership
                </span>
               </div>
              </a>
              <p class="articleDetail__lead mostRecentCard__lead">
-              Au Québec, trop de gens n’ont pas les moyens de vivre décemment, mais une meilleure répartition de la richesse permettrait de combler leurs besoins, écrivent les auteurs.
+              Il est normal que des turbulences surviennent lors d’un grand déploiement, explique Guy Paré.
              </p>
             </div>
             <div class="storyCard__publicationDates datewrapper">
@@ -4567,7 +4571,7 @@
               <span class="created">
                Publié le
                <time class="publicationsDate--type-publication">
-                14 mai
+                15 mai
                </time>
               </span>
              </div>
@@ -4578,12 +4582,12 @@
          <li class="mostRecentList__listItem">
           <article class="storyCard storyCard--position-12 storyCard--section-DIA card DIA mostRecentCard" data-position="12" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
            <meta content="12" itemprop="position">
-            <a class="visual" data-target-id="900e12cd18f63f53acdf8909e9cec5f0" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-14/l-ia-au-quotidien/la-technologie-pourrait-elle-nous-rapprocher.php" itemprop="url" title="La technologie pourrait-elle nous rapprocher ?">
+            <a class="visual" data-target-id="8729c3bcb08035be9f4254d091038a8c" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-15/agriculture/travailleurs-temporaires-apport-permanent.php" itemprop="url" title="Travailleurs temporaires, apport permanent">
              <span class="visualWrapper mostRecentCard__visual storyCard__visual">
               <picture>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/db2cbd6928433db0ab1710a011ef508e.webp" type="image/webp"/>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/db2cbd6928433db0ab1710a011ef508e.jpg" type="image/jpeg"/>
-               <img alt="L’IA au quotidien La technologie pourrait-elle nous rapprocher ?" class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/db2cbd6928433db0ab1710a011ef508e.jpg"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/35900efc069f3e648a43540023995b07.webp" type="image/webp"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/35900efc069f3e648a43540023995b07.jpg" type="image/jpeg"/>
+               <img alt="Agriculture Travailleurs temporaires, apport permanent" class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/35900efc069f3e648a43540023995b07.jpg"/>
               </picture>
              </span>
             </a>
@@ -4595,18 +4599,18 @@
                </a>
               </div>
              </div>
-             <a data-target-id="900e12cd18f63f53acdf8909e9cec5f0" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-14/l-ia-au-quotidien/la-technologie-pourrait-elle-nous-rapprocher.php">
+             <a data-target-id="8729c3bcb08035be9f4254d091038a8c" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-15/agriculture/travailleurs-temporaires-apport-permanent.php">
               <div class="mostRecentCard__titleWrapper">
                <span class="subTitle mostRecentCard__subTitle">
-                L’IA au quotidien
+                Agriculture
                </span>
                <span class="title mostRecentCard__title">
-                La technologie pourrait-elle nous rapprocher ?
+                Travailleurs temporaires, apport permanent
                </span>
               </div>
              </a>
              <p class="articleDetail__lead mostRecentCard__lead">
-              Un bon outil d’intelligence artificielle (IA) devrait nous pousser à tisser des liens avec d’autres humains plutôt que de se faire passer pour une vraie présence, plaide l’auteur, qui raconte une tranche de vie qui lui a rappelé l’importance de solides relations sociales.
+              Des productrices et producteurs agricoles souhaitent mettre en valeur le travail de ceux qui permettent à bien des fermes de survivre.
              </p>
             </div>
             <div class="storyCard__publicationDates datewrapper">
@@ -4614,7 +4618,7 @@
               <span class="created">
                Publié le
                <time class="publicationsDate--type-publication">
-                14 mai
+                15 mai
                </time>
               </span>
              </div>
@@ -4625,12 +4629,12 @@
          <li class="mostRecentList__listItem">
           <article class="storyCard storyCard--position-13 storyCard--section-DIA card DIA mostRecentCard" data-position="13" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
            <meta content="13" itemprop="position">
-            <a class="visual" data-target-id="066275c43e7d35c99c730b503a16dac4" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-14/nouvelle-ligne-d-hydro-quebec-vers-new-york/vert-vous-dites.php" itemprop="url" title="« Vert », vous dites ?">
+            <a class="visual" data-target-id="4b59810eba773a79b2ac338ebf52d31d" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-14/les-anglophones-doivent-aussi-proteger-le-francais.php" itemprop="url" title="Les anglophones doivent aussi protéger le français">
              <span class="visualWrapper mostRecentCard__visual storyCard__visual">
               <picture>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/dca64963afe23cefa56405b4771291d1.webp" type="image/webp"/>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/dca64963afe23cefa56405b4771291d1.jpg" type="image/jpeg"/>
-               <img alt="Nouvelle ligne d’Hydro-Québec vers New York « Vert », vous dites ?" class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/dca64963afe23cefa56405b4771291d1.jpg"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/bb290414d5ce367eaf5b0ee6573214c3.webp" type="image/webp"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/bb290414d5ce367eaf5b0ee6573214c3.jpg" type="image/jpeg"/>
+               <img alt=" Les anglophones doivent aussi protéger le français" class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/bb290414d5ce367eaf5b0ee6573214c3.jpg"/>
               </picture>
              </span>
             </a>
@@ -4642,18 +4646,15 @@
                </a>
               </div>
              </div>
-             <a data-target-id="066275c43e7d35c99c730b503a16dac4" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-14/nouvelle-ligne-d-hydro-quebec-vers-new-york/vert-vous-dites.php">
+             <a data-target-id="4b59810eba773a79b2ac338ebf52d31d" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-14/les-anglophones-doivent-aussi-proteger-le-francais.php">
               <div class="mostRecentCard__titleWrapper">
-               <span class="subTitle mostRecentCard__subTitle">
-                Nouvelle ligne d’Hydro-Québec vers New York
-               </span>
                <span class="title mostRecentCard__title">
-                « Vert », vous dites ?
+                Les anglophones doivent aussi protéger le français
                </span>
               </div>
              </a>
              <p class="articleDetail__lead mostRecentCard__lead">
-              Un projet peut-il vraiment être « propre et renouvelable » s’il n’est pas équitable ? C’est la question que posent les autrices, qui dénoncent ce qu’elles nomment la face cachée de la ligne d’interconnexion Hertel-New York.
+              En matière de vivre-ensemble linguistique, la balle est aussi dans la cour des leaders d’opinion de la communauté anglophone, estime Mario Polèse.
              </p>
             </div>
             <div class="storyCard__publicationDates datewrapper">
@@ -4672,12 +4673,12 @@
          <li class="mostRecentList__listItem">
           <article class="storyCard storyCard--position-14 storyCard--section-DIA card DIA mostRecentCard" data-position="14" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
            <meta content="14" itemprop="position">
-            <a class="visual" data-target-id="7195afeb666e37449ee78d6141ee311e" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-13/le-canada-prend-il-la-lutte-contre-le-travail-force-au-serieux.php" itemprop="url" title="Le Canada prend-il la lutte contre le travail forcé au sérieux ?">
+            <a class="visual" data-target-id="8286410e8d553da2be00e93e4455954a" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-14/le-quebec-peut-encore-viser-la-carboneutralite.php" itemprop="url" title="Le Québec peut encore viser la carboneutralité ">
              <span class="visualWrapper mostRecentCard__visual storyCard__visual">
               <picture>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/bdac99e0e5063abfaabf3563dca496c5.webp" type="image/webp"/>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/bdac99e0e5063abfaabf3563dca496c5.jpg" type="image/jpeg"/>
-               <img alt=" Le Canada prend-il la lutte contre le travail forcé au sérieux ?" class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/bdac99e0e5063abfaabf3563dca496c5.jpg"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/747de1ae71cf3efca1ad882f66eb5d90.webp" type="image/webp"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/747de1ae71cf3efca1ad882f66eb5d90.jpg" type="image/jpeg"/>
+               <img alt=" Le Québec peut encore viser la carboneutralité " class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/747de1ae71cf3efca1ad882f66eb5d90.jpg"/>
               </picture>
              </span>
             </a>
@@ -4689,15 +4690,15 @@
                </a>
               </div>
              </div>
-             <a data-target-id="7195afeb666e37449ee78d6141ee311e" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-13/le-canada-prend-il-la-lutte-contre-le-travail-force-au-serieux.php">
+             <a data-target-id="8286410e8d553da2be00e93e4455954a" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-14/le-quebec-peut-encore-viser-la-carboneutralite.php">
               <div class="mostRecentCard__titleWrapper">
                <span class="title mostRecentCard__title">
-                Le Canada prend-il la lutte contre le travail forcé au sérieux ?
+                Le Québec peut encore viser la carboneutralité
                </span>
               </div>
              </a>
              <p class="articleDetail__lead mostRecentCard__lead">
-              L’absence de dirigeant permanent au Bureau de l’ombudsman canadien de la responsabilité des entreprises sème le doute sur la volonté du gouvernement, estiment les cosignataires.
+              En remédiant à l’inertie institutionnelle, le prochain gouvernement a encore la possibilité de réussir la transition énergétique de la province, estiment les auteurs.
              </p>
             </div>
             <div class="storyCard__publicationDates datewrapper">
@@ -4705,7 +4706,7 @@
               <span class="created">
                Publié le
                <time class="publicationsDate--type-publication">
-                13 mai
+                14 mai
                </time>
               </span>
              </div>
@@ -4716,12 +4717,12 @@
          <li class="mostRecentList__listItem">
           <div class="adsWrapper greyLineToppedBox">
            <div class="adSpotBlock wrapCenter pageBox adSpotBlock--pageView-desktop">
-            <div class="slotWrapper adSpotBlock__slotWrapper" id="ad6a0bae026e724-slotWrapper">
-             <div class="adSlot adSpotBlock__slotInner" id="ad6a0bae026e724-adSlotLppos">
+            <div class="slotWrapper adSpotBlock__slotWrapper" id="ad6a0d0bfb89f05-slotWrapper">
+             <div class="adSlot adSpotBlock__slotInner" id="ad6a0d0bfb89f05-adSlotLppos">
              </div>
-             <script data-ads-meta="" data-name="ad6a0bae026e724-adSlotLppos">
+             <script data-ads-meta="" data-name="ad6a0d0bfb89f05-adSlotLppos">
               (function () {
-                var slotName = "ad6a0bae026e724-adSlotLppos";
+                var slotName = "ad6a0d0bfb89f05-adSlotLppos";
                 var dimensions = {"lg":["fluid",[634,125],[634,150],[634,180],[634,200],[634,634],[634,400],[728,90],[728,200]],"mobile":["fluid",[300,250],[300,600],[300,50],[300,100],[320,50]]};
                 var pageBlock = "recents";
                 const IS_MOBILE = window.innerWidth < 1024;
@@ -4935,12 +4936,12 @@
          <li class="mostRecentList__listItem">
           <article class="storyCard storyCard--position-15 storyCard--section-DIA card DIA mostRecentCard" data-position="15" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
            <meta content="15" itemprop="position">
-            <a class="visual" data-target-id="e7aebe86d9cd360e807589ca158d671b" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-13/requiem-pour-une-guillotine.php" itemprop="url" title="Requiem pour une guillotine">
+            <a class="visual" data-target-id="530748ea37953d0cad632c91af3def14" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-14/pauvrete/le-quebec-a-les-moyens-de-repondre-aux-besoins-des-moins-nantis.php" itemprop="url" title="Le Québec a les moyens de répondre aux besoins des moins nantis">
              <span class="visualWrapper mostRecentCard__visual storyCard__visual">
               <picture>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/affbebee16113332a7bce1128ec32c65.webp" type="image/webp"/>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/affbebee16113332a7bce1128ec32c65.jpg" type="image/jpeg"/>
-               <img alt=" Requiem pour une guillotine" class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/affbebee16113332a7bce1128ec32c65.jpg"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/45d85249f0263249a76799591a013414.webp" type="image/webp"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/45d85249f0263249a76799591a013414.jpg" type="image/jpeg"/>
+               <img alt="Pauvreté Le Québec a les moyens de répondre aux besoins des moins nantis" class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/45d85249f0263249a76799591a013414.jpg"/>
               </picture>
              </span>
             </a>
@@ -4952,15 +4953,18 @@
                </a>
               </div>
              </div>
-             <a data-target-id="e7aebe86d9cd360e807589ca158d671b" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-13/requiem-pour-une-guillotine.php">
+             <a data-target-id="530748ea37953d0cad632c91af3def14" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-14/pauvrete/le-quebec-a-les-moyens-de-repondre-aux-besoins-des-moins-nantis.php">
               <div class="mostRecentCard__titleWrapper">
+               <span class="subTitle mostRecentCard__subTitle">
+                Pauvreté
+               </span>
                <span class="title mostRecentCard__title">
-                Requiem pour une guillotine
+                Le Québec a les moyens de répondre aux besoins des moins nantis
                </span>
               </div>
              </a>
              <p class="articleDetail__lead mostRecentCard__lead">
-              Nathan Murray démontre que l’exécution par effigie fait partie des rituels populaires depuis des siècles.
+              Au Québec, trop de gens n’ont pas les moyens de vivre décemment, mais une meilleure répartition de la richesse permettrait de combler leurs besoins, écrivent les auteurs.
              </p>
             </div>
             <div class="storyCard__publicationDates datewrapper">
@@ -4968,7 +4972,7 @@
               <span class="created">
                Publié le
                <time class="publicationsDate--type-publication">
-                13 mai
+                14 mai
                </time>
               </span>
              </div>
@@ -4979,12 +4983,12 @@
          <li class="mostRecentList__listItem">
           <article class="storyCard storyCard--position-16 storyCard--section-DIA card DIA mostRecentCard" data-position="16" itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem">
            <meta content="16" itemprop="position">
-            <a class="visual" data-target-id="ff10bd57dc47390599b92bd2d2470a43" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-12/notre-science-pour-soutenir-notre-avenir.php" itemprop="url" title="Notre science pour soutenir notre avenir">
+            <a class="visual" data-target-id="900e12cd18f63f53acdf8909e9cec5f0" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-14/l-ia-au-quotidien/la-technologie-pourrait-elle-nous-rapprocher.php" itemprop="url" title="La technologie pourrait-elle nous rapprocher ?">
              <span class="visualWrapper mostRecentCard__visual storyCard__visual">
               <picture>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/4f3f6ce63bc4398b8140c7685c15d1d7.webp" type="image/webp"/>
-               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/4f3f6ce63bc4398b8140c7685c15d1d7.jpg" type="image/jpeg"/>
-               <img alt=" Notre science pour soutenir notre avenir" class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/4f3f6ce63bc4398b8140c7685c15d1d7.jpg"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/db2cbd6928433db0ab1710a011ef508e.webp" type="image/webp"/>
+               <source srcset="https://mobile-img.lpcdn.ca/v2/357x/r3996/db2cbd6928433db0ab1710a011ef508e.jpg" type="image/jpeg"/>
+               <img alt="L’IA au quotidien La technologie pourrait-elle nous rapprocher ?" class="storyCard__image" itemprop="image" loading="lazy" src="https://mobile-img.lpcdn.ca/v2/357x/r3996/db2cbd6928433db0ab1710a011ef508e.jpg"/>
               </picture>
              </span>
             </a>
@@ -4996,19 +5000,18 @@
                </a>
               </div>
              </div>
-             <a data-target-id="ff10bd57dc47390599b92bd2d2470a43" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-12/notre-science-pour-soutenir-notre-avenir.php">
+             <a data-target-id="900e12cd18f63f53acdf8909e9cec5f0" data-target-type="story" href="https://www.lapresse.ca/dialogue/opinions/2026-05-14/l-ia-au-quotidien/la-technologie-pourrait-elle-nous-rapprocher.php">
               <div class="mostRecentCard__titleWrapper">
+               <span class="subTitle mostRecentCard__subTitle">
+                L’IA au quotidien
+               </span>
                <span class="title mostRecentCard__title">
-                Notre science pour soutenir notre avenir
+                La technologie pourrait-elle nous rapprocher ?
                </span>
               </div>
              </a>
              <p class="articleDetail__lead mostRecentCard__lead">
-              Cette semaine à l’Université du Québec à Trois-Rivières a lieu le 93
-              <sup>
-               e
-              </sup>
-              congrès de l’Acfas, le plus grand congrès scientifique multidisciplinaire en français dans le monde. C’est beaucoup plus qu’une affaire d’universitaires.
+              Un bon outil d’intelligence artificielle (IA) devrait nous pousser à tisser des liens avec d’autres humains plutôt que de se faire passer pour une vraie présence, plaide l’auteur, qui raconte une tranche de vie qui lui a rappelé l’importance de solides relations sociales.
              </p>
             </div>
             <div class="storyCard__publicationDates datewrapper">
@@ -5016,7 +5019,7 @@
               <span class="created">
                Publié le
                <time class="publicationsDate--type-publication">
-                12 mai
+                14 mai
                </time>
               </span>
              </div>

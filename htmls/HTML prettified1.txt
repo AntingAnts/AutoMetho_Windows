@@ -88,8 +88,8 @@
           </script>
           <script crossorigin="anonymous" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" src="//cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js">
           </script>
-          <meta content="https://media2.ledevoir.com/image/874345.jpg?crop=3%3A2%2Csmart&amp;width=1600&amp;ts=1746120027" property="og:image"/>
-          <link href="https://media2.ledevoir.com/image/874345.jpg?crop=3%3A2%2Csmart&amp;width=1600&amp;ts=1746120027" rel="image_src">
+          <meta content="https://media1.ledevoir.com/image/874345.jpg?crop=3%3A2%2Csmart&amp;width=1600&amp;ts=1746120027" property="og:image"/>
+          <link href="https://media1.ledevoir.com/image/874345.jpg?crop=3%3A2%2Csmart&amp;width=1600&amp;ts=1746120027" rel="image_src">
            <script src="/js/web-push.js?20250925">
            </script>
            <meta content="Il faut qu’on parle des troubles mentaux graves" property="og:title"/>
@@ -156,7 +156,7 @@
             <script async="" id="ebx" src="//applets.ebxcdn.com/ebx.js">
             </script>
             <link href="//cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet"/>
-            <link href="/css/maquette-figma-2024/main.min.css?202605120000" media="screen" rel="stylesheet"/>
+            <link href="/css/maquette-figma-2024/main.min.css?202605190001" media="screen" rel="stylesheet"/>
             <link href="/css/maquette-figma-2024/print.min.css?2025092900" media="print" rel="stylesheet"/>
            </meta>
           </link>
@@ -2153,9 +2153,9 @@ Juste envie d’en lire plus? Abonnez-vous à notre
    <div class="modal-dialog">
    </div>
   </div>
-  <script src="/js/archip/article_bundle.min.js?202605110000">
+  <script src="/js/archip/article_bundle.min.js?202605190000">
   </script>
-  <!-- 10.0.97.11-->
+  <!-- 10.0.97.13-->
   <script>
    var loginUrl = '/auth/login';
 
