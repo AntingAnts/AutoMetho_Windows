@@ -25,7 +25,7 @@
   Figure 1: <img width="972" height="470" alt="image" src="https://github.com/user-attachments/assets/0e217e1b-2784-450a-b470-ddc1db381783" />
 
   
-  Figures 2: <img width="830" height="440" alt="image" src="https://github.com/user-attachments/assets/f02b5c11-9d78-43c0-8298-e7fd954dab38" /> <img width="1190" height="425" alt="image" src="https://github.com/user-attachments/assets/abc64be0-eee5-4d68-84bf-a819c4b139ca" /> <img width="1175" height="460" alt="image" src="https://github.com/user-attachments/assets/a85c23e2-2c03-4c32-bced-4d1f51de20f1" /> <img width="1393" height="439" alt="image" src="https://github.com/user-attachments/assets/7d89d87f-9053-487f-b530-3e3390a7231a" /> <img width="835" height="790" alt="image" src="https://github.com/user-attachments/assets/2433da05-d50c-47ba-9704-793f3043a72b" />
+  Figures 2 (ne pas s'inquiéter concernant le fenêtre noir): <img width="830" height="440" alt="image" src="https://github.com/user-attachments/assets/f02b5c11-9d78-43c0-8298-e7fd954dab38" /> <img width="1190" height="425" alt="image" src="https://github.com/user-attachments/assets/abc64be0-eee5-4d68-84bf-a819c4b139ca" /> <img width="1175" height="460" alt="image" src="https://github.com/user-attachments/assets/a85c23e2-2c03-4c32-bced-4d1f51de20f1" /> <img width="1393" height="439" alt="image" src="https://github.com/user-attachments/assets/7d89d87f-9053-487f-b530-3e3390a7231a" /> <img width="835" height="790" alt="image" src="https://github.com/user-attachments/assets/2433da05-d50c-47ba-9704-793f3043a72b" />
 
 
 
